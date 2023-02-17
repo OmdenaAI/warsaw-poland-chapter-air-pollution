@@ -1,0 +1,38 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  TG1,Mean temperature unknown interval                                                                                                                     ,0.1 &#176;C    
+  TG3,Mean temperature 0-0 UT                                                                                                                               ,0.1 &#176;C    
+  TG5,Mean temperature calculated as average of TN and TX                                                                                                   ,0.1 &#176;C    
+  TG6,Mean temperature calculated as weighted average of TN, TX and observations at 06, 12 and 18 UT (5 values)                                             ,0.1 &#176;C    
+  TG7,Mean temperature calculated as average of 3 or more observations each day                                                                             ,0.1 &#176;C    
+  TG8,Mean temperature calculated as weighted average of 06, 13 and 20 (twice) UTC                                                                          ,0.1 &#176;C    
+  TG9,Mean temperature 06-06 UTC                                                                                                                            ,0.1 &#176;C    
+ TG10,Mean temperature calculated as weighted average of 07:30, 14:30 and 21:30 (twice) CET                                                                 ,0.1 &#176;C    
+ TG11,Mean temperature 18-18 UT                                                                                                                             ,0.1 &#176;C    
+ TG12,Mean temperature calculated as average of 00, 06, 12, 18 UTC                                                                                          ,0.1 &#176;C    
+ TG13,Mean temperature calculated as average of 01, 07, 13 and 19 UT                                                                                        ,0.1 &#176;C    
+ TG14,Mean temperature calculated as average of 07, 14, 21, 21 CET                                                                                          ,0.1 &#176;C    
+ TG15,Mean temperature calculated as average of 8 observations                                                                                              ,0.1 &#176;C    
+ TG16,Mean temperature calculated as average of 07, 14, 21 CET                                                                                              ,0.1 &#176;C    
+ TG17,Mean temperature calculated as average of 09 LT, 21 LT, Tmax and Tmin                                                                                 ,0.1 &#176;C    
+ TG18,Mean temperature calculated as average of 08 LT, 19 LT, Tmax and Tmin                                                                                 ,0.1 &#176;C    
+ TG19,Mean temperature calculated as average of 21, 03, 09 and 15UTC                                                                                        ,0.1 &#176;C    
+ TG20,Mean temperature calculated as average of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                        ,0.1 &#176;C    
+ TG21,Mean temperature calculated as average of 24 hourly values (0 - 0 UTC)                                                                                ,0.1 &#176;C    
+ TG22,Mean temperature calculated as average of 24 hourly values 23-22 UT                                                                                   ,0.1 &#176;C    
+ TG23,Mean temperature 0 - 0 local time (with changes to winter and summer time)                                                                            ,0.1 &#176;C    
+ TG24,Mean temperature 0-0 UT average from 96 15 min. values                                                                                                ,0.1 &#176;C    

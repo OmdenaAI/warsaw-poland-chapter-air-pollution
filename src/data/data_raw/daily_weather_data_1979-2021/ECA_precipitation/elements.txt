@@ -1,0 +1,37 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  RR1,Precipitation amount unknown interval                                                                                                                 ,0.1 mm         
+  RR2,Precipitation amount morning previous day 06,07,08,09 until morning today (shifted 1 day back by ECA staff)                                           ,0.1 mm         
+  RR3,Precipitation amount morning today 06,07,08 until morning next day                                                                                    ,0.1 mm         
+  RR4,Sum of 12-hourly precipitation of observations at 06 and 18 UT (2 values). Date of 18 UT                                                              ,0.1 mm         
+  RR5,Precipitation amount morning today 07:30 CET until morning next day                                                                                   ,0.1 mm         
+  RR6,Precipitation amount 18-18 UT (sum of 4 values)                                                                                                       ,0.1 mm         
+  RR7,Precipitation amount 0 - 0 UT                                                                                                                         ,0.1 mm         
+  RR8,Sum of 12-hourly precipitation of observations at 18 UT today and 6 UT tomorrow (2 values)                                                            ,0.1 mm         
+  RR9,Precipitation amount morning today 06:00 UTC until morning next day                                                                                   ,0.1 mm         
+ RR10,Precipitation amount within 00-24, 07-07 or 08-08                                                                                                     ,0.1 mm         
+ RR11,Precipitation amount morning today 05:40 UTC until morning following day                                                                              ,0.1 mm         
+ RR12,Precipitation amount 12 UT yesterday until 12 UT today                                                                                                ,0.1 mm         
+ RR13,Precipitation amount 22-22 or 23-23 UT                                                                                                                ,0.1 mm         
+ RR14,Precipitation amount 18 UT yesterday until 18 UT today                                                                                                ,0.1 mm         
+ RR15,Precipitation amount 21 UT yesterday until 21 UT today                                                                                                ,0.1 mm         
+ RR16,Precipitation amount 15 UTC yesterday until 15 UTC today                                                                                              ,0.1 mm         
+ RR17,Precipitation amount from 24 hourly values, 22-21 UT                                                                                                  ,0.1 mm         
+ RR18,Precipitation amount morning today 07:00 CET until morning next day                                                                                   ,0.1 mm         
+ RR19,Precipitation amount 0 - 0 local time (with changes to winter and summer time)                                                                        ,0.1 mm         
+ RR20,Precipitation amount from 12:00 pm to 12:00 pm next day in UTC                                                                                        ,0.1 mm         
+ RR21,Precipitation 0 - 0 UT sum from 96 15 min. values                                                                                                     ,0.1 mm         

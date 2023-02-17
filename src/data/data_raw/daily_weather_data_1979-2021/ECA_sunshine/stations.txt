@@ -1,0 +1,70 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+25126,KASPROWY WIERCH                         ,PL,+49:13:57,+019:58:55,1348
+25128,JELENIA GORA                            ,PL,+50:54:01,+015:47:20, 427
+25129,SNIEZKA                                 ,PL,+50:44:10,+015:44:22, 958
+25130,OPOLE                                   ,PL,+50:37:37,+017:58:08, 163
+25131,CZOSTOCHOWA                             ,PL,+50:48:45,+019:05:33, 266
+25132,KATOWICE-MUCHOWIEC                      ,PL,+50:14:26,+019:01:58, 281
+25133,KRAKOW-BALICE                           ,PL,+50:04:49,+019:48:07, 234
+25134,TARNOW                                  ,PL,+50:01:48,+020:59:04, 207
+25135,SANDOMIERZ                              ,PL,+50:41:48,+021:42:57, 143
+25136,ZAMOSC                                  ,PL,+50:41:52,+023:12:23, 258
+25138,LEGNICA                                 ,PL,+51:11:33,+016:12:27, 134
+25139,LUBLIN-RADAWIEC                         ,PL,+51:13:01,+022:23:37, 228
+25140,KOLO                                    ,PL,+52:12:01,+018:39:41, 113
+25141,PLOCK                                   ,PL,+52:35:18,+019:43:33,  87
+25142,RESKO-SMOLSKO                           ,PL,+53:46:18,+015:24:53,  66
+25145,MIKOLAJKI                               ,PL,+53:47:22,+021:35:19, 144
+25147,KOLOBRZEG-DZWIRZYNO                     ,PL,+54:09:30,+015:23:20,   1
+25148,USTKA                                   ,PL,+54:35:18,+016:51:15,  18
+25149,LEBORK                                  ,PL,+54:33:11,+017:43:25,  45
+25151,ELBLAG-MILEJEWO                         ,PL,+54:13:23,+019:32:37, 151
+ 2022,KOSZALIN                                ,PL,+54:12:16,+016:09:19,  33
+ 8943,PILA                                    ,PL,+53:07:48,+016:45:00,  72
+ 2023,KETRZYN                                 ,PL,+54:04:12,+021:22:12, 108
+ 8959,KOZIENCE                                ,PL,+51:33:53,+021:32:34, 123
+  930,BIELSKO-BIALA                           ,PL,+49:48:26,+019:00:01, 396
+ 1383,ZAKOPANE                                ,PL,+49:18:00,+019:57:00, 857
+  932,NOWY SACZ                               ,PL,+49:37:38,+020:41:19, 292
+  933,LESKO                                   ,PL,+49:27:59,+022:20:30, 420
+ 2036,KLODZKO                                 ,PL,+50:26:13,+016:36:51, 356
+  928,RACIBORZ                                ,PL,+50:03:40,+018:11:27, 206
+ 2038,KIELCE                                  ,PL,+50:48:38,+020:41:32, 260
+  207,RZESZOW JASIONKA                        ,PL,+50:06:39,+022:02:32, 206
+ 2031,ZIELONA GORA                            ,PL,+51:55:48,+015:31:29, 192
+  923,LESZNO                                  ,PL,+51:50:08,+016:32:05,  91
+  210,WROCLAW                                 ,PL,+51:06:12,+016:54:00, 120
+ 2032,KALISZ                                  ,PL,+51:43:48,+018:04:48, 140
+  924,WIELUN                                  ,PL,+51:12:37,+018:33:24, 199
+ 2033,LODZ                                    ,PL,+51:43:48,+019:24:00, 187
+  926,SULEJOW                                 ,PL,+51:21:12,+019:51:59, 188
+  927,WLODAWA                                 ,PL,+51:33:12,+023:31:46, 177
+  779,SLUBICE                                 ,PL,+52:20:55,+014:37:11,  53
+ 2029,GORZOW WLKP                             ,PL,+52:44:28,+015:16:38,  71
+  206,POZNAN                                  ,PL,+52:11:59,+018:39:37, 115
+  922,TERESPOL                                ,PL,+52:04:43,+023:37:19, 133
+  208,SZCZECIN                                ,PL,+53:23:43,+014:37:22,   1
+ 2026,CHOJNICE                                ,PL,+53:42:55,+017:31:57, 164
+ 2027,TORUN                                   ,PL,+53:02:31,+018:35:44,  69
+ 2028,MLAWA                                   ,PL,+53:06:15,+020:21:40, 147
+  204,BIALYSTOK                               ,PL,+53:06:26,+023:09:44, 148
+  205,HEL                                     ,PL,+54:36:13,+018:48:43,   1
+  396,ELBLAG                                  ,PL,+54:13:24,+019:32:37, 189

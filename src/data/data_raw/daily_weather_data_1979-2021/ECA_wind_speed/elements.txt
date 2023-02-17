@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  FG1,Average wind speed of 24 hourly measurements of 10-min average (0-0 UT)                                                                               ,0.1 m/s        
+  FG2,Average wind speed of measurements at 06, 12, 18, (00) UTC                                                                                            ,0.1 m/s        
+  FG3,Average wind speed of 3 measurements at 06.30, 13.30 and 20.30 UTC                                                                                    ,0.1 m/s        
+  FG4,Average wind speed, mean of 7, 14 and 21 CET                                                                                                          ,0.1 m/s        
+  FG5,Average wind speed 18 - 18 UT, 8 3-hourly observations                                                                                                ,0.1 m/s        
+  FG6,Average wind speed, mean of 4 10-min averages of 00, 07, 13 and 18 UT                                                                                 ,0.1 m/s        
+  FG7,Average wind speed of 24 hourly measurements (6 10-min average per hour) 0-0 UT                                                                       ,0.1 m/s        
+  FG8,Average 10-minute wind speed from 23 UT previous day - 22 UT today (24 values)                                                                        ,0.1 m/s        
+  FG9,Average from 07h to 07h through a mechanical counter                                                                                                  ,0.1 m/s        
+ FG10,Average wind speed of 24 hourly measurements of 15-min average (0-0 LT)                                                                               ,0.1 m/s        
+ FG11,wind speed at 9 AM LT                                                                                                                                 ,0.1 m/s        
+ FG12,Average wind speed of 8 measurements of 10-min average (0-0 UT)                                                                                       ,0.1 m/s        
+ FG13,Average wind speed, mean of 9, 15 and 21 LT                                                                                                           ,0.1 m/s        
+ FG14,Average wind speed, mean of 8, 14 and 19 LT                                                                                                           ,0.1 m/s        
+ FG15,Average wind speed of measurements at 21, 03, 09 and 15UTC                                                                                            ,0.1 m/s        
+ FG16,Average wind speed of measurements at 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                            ,0.1 m/s        
+ FG17,Average wind speed unknown interval                                                                                                                   ,0.1 m/s        
+ FG18,Average wind speed, mean of 7, 14 and 19 CET                                                                                                          ,0.1 m/s        
+ FG19,Average wind speed 0 - 0 local time (with changes to winter and summer time)                                                                          ,0.1 m/s        
+ FG20,Average wind speed 0 - 0 UT  average from 96 15 min. values                                                                                           ,0.1 m/sec      
