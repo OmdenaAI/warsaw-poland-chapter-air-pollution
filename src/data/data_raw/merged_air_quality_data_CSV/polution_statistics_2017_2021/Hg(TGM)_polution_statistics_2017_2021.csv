@@ -1,0 +1,25 @@
+Year,Voivodeship,Zone code,Zone name,Station code,Indicator,Averaging Time,Mean [ng/m3],Min [ng/m3],Max [ng/m3],Number of measurements,Completeness [%],Summer/Winter Number
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(TGM),1g,1.750932752,0.94687,14.135,7325,83.61,1.03
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(TGM),1g,1.43699968,0.7,6.2,6246,71.3,0.6
+2017,mazowieckie,PL1404,strefa mazowiecka,MzGranicaKPN,Hg(TGM),1g,1.394005809,0.29,3.289,8573,97.86,0.99
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,Hg(TGM),1g,1.878361367,0.80663,9.20378,8207,93.68,1.03
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(TGM),24g,1.074,0.5,2.4,50,13.69,1
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(TGM),1g,1.483481657,0.646,15.4656,8135,92.86,1.04
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(TGM),1g,1.482359293,0.8,4.9,7409,84.57,1.18
+2018,mazowieckie,PL1404,strefa mazowiecka,MzGranicaKPN,Hg(TGM),1g,1.282937724,0.19,4.54,7547,86.15,1.13
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,Hg(TGM),1g,1.639657102,0.63313,7.68018,7974,91.02,0.96
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(TGM),24g,1.405660377,0.2,4.4,53,14.52,0.96
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(TGM),1g,1.490158391,0.86812,8.42602,7712,88.03,1.18
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(TGM),1g,1.416778523,0.6,4.5,6109,69.73,1.09
+2019,mazowieckie,PL1404,strefa mazowiecka,MzGranicaKPN,Hg(TGM),1g,1.371168582,0.644,4.113,7822,89.29,0.96
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,Hg(TGM),1g,1.68048661,0.9105,5.14154,8366,95.5,1.03
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(TGM),24g,1.759574468,0.8,5,47,12.87,1.14
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Hg(TGM),1g,1.716147867,0.62158,10.7102,8752,99.63,0.99
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(TGM),1g,1.137162785,0.5,2.4,7599,86.5,1.02
+2020,mazowieckie,PL1404,strefa mazowiecka,MzGranicaKPN,Hg(TGM),1g,1.595360249,0.572759,3.406822,8179,93.11,0.98
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,Hg(TGM),1g,1.706393971,0.67208,4.57794,8628,98.22,0.98
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(TGM),24g,1.609433962,1,3.4,53,14.48,0.89
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(TGM),1g,1.687224502,0.77046,6.16785,8667,98.93,1
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(TGM),1g,1.615773856,0.8,6.7,6403,73.09,0.91
+2021,mazowieckie,PL1404,strefa mazowiecka,MzGranicaKPN,Hg(TGM),1g,1.579685964,0.573836,2.880847,7793,88.96,1.17
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,Hg(TGM),1g,1.735948041,0.8,4.61848,8644,98.67,1
