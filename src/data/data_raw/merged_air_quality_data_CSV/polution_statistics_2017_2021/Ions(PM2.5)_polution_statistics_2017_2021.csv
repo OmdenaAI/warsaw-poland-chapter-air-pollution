@@ -1,0 +1,250 @@
+Year,Voivodeship,Zone code,Zone name,Station code,Indicator,Averaging Time,Mean [µg/m3],Min [µg/m3],Max [µg/m3],Number of measurements,Completeness [%],Summer/Winter Number
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ca2+(PM2.5),24g,0.03031875,0.0002,0.0941,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ca2+(PM2.5),24g,0.175976128,0.01,0.59391396,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,Ca2+(PM2.5),24g,0.08203908,0.0087,0.199,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,Ca2+(PM2.5),24g,0.051481268,0.01,0.249,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ca2+(PM2.5),24g,0.039865922,0.007,0.112,358,98.08,1.03
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cl_(PM2.5),24g,0.07835119,0.005,1.081,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cl_(PM2.5),24g,0.119005359,0.01,0.53742802,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,Cl_(PM2.5),24g,0.678551724,0.004,3.834,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,Cl_(PM2.5),24g,0.136997118,0.015,1.336,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cl_(PM2.5),24g,0.126681818,0.02,0.302,352,96.43,1.07
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,EC(PM2.5),24g,0.714721893,0.09,6.112,338,92.6,0.86
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,EC(PM2.5),24g,0.437916072,0.00243905,1.88520531,172,47.12,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,EC(PM2.5),24g,2.394748077,0.289,16.37,52,14.24,1
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,EC(PM2.5),24g,1.366173077,0.265,5.174,52,14.24,1
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,EC(PM2.5),24g,0.403447293,0,2.9,351,96.16,1.06
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,K+(PM2.5),24g,0.097592262,0.019,0.458,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,K+(PM2.5),24g,0.085662535,0.01,0.40946897,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,K+(PM2.5),24g,0.187086207,0.038,0.687,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,K+(PM2.5),24g,0.136259366,0.023,0.514,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,K+(PM2.5),24g,0.064659091,0.01,0.19,352,96.43,1.07
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Mg2+(PM2.5),24g,0.011886905,0.0002,0.056,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Mg2+(PM2.5),24g,0.013463493,0.002,0.08633397,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,Mg2+(PM2.5),24g,0.018238218,0.0026,0.084,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,Mg2+(PM2.5),24g,0.014529971,0.0015,0.059,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Mg2+(PM2.5),24g,0.009556818,0,0.027,352,96.43,1.07
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Na+(PM2.5),24g,0.145706548,0.0013,0.692,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Na+(PM2.5),24g,0.089410013,0.01,0.28376139,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,Na+(PM2.5),24g,0.407793103,0.002,1.346,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,Na+(PM2.5),24g,0.167659942,0.01,0.659,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Na+(PM2.5),24g,0.115298295,0.024,0.379,352,96.43,1.07
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NH4+(PM2.5),24g,1.018077381,0.159,5.295,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NH4+(PM2.5),24g,1.074691624,0.26987448,6.05672851,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,NH4+(PM2.5),24g,1.775744253,0.295,7.934,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,NH4+(PM2.5),24g,1.272691643,0.118,5.358,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NH4+(PM2.5),24g,0.590897727,0.04,2.707,352,96.43,1.07
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NO3_(PM2.5),24g,1.501794643,0.129,9.559,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NO3_(PM2.5),24g,1.407414838,0.0572363,7.96758371,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,NO3_(PM2.5),24g,2.23712931,0.02,9.106,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,NO3_(PM2.5),24g,1.563089337,0.035,7.478,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NO3_(PM2.5),24g,1.493917614,0.129,4.49,352,96.43,1.07
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,OC(PM2.5),24g,5.094286982,0.595,62.188,338,92.6,0.86
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,OC(PM2.5),24g,3.945990342,0.36925871,31.21865678,172,47.12,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,OC(PM2.5),24g,14.779080769,1.699,81.954,52,14.24,1
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,OC(PM2.5),24g,6.796153846,2.054,30.481,52,14.24,1
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,OC(PM2.5),24g,2.941025641,0.31,17.75,351,96.16,1.06
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,SO42_(PM2.5),24g,2.212616071,0.703,8.56,336,92.05,0.85
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,SO42_(PM2.5),24g,1.672885884,0.49695953,8.69695031,344,94.24,0.89
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,SO42_(PM2.5),24g,2.704571839,0.663,10.09,348,95.34,1.11
+2017,śląskie,PL2405,strefa śląska,SlZlotPotLes,SO42_(PM2.5),24g,2.499123919,1.036,8.963,347,95.06,0.99
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,SO42_(PM2.5),24g,1.308920455,0.355,5.105,352,96.43,1.07
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ca2+(PM2.5),24g,0.038695778,0.00148,0.11445,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ca2+(PM2.5),24g,0.159560538,0.01,0.80949534,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,Ca2+(PM2.5),24g,0.069045133,0.002,0.214,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,Ca2+(PM2.5),24g,0.025393939,0.01,0.109,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ca2+(PM2.5),24g,0.07829805,0.02,0.309,359,98.35,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cl_(PM2.5),24g,0.149860056,0.00296,0.53672,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cl_(PM2.5),24g,0.137174284,0.01,0.39558485,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,Cl_(PM2.5),24g,1.071985251,0.004,4.34,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,Cl_(PM2.5),24g,0.142997245,0.0015,0.805,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cl_(PM2.5),24g,0.089796657,0.001,0.382,359,98.35,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,EC(PM2.5),24g,0.584833333,0.03,3.15,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,EC(PM2.5),24g,0.415661863,0.00366411,1.96836582,182,49.86,1
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,EC(PM2.5),24g,2.659788462,0.162,12.755,52,14.24,1
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,EC(PM2.5),24g,1.406769231,0.227,4.297,52,14.24,1
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,EC(PM2.5),24g,0.384277778,0.03,1.84,360,98.63,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,K+(PM2.5),24g,0.089370333,0.00029,0.718,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,K+(PM2.5),24g,0.089106228,0.02043949,0.26318782,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,K+(PM2.5),24g,0.201310324,0.0066,0.503,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,K+(PM2.5),24g,0.12700551,0.015,0.309,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,K+(PM2.5),24g,0.101498607,0.016,0.364,359,98.35,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Mg2+(PM2.5),24g,0.010964472,0.0001,0.03521,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Mg2+(PM2.5),24g,0.008986262,0.002,0.03283176,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,Mg2+(PM2.5),24g,0.012443363,0.0005,0.056,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,Mg2+(PM2.5),24g,0.008688705,0.0015,0.024,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Mg2+(PM2.5),24g,0.014810585,0.001,0.066,359,98.35,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Na+(PM2.5),24g,0.199630417,0.00041,0.65498,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Na+(PM2.5),24g,0.082267484,0.01,0.18836836,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,Na+(PM2.5),24g,0.158107965,0.002,0.644,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,Na+(PM2.5),24g,0.152063361,0.01,1.077,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Na+(PM2.5),24g,0.18462117,0.039,0.559,359,98.35,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NH4+(PM2.5),24g,0.797874333,0.05622,3.53276,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NH4+(PM2.5),24g,0.980376947,0.1176189,3.32972928,335,91.78,1.18
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,NH4+(PM2.5),24g,2.216303835,0.685,9.926,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,NH4+(PM2.5),24g,1.419027548,0.314,4.271,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NH4+(PM2.5),24g,0.811824513,0.067,2.712,359,98.35,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NO3_(PM2.5),24g,1.818986194,0.16361,8.00698,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NO3_(PM2.5),24g,1.583118224,0.16066446,5.64695776,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,NO3_(PM2.5),24g,2.74359882,0.325,11.883,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,NO3_(PM2.5),24g,1.888460055,0.109,6.573,363,99.45,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,OC(PM2.5),24g,4.571527778,0.33,28.29,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,OC(PM2.5),24g,4.976882503,1.40701903,23.19270511,182,49.86,1
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,OC(PM2.5),24g,18.491634615,1.377,94.227,52,14.24,1
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,OC(PM2.5),24g,8.148288462,2.609,26.416,52,14.24,1
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,OC(PM2.5),24g,3.331277778,0.32,17.51,360,98.63,0.99
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,SO42_(PM2.5),24g,2.02267925,0.56449,5.97582,360,98.63,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,SO42_(PM2.5),24g,1.804522549,0.14897184,4.80354387,363,99.45,0.99
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,SO42_(PM2.5),24g,3.065135693,1.184,8.598,339,92.87,0.86
+2018,śląskie,PL2405,strefa śląska,SlZlotPotLes,SO42_(PM2.5),24g,2.453652893,0.161,5.958,363,99.45,0.99
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,SO42_(PM2.5),24g,1.673075209,0.489,4.986,359,98.35,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ca2+(PM2.5),24g,0.02911102,0.00146,0.11231,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ca2+(PM2.5),24g,0.086951997,0.00404978,0.41369744,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,Ca2+(PM2.5),24g,0.134192982,0.002,0.576,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,Ca2+(PM2.5),24g,0.056168091,0.01,0.359,351,96.16,1.09
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ca2+(PM2.5),24g,0.056301939,0.017,0.155,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cl_(PM2.5),24g,0.102047726,0.00315,0.5732,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cl_(PM2.5),24g,0.100922707,0.01,0.37882895,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,Cl_(PM2.5),24g,0.784143275,0.004,3.55,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,Cl_(PM2.5),24g,0.074581006,0.015,0.612,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cl_(PM2.5),24g,0.105426593,0.005,0.408,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,EC(PM2.5),24g,0.611296512,0.0626,2.9028,172,47.12,0.98
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,EC(PM2.5),24g,0.343886437,0.03641311,1.43418031,176,48.21,1.05
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,EC(PM2.5),24g,1.734235294,0.11,10.1,170,46.57,1.05
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,EC(PM2.5),24g,0.799664804,0.18,3.15,179,49.04,1.03
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,EC(PM2.5),24g,0.391745152,0.01,1.66,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,K+(PM2.5),24g,0.071305481,0.00037,0.25164,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,K+(PM2.5),24g,0.05841568,0.01,0.18558207,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,K+(PM2.5),24g,0.173935673,0.031,0.539,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,K+(PM2.5),24g,0.097365922,0.01,0.356,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,K+(PM2.5),24g,0.072445983,0.015,0.205,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Mg2+(PM2.5),24g,0.010220845,0.00024,0.04199,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Mg2+(PM2.5),24g,0.004272051,0.002,0.03252675,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,Mg2+(PM2.5),24g,0.016712865,0.0041,0.053,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,Mg2+(PM2.5),24g,0.014652514,0.0015,0.099,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Mg2+(PM2.5),24g,0.010894737,0.002,0.095,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Na+(PM2.5),24g,0.220779767,0.03109,0.84215,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Na+(PM2.5),24g,0.073002547,0.03319702,0.20154612,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,Na+(PM2.5),24g,0.265374269,0.002,0.872,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,Na+(PM2.5),24g,0.272002793,0.01,1.643,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Na+(PM2.5),24g,0.137786704,0.007,1.947,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NH4+(PM2.5),24g,0.63163484,0.09373,2.83157,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NH4+(PM2.5),24g,0.819650282,0.08265879,2.59486114,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,NH4+(PM2.5),24g,1.357383041,0.258,5.375,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,NH4+(PM2.5),24g,1.000310056,0.239,5.073,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NH4+(PM2.5),24g,0.740662824,0.064,2.602,347,95.06,0.98
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NO3_(PM2.5),24g,1.286297405,0.25811,8.97385,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NO3_(PM2.5),24g,0.993477703,0.09025234,3.68961291,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,NO3_(PM2.5),24g,2.124871345,0.216,9.351,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,NO3_(PM2.5),24g,1.284952514,0.035,6.2,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NO3_(PM2.5),24g,1.420526316,0.196,4.981,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,OC(PM2.5),24g,3.593013372,0.3349,23.7709,172,47.12,0.98
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,OC(PM2.5),24g,3.380529064,1.1119513,11.0101792,176,48.21,1.05
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,OC(PM2.5),24g,12.785294118,1.55,95.79,170,46.57,1.05
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,OC(PM2.5),24g,5.598379888,2.05,20.46,179,49.04,1.03
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,OC(PM2.5),24g,2.785290859,0.21,10.99,361,98.9,0.99
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,SO42_(PM2.5),24g,1.669122012,0.71983,6.02962,343,93.97,1.02
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,SO42_(PM2.5),24g,1.222001509,0.14897184,3.17029962,353,96.71,1.04
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,SO42_(PM2.5),24g,2.314383041,0.991,9.457,342,93.69,1.02
+2019,śląskie,PL2405,strefa śląska,SlZlotPotLes,SO42_(PM2.5),24g,2.033988827,0.869,8.161,358,98.08,1.05
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,SO42_(PM2.5),24g,1.387584488,0.448,3.955,361,98.9,0.99
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Ca2+(PM2.5),24g,0.036868852,0.001,0.216,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Cl_(PM2.5),24g,0.127811475,0.006,0.529,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,EC(PM2.5),24g,0.533785249,0.01885,2.53745,181,49.45,0.97
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,K+(PM2.5),24g,0.05481694,0,0.288,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Mg2+(PM2.5),24g,0.013177596,0.001,0.081,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Na+(PM2.5),24g,0.262396175,0.006,0.811,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,NH4+(PM2.5),24g,0.410043716,0.054,1.567,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,NO3_(PM2.5),24g,1.179229508,0.305,4.84,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,OC(PM2.5),24g,3.242943646,0.33486,15.2142,181,49.45,0.97
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,SO42_(PM2.5),24g,1.434959016,0.671,3.255,366,100,1
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ca2+(PM2.5),24g,0.156516316,0.01,0.49187995,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cl_(PM2.5),24g,0.120822829,0.01,0.32288733,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,EC(PM2.5),24g,0.402376994,0.02223494,1.46077505,181,49.45,1.01
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,K+(PM2.5),24g,0.066330939,0.02259246,0.1865477,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Mg2+(PM2.5),24g,0.011115066,0.002,0.03252675,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Na+(PM2.5),24g,0.09323109,0.04491846,0.20154612,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NH4+(PM2.5),24g,0.281752135,0.01,1.29243513,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NO3_(PM2.5),24g,0.990163435,0.20928,3.12316963,363,99.18,1.02
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,OC(PM2.5),24g,2.773102668,0.67306885,8.5482921,181,49.45,1.01
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,SO42_(PM2.5),24g,1.034401732,0.43501837,2.6433692,363,99.18,1.02
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,Ca2+(PM2.5),24g,0.400073579,0.002,9.214,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,Cl_(PM2.5),24g,0.545826087,0.004,3.133,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,EC(PM2.5),24g,1.630596026,0.11,19.69,151,41.25,1.07
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,K+(PM2.5),24g,0.170210702,0.002,0.539,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,Mg2+(PM2.5),24g,0.014671906,0.0005,0.098,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,Na+(PM2.5),24g,0.094817391,0.002,0.39,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,NH4+(PM2.5),24g,1.154792642,0.099,3.485,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,NO3_(PM2.5),24g,1.742632107,0.009,5.482,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,OC(PM2.5),24g,10.728874172,1.85,76.94,151,41.25,1.07
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,SO42_(PM2.5),24g,1.988404682,0.698,4.596,299,81.69,1.05
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,Ca2+(PM2.5),24g,0.078734266,0.01,0.517,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,Cl_(PM2.5),24g,0.126632867,0.015,0.665,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,EC(PM2.5),24g,0.917132867,0.19,4.17,143,39.07,0.64
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,K+(PM2.5),24g,0.117811189,0.036,0.356,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,Mg2+(PM2.5),24g,0.012804545,0.0015,0.047,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,Na+(PM2.5),24g,0.233863636,0.01,1.582,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,NH4+(PM2.5),24g,0.788730769,0.208,2.339,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,NO3_(PM2.5),24g,1.019814685,0.035,4.582,286,78.14,0.97
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,OC(PM2.5),24g,5.462377622,1.78,14.41,143,39.07,0.64
+2020,śląskie,PL2405,strefa śląska,SlZlotPotLes,SO42_(PM2.5),24g,1.933115385,1.064,4.536,286,78.14,0.97
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ca2+(PM2.5),24g,0.047127479,0.014,0.153,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cl_(PM2.5),24g,0.082963173,0.003,0.406,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,EC(PM2.5),24g,0.301104816,0,1.34,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,K+(PM2.5),24g,0.062362606,0.015,0.191,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Mg2+(PM2.5),24g,0.012413598,0.003,0.037,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Na+(PM2.5),24g,0.098316092,0.007,0.422,348,95.08,1.1
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NH4+(PM2.5),24g,0.535195467,0.038,1.889,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NO3_(PM2.5),24g,0.990747875,0.105,4.083,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,OC(PM2.5),24g,2.468300283,0.56,9.77,353,96.44,1.06
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,SO42_(PM2.5),24g,1.16307932,0.339,4.246,353,96.44,1.06
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ca2+(PM2.5),24g,0.082094247,0.001,0.247,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cl_(PM2.5),24g,0.086490411,0.008,0.575,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,EC(PM2.5),24g,0.599438202,0,3.2,178,48.76,0.98
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,K+(PM2.5),24g,0.038747123,0.001,0.2879,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Mg2+(PM2.5),24g,0.006701918,0,0.0194,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Na+(PM2.5),24g,0.086086849,0.002,0.254,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NH4+(PM2.5),24g,0.600646027,0.092,2.538,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,NO3_(PM2.5),24g,1.206109589,0.327,3.527,365,100,1.01
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,OC(PM2.5),24g,3.713483146,0.5,23.9,178,48.76,0.98
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,SO42_(PM2.5),24g,1.537905479,0.722,4.02,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ca2+(PM2.5),24g,0.151238185,0.01,0.59963811,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cl_(PM2.5),24g,0.133709036,0.02273775,0.3410923,358,98.08,0.97
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,EC(PM2.5),24g,0.446610798,0.03530151,2.37504655,183,50.13,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,K+(PM2.5),24g,0.06819486,0.01,0.236477,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Mg2+(PM2.5),24g,0.010341878,0.002,0.02533682,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Na+(PM2.5),24g,0.150406542,0.01,0.32088043,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NH4+(PM2.5),24g,0.443884222,0.0253472,1.88625656,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,NO3_(PM2.5),24g,1.1870807,0.17827533,3.92124554,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,OC(PM2.5),24g,2.878387354,0.4,11.87001862,183,50.13,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,SO42_(PM2.5),24g,1.172959596,0.25769657,2.74688852,365,100,1.01
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,Ca2+(PM2.5),24g,0.077235602,0.002,0.277,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,Cl_(PM2.5),24g,0.82260733,0.004,2.731,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,EC(PM2.5),24g,1.9696875,0.23,10.71,96,26.3,1.13
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,K+(PM2.5),24g,0.157256545,0.041,0.431,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,Mg2+(PM2.5),24g,0.007894241,0.0005,0.021,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,Na+(PM2.5),24g,0.080879581,0.002,0.269,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,NH4+(PM2.5),24g,1.695104712,0.285,5.439,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,NO3_(PM2.5),24g,2.458225131,0.203,6.243,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,OC(PM2.5),24g,13.465208333,1.9,71.86,96,26.3,1.13
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,SO42_(PM2.5),24g,2.404926702,0.832,4.326,191,52.32,1.12
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,Ca2+(PM2.5),24g,0.102810888,0.01,0.594,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,Cl_(PM2.5),24g,0.063163324,0.015,0.506,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,EC(PM2.5),24g,0.927931034,0.21,3.43,174,47.67,0.96
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,K+(PM2.5),24g,0.105507163,0.008,0.337,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,Mg2+(PM2.5),24g,0.011244699,0.0015,0.031,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,Na+(PM2.5),24g,0.165140401,0.01,1.295,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,NH4+(PM2.5),24g,1.008532951,0.249,2.751,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,NO3_(PM2.5),24g,1.275762178,0.035,5.992,349,95.61,0.94
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,OC(PM2.5),24g,6.009712644,2.02,28.32,174,47.67,0.96
+2021,śląskie,PL2405,strefa śląska,SlZlotPotLes,SO42_(PM2.5),24g,1.940189112,0.899,4.341,349,95.61,0.94
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ca2+(PM2.5),24g,0.032850416,0.004,0.087,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cl_(PM2.5),24g,0.04634349,0.001,0.186,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,EC(PM2.5),24g,0.350555556,0,2.04,360,98.63,1.01
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,K+(PM2.5),24g,0.068288089,0.006,0.208,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Mg2+(PM2.5),24g,0.009952909,0.002,0.02,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Na+(PM2.5),24g,0.056554017,0.011,0.169,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NH4+(PM2.5),24g,0.703969529,0.143,2.172,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,NO3_(PM2.5),24g,1.170529086,0.088,4.661,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,OC(PM2.5),24g,2.69531856,0.54,14.7,361,98.9,1.02
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,SO42_(PM2.5),24g,1.094238227,0.557,2.44,361,98.9,1.02
