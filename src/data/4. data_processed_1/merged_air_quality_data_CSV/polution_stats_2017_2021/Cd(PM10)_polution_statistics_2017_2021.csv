@@ -1,0 +1,384 @@
+Year,Voivodeship,Zone code,Zone name,Station code,Indicator,Averaging Time,Mean [ng/m3],Min [ng/m3],Max [ng/m3],Number of measurements,Completeness [%],Summer/Winter Number
+2017,dolnośląskie,PL0201,Aglomeracja Wrocławska,DsWrocWybCon,Cd(PM10),24g,0.301501401,0.052,1.063,357,97.8,1.02
+2017,dolnośląskie,PL0202,miasto Legnica,DsLegAlRzecz,Cd(PM10),24g,0.560156164,0.104,2.048,365,100,1.01
+2017,dolnośląskie,PL0203,miasto Wałbrzych,DsWalbrzWyso,Cd(PM10),24g,0.299853107,0.052,1.192,354,96.98,1.02
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsGlogWiStwo,Cd(PM10),24g,0.518831492,0.13,2.1,362,99.17,1
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsJelGorSoko,Cd(PM10),24g,0.272011364,0.058,1.152,352,96.43,1.08
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsNowRudSreb,Cd(PM10),24g,0.36428453,0.052,1.238,362,99.17,1.02
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOlawZolnAK,Cd(PM10),24g,0.306548295,0.052,2.583,352,96.43,0.94
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(PM10),24g,0.18025788,0.021,0.906,349,95.61,0.92
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsPolKasztan,Cd(PM10),24g,0.233553254,0.052,0.829,338,92.6,1.18
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsSzczaKolej,Cd(PM10),24g,0.279238889,0.015,1.502,360,98.63,1.01
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsZgorBohGet,Cd(PM10),24g,0.262075,0.042,1.252,360,98.63,1.02
+2017,kujawsko-pomorskie,PL0401,Aglomeracja Bydgoska,KpBydPlPozna,Cd(PM10),24g,0.39205197,0.065,1.51788305,365,100,1.01
+2017,kujawsko-pomorskie,PL0402,miasto Toruń,KpToruDziewu,Cd(PM10),24g,0.287421644,0.065,1.1339,365,100,1.01
+2017,kujawsko-pomorskie,PL0403,miasto Włocławek,KpWloclOkrze,Cd(PM10),24g,0.444081337,0.065,2.59558595,345,94.52,1.01
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpBrodKochan,Cd(PM10),24g,0.353707418,0.065,1.1569,364,99.72,1
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpCiechTezni,Cd(PM10),24g,0.390172715,0.065,2.62288964,360,98.63,1.03
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpGrudSienki,Cd(PM10),24g,0.520312877,0.065,1.5347,365,100,1.01
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpInowSolank,Cd(PM10),24g,0.261961068,0.065,1.0079129,365,100,1.01
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpKoniczynka,Cd(PM10),24g,0.261178356,0.065,1.168,365,100,1.01
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpNaklSkargi,Cd(PM10),24g,0.465199029,0.065,1.53954532,348,95.34,1
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(PM10),24g,0.121370701,0.025,0.51409566,324,88.76,0.78
+2017,lubelskie,PL0601,Aglomeracja Lubelska,LbLubSliwins,Cd(PM10),24g,0.257260274,0.03,0.98,365,100,1.01
+2017,lubelskie,PL0602,strefa lubelska,LbZamoHrubie,Cd(PM10),24g,0.272219178,0.03,0.82,365,100,1.01
+2017,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzKosGdy,Cd(PM10),24g,0.160385757,0.01,2.1,337,92.32,1.19
+2017,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzPilsud,Cd(PM10),24g,0.099857955,0.01,0.51,352,96.43,0.93
+2017,lubuskie,PL0802,miasto Zielona Góra,LuZielKrotka,Cd(PM10),24g,0.30122905,0.01,2.4,358,98.08,0.97
+2017,lubuskie,PL0803,strefa lubuska,LuSulecDudka,Cd(PM10),24g,0.145675676,0.01,0.52,333,91.23,0.84
+2017,lubuskie,PL0803,strefa lubuska,LuWsKaziWiel,Cd(PM10),24g,0.279220056,0,1.79,359,98.35,1.02
+2017,lubuskie,PL0803,strefa lubuska,LuZarySzyman,Cd(PM10),24g,0.224027397,0.01,2.04,365,100,1.01
+2017,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzLegion,Cd(PM10),24g,0.540082192,0.09,2.01,365,100,1.01
+2017,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzRudzka,Cd(PM10),24g,0.449697802,0.1,1.63,364,99.72,1.01
+2017,łódzkie,PL1001,Aglomeracja Łódzka,LdPabiKilins,Cd(PM10),24g,0.479069069,0.14,1.69,333,91.23,1.13
+2017,łódzkie,PL1002,strefa łódzka,LdPioTrKraPr,Cd(PM10),24g,0.521160221,0.12,1.94,362,99.17,1.02
+2017,łódzkie,PL1002,strefa łódzka,LdSieraPolna,Cd(PM10),24g,0.363983516,0.1,1.31,364,99.72,1
+2017,łódzkie,PL1002,strefa łódzka,LdSkierKonop,Cd(PM10),24g,0.371978022,0.11,1.12,364,99.72,1
+2017,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBujaka,Cd(PM10),24g,0.540956522,0.13,3.27,345,94.52,1.09
+2017,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBulwar,Cd(PM10),24g,0.805330508,0.25,6.167,354,96.98,1.02
+2017,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakWadow,Cd(PM10),24g,0.464612903,0.21,0.88,310,84.93,1.44
+2017,małopolskie,PL1202,miasto Tarnów,MpTarBitStud,Cd(PM10),24g,0.746361111,0.13,10.96,360,98.63,1.03
+2017,małopolskie,PL1203,strefa małopolska,MpNoSaczNadb,Cd(PM10),24g,0.46640884,0.16,1.02,362,99.17,1.02
+2017,małopolskie,PL1203,strefa małopolska,MpTrzebOsZWM,Cd(PM10),24g,0.810972222,0.29,2.48,360,98.63,1.01
+2017,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAKrzywo,Cd(PM10),24g,0.244310704,0.025,0.8378,355,97.26,0.95
+2017,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAlNiepo,Cd(PM10),24g,0.237914247,0.0574,0.7294,365,100,1.01
+2017,mazowieckie,PL1402,miasto Płock,MzPlocKroJad,Cd(PM10),24g,0.204251099,0.025,0.9476,364,99.72,1.01
+2017,mazowieckie,PL1403,miasto Radom,MzRad25Czerw,Cd(PM10),24g,0.30889863,0.025,1.0255,365,100,1.01
+2017,mazowieckie,PL1404,strefa mazowiecka,MzGutyDuCzer,Cd(PM10),24g,0.12796482,0.025,0.4251,361,98.9,1.03
+2017,mazowieckie,PL1404,strefa mazowiecka,MzKonJezMos,Cd(PM10),24g,0.233417737,0.025,0.7649,327,89.58,0.9
+2017,mazowieckie,PL1404,strefa mazowiecka,MzOstroHalle,Cd(PM10),24g,0.168792055,0.025,0.4641,365,100,1.01
+2017,mazowieckie,PL1404,strefa mazowiecka,MzOtwoBrzozo,Cd(PM10),24g,0.356031579,0.0588,1.1668,361,98.9,1.01
+2017,mazowieckie,PL1404,strefa mazowiecka,MzSiedKonars,Cd(PM10),24g,0.240791507,0.025,0.7049,365,100,1.01
+2017,opolskie,PL1601,miasto Opole,OpOpoleOsAKr,Cd(PM10),24g,0.305242492,0.01215,1.8013,333,91.23,0.99
+2017,opolskie,PL1602,strefa opolska,OpGlubRatusz,Cd(PM10),24g,0.254507163,0.0285,1.1496,363,99.45,1.02
+2017,podkarpackie,PL1801,miasto Rzeszów,PkRzeszRejta,Cd(PM10),24g,0.385851648,0.14,1.16,364,99.72,1
+2017,podkarpackie,PL1802,strefa podkarpacka,PkJasloSikor,Cd(PM10),24g,0.464277778,0.16,1.32,360,98.63,1.02
+2017,podkarpackie,PL1802,strefa podkarpacka,PkKrosKletow,Cd(PM10),24g,0.717506925,0.14,6.09,361,98.9,1.02
+2017,podkarpackie,PL1802,strefa podkarpacka,PkPrzemGrunw,Cd(PM10),24g,0.417853107,0.11,1.79,354,96.98,0.98
+2017,podkarpackie,PL1802,strefa podkarpacka,PkRymZdrPark,Cd(PM10),24g,0.289697802,0.1,0.78,364,99.72,1.01
+2017,podlaskie,PL2001,Aglomeracja Białostocka,PdBialWaszyn,Cd(PM10),24g,0.255363639,0.05,1.6475019,343,93.97,0.9
+2017,podlaskie,PL2002,strefa podlaska,PdSuwPulaski,Cd(PM10),24g,0.194748617,0.05,1.14295083,343,93.97,0.9
+2017,pomorskie,PL2201,Aglomeracja Trójmiejska,PmGdyJozBema,Cd(PM10),24g,0.19993311,0.1,1.01,299,81.91,0.88
+2017,pomorskie,PL2202,strefa pomorska,PmKosTargo12,Cd(PM10),24g,0.301712707,0.1,1.15,362,99.17,1
+2017,śląskie,PL2401,Aglomeracja Górnośląska,SlKatoKossut,Cd(PM10),24g,0.993408451,0.1,9.27,355,97.26,0.95
+2017,śląskie,PL2402,Aglomeracja Rybnicko-Jastrzębska,SlRybniBorki,Cd(PM10),24g,0.486842105,0.1,2.32,323,88.49,0.92
+2017,śląskie,PL2403,miasto Bielsko-Biała,SlBielKossak,Cd(PM10),24g,0.423682635,0.1,2.6,334,91.5,1.11
+2017,śląskie,PL2404,miasto Częstochowa,SlCzestoBacz,Cd(PM10),24g,0.822061281,0.1,3.91,359,98.35,1.01
+2017,śląskie,PL2405,strefa śląska,SlGodGliniki,Cd(PM10),24g,0.148598726,0.1,0.61,314,86.02,1.23
+2017,śląskie,PL2405,strefa śląska,SlPszczBoged,Cd(PM10),24g,0.601917808,0.1,3.33,365,100,1.01
+2017,śląskie,PL2405,strefa śląska,SlTarnoLitew,Cd(PM10),24g,1.449505495,0.1,6.74,364,99.72,1
+2017,świętokrzyskie,PL2601,miasto Kielce,SkKielJagiel,Cd(PM10),24g,0.520109589,0.13,2.94,365,100,1.01
+2017,warmińsko-mazurskie,PL2801,miasto Olsztyn,WmOlsPuszkin,Cd(PM10),24g,0.183098592,0.025,0.69,355,97.26,1.06
+2017,warmińsko-mazurskie,PL2802,miasto Elbląg,WmElbBazynsk,Cd(PM10),24g,0.272222222,0.025,0.97,360,98.63,1
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmNiTraugutt,Cd(PM10),24g,0.254527778,0.025,0.93,360,98.63,1.03
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(PM10),24g,0.094084507,0.01,0.3,355,97.26,1.04
+2017,wielkopolskie,PL3001,Aglomeracja Poznańska,WpPoznChwial,Cd(PM10),24g,0.292280702,0.1,1.216,171,46.84,0.94
+2017,wielkopolskie,PL3002,miasto Kalisz,WpKaliSawick,Cd(PM10),24g,0.433,0.1,1.2,210,57.53,0.65
+2017,wielkopolskie,PL3003,strefa wielkopolska,WpNoTomSzpit,Cd(PM10),24g,0.372735426,0.1,1.14,223,61.09,0.86
+2017,wielkopolskie,PL3003,strefa wielkopolska,WpOstWieWyso,Cd(PM10),24g,0.433421053,0.06,1.09,190,52.05,0.6
+2017,wielkopolskie,PL3003,strefa wielkopolska,WpPilaKusoci,Cd(PM10),24g,0.296566667,0.1,1.029,210,57.53,0.67
+2017,zachodniopomorskie,PL3201,Aglomeracja Szczecińska,ZpSzczAndr01,Cd(PM10),24g,0.135346154,0.1,0.553,182,49.86,1.02
+2017,zachodniopomorskie,PL3202,miasto Koszalin,ZpKoszSpasow,Cd(PM10),24g,0.166067416,0.1,0.49,178,48.76,1.09
+2017,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpSzczec1Maj,Cd(PM10),24g,0.196988889,0.1,0.725,180,49.31,1.05
+2017,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpWiduBulRyb,Cd(PM10),24g,0.135586592,0.1,0.47,179,49.04,1.01
+2018,dolnośląskie,PL0201,Aglomeracja Wrocławska,DsWrocWybCon,Cd(PM10),24g,0.306752066,0.078,1.013,363,99.45,1.01
+2018,dolnośląskie,PL0202,miasto Legnica,DsLegAlRzecz,Cd(PM10),24g,0.519826923,0.104,1.685,364,99.72,1.01
+2018,dolnośląskie,PL0203,miasto Wałbrzych,DsWalbrzWyso,Cd(PM10),24g,0.30238292,0.052,0.855,363,99.45,1.01
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsGlogWiStwo,Cd(PM10),24g,0.593518106,0.078,3.71,359,98.35,1.03
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsJelGorSoko,Cd(PM10),24g,0.256033333,0.039,0.987,360,98.63,1
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(PM10),24g,0.196061798,0.005,0.581,356,97.53,0.97
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsPolKasztan,Cd(PM10),24g,0.284724551,0.015,0.82,334,91.5,0.99
+2018,kujawsko-pomorskie,PL0401,Aglomeracja Bydgoska,KpBydWarszaw,Cd(PM10),24g,0.519251155,0.065,1.18145772,364,99.72,1
+2018,kujawsko-pomorskie,PL0402,miasto Toruń,KpToruDziewu,Cd(PM10),24g,0.349526632,0.065,0.7165,365,100,1.01
+2018,kujawsko-pomorskie,PL0403,miasto Włocławek,KpWloclGniaz,Cd(PM10),24g,0.466172026,0.13469444,1.19672377,362,99.17,1.02
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpBrodKochan,Cd(PM10),24g,0.365202907,0.1294,1.0497,325,89.04,0.86
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpCiechTezni,Cd(PM10),24g,0.339168249,0.065,1.04190101,360,98.63,0.98
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpGrudSienki,Cd(PM10),24g,0.569159691,0.065,1.2584,365,100,1.01
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpInowSolank,Cd(PM10),24g,0.30068873,0.065,0.6894237,361,98.9,0.98
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpKoniczynka,Cd(PM10),24g,0.323163303,0.065,0.7004,363,99.45,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpNaklSkargi,Cd(PM10),24g,0.449496934,0.065,1.25966717,362,99.17,0.99
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpWieniZdroj,Cd(PM10),24g,0.341472911,0.065,0.84961547,360,98.63,0.98
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(PM10),24g,0.150227064,0.025,0.45158405,359,98.35,0.97
+2018,lubelskie,PL0601,Aglomeracja Lubelska,LbLubSliwins,Cd(PM10),24g,0.224931129,0.03,0.76,363,99.45,0.99
+2018,lubelskie,PL0602,strefa lubelska,LbZamoHrubie,Cd(PM10),24g,0.203205479,0.03,0.59,365,100,1.01
+2018,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzKosGdy,Cd(PM10),24g,0.218641618,0.02,0.62,346,94.79,0.91
+2018,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzPilsud,Cd(PM10),24g,0.171593407,0.01,0.51,364,99.72,1
+2018,lubuskie,PL0802,miasto Zielona Góra,LuZielKrotka,Cd(PM10),24g,0.313461538,0.03,1.1,364,99.72,1.01
+2018,lubuskie,PL0803,strefa lubuska,LuSulecDudka,Cd(PM10),24g,0.201068493,0.02,0.64,365,100,1.01
+2018,lubuskie,PL0803,strefa lubuska,LuWsKaziWiel,Cd(PM10),24g,0.426730769,0.04,1.06,364,99.72,1.01
+2018,lubuskie,PL0803,strefa lubuska,LuZarySzyman,Cd(PM10),24g,0.309972603,0.07,0.77,365,100,1.01
+2018,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzLegion,Cd(PM10),24g,0.493546512,0.07,1.07,344,94.24,0.89
+2018,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzRudzka,Cd(PM10),24g,0.414591549,0.06,1.17,355,97.26,0.97
+2018,łódzkie,PL1001,Aglomeracja Łódzka,LdPabiKilins,Cd(PM10),24g,0.388349835,0.07,1.11,303,83.01,1.23
+2018,łódzkie,PL1002,strefa łódzka,LdPioTrKraPr,Cd(PM10),24g,0.463370166,0.08,1.34,362,99.17,0.99
+2018,łódzkie,PL1002,strefa łódzka,LdSieraPolna,Cd(PM10),24g,0.325178082,0.08,0.8,365,100,1.01
+2018,łódzkie,PL1002,strefa łódzka,LdSkierKonop,Cd(PM10),24g,0.353369863,0.06,1.03,365,100,1.01
+2018,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBujaka,Cd(PM10),24g,0.479241634,0.18,1.31,361,98.9,0.98
+2018,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBulwar,Cd(PM10),24g,0.650692771,0.17,1.55,332,90.95,1.01
+2018,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakWadow,Cd(PM10),24g,0.397110482,0.08,1.06,353,96.71,0.97
+2018,małopolskie,PL1202,miasto Tarnów,MpTarBitStud,Cd(PM10),24g,0.477365439,0.11,3.92,353,96.71,0.96
+2018,małopolskie,PL1203,strefa małopolska,MpNoSaczNadb,Cd(PM10),24g,0.416224784,0.14,1.24,347,95.06,1.03
+2018,małopolskie,PL1203,strefa małopolska,MpTrzebOsZWM,Cd(PM10),24g,0.678849315,0.21,1.93,365,100,1.01
+2018,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAKrzywo,Cd(PM10),24g,0.270041989,0.0671,0.5764,362,99.17,1
+2018,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAlNiepo,Cd(PM10),24g,0.215688728,0.0691,0.5558,346,94.79,1.1
+2018,mazowieckie,PL1402,miasto Płock,MzPlocKroJad,Cd(PM10),24g,0.201215015,0.025,0.5629,333,91.23,0.84
+2018,mazowieckie,PL1403,miasto Radom,MzRad25Czerw,Cd(PM10),24g,0.305691365,0.0631,0.9638,359,98.35,1.01
+2018,mazowieckie,PL1404,strefa mazowiecka,MzGutyDuCzer,Cd(PM10),24g,0.146993314,0.025,0.5186,344,94.24,0.9
+2018,mazowieckie,PL1404,strefa mazowiecka,MzKonJezMos,Cd(PM10),24g,0.206777607,0.025,0.5785,326,89.31,1.17
+2018,mazowieckie,PL1404,strefa mazowiecka,MzOstroHalle,Cd(PM10),24g,0.185218006,0.025,0.511,361,98.9,1.02
+2018,mazowieckie,PL1404,strefa mazowiecka,MzOtwoBrzozo,Cd(PM10),24g,0.37089449,0.0671,1.4087,363,99.45,0.99
+2018,mazowieckie,PL1404,strefa mazowiecka,MzSiedKonars,Cd(PM10),24g,0.224755402,0.025,0.5385,361,98.9,0.98
+2018,opolskie,PL1601,miasto Opole,OpOpoleOsAKr,Cd(PM10),24g,0.403931858,0.0617,2.5504,339,92.87,0.97
+2018,opolskie,PL1602,strefa opolska,OpZdziePiast,Cd(PM10),24g,0.487601802,0.0552,1.7834,333,91.23,1.11
+2018,podkarpackie,PL1801,miasto Rzeszów,PkRzeszRejta,Cd(PM10),24g,0.296619718,0.05,0.68,355,97.26,1.03
+2018,podkarpackie,PL1802,strefa podkarpacka,PkJasloSikor,Cd(PM10),24g,0.535617284,0.11,3.44,324,88.76,1.2
+2018,podkarpackie,PL1802,strefa podkarpacka,PkKrosKletow,Cd(PM10),24g,0.609497207,0.17,4.79,358,98.08,0.97
+2018,podkarpackie,PL1802,strefa podkarpacka,PkPrzemGrunw,Cd(PM10),24g,0.346685879,0.05,0.83,347,95.06,0.91
+2018,podkarpackie,PL1802,strefa podkarpacka,PkRymZdrPark,Cd(PM10),24g,0.248547945,0.05,0.65,365,100,1.01
+2018,podkarpackie,PL1802,strefa podkarpacka,PkStWolWoPol,Cd(PM10),24g,0.423041096,0.05,0.98,365,100,1.01
+2018,podlaskie,PL2001,Aglomeracja Białostocka,PdBialWaszyn,Cd(PM10),24g,0.270680162,0.05,1.05745895,350,95.89,1.01
+2018,podlaskie,PL2002,strefa podlaska,PdSuwPulaskp,Cd(PM10),24g,0.256333792,0.05,0.50634566,133,36.43,0.46
+2018,pomorskie,PL2201,Aglomeracja Trójmiejska,PmGdyJozBema,Cd(PM10),24g,0.255894309,0.1,0.88,246,67.39,0.65
+2018,pomorskie,PL2202,strefa pomorska,PmKosTargo12,Cd(PM10),24g,0.310055402,0.1,0.88,361,98.9,1.01
+2018,pomorskie,PL2202,strefa pomorska,PmMalMicki15,Cd(PM10),24g,0.287409471,0.1,0.73,359,98.35,1.01
+2018,śląskie,PL2401,Aglomeracja Górnośląska,SlKatoKossut,Cd(PM10),24g,0.802575342,0.1,4.46,365,100,1.01
+2018,śląskie,PL2402,Aglomeracja Rybnicko-Jastrzębska,SlRybniBorki,Cd(PM10),24g,0.412884615,0.1,1.39,364,99.72,1.01
+2018,śląskie,PL2403,miasto Bielsko-Biała,SlBielKossak,Cd(PM10),24g,0.282592593,0.1,0.77,351,96.16,1.09
+2018,śląskie,PL2404,miasto Częstochowa,SlCzestoBacz,Cd(PM10),24g,0.649855908,0.1,4.72,347,95.06,0.91
+2018,śląskie,PL2405,strefa śląska,SlGodGliniki,Cd(PM10),24g,0.100353982,0.1,0.22,339,92.87,1.08
+2018,śląskie,PL2405,strefa śląska,SlPszczBoged,Cd(PM10),24g,0.424570637,0.1,1.73,361,98.9,1.02
+2018,śląskie,PL2405,strefa śląska,SlTarnoLitew,Cd(PM10),24g,1.367671233,0.1,10.09,365,100,1.01
+2018,świętokrzyskie,PL2601,miasto Kielce,SkKielJagiel,Cd(PM10),24g,0.4215,0.15,0.79,140,38.35,0.56
+2018,świętokrzyskie,PL2601,miasto Kielce,SkKielTargow,Cd(PM10),24g,0.3625,0.12,0.86,168,46.02,0.85
+2018,warmińsko-mazurskie,PL2801,miasto Olsztyn,WmOlsPuszkin,Cd(PM10),24g,0.15757716,0.025,0.4,324,88.76,0.96
+2018,warmińsko-mazurskie,PL2802,miasto Elbląg,WmElbBazynsk,Cd(PM10),24g,0.217561644,0.025,1.05,365,100,1.01
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmNiTraugutt,Cd(PM10),24g,0.205739726,0.025,0.86,365,100,1.01
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(PM10),24g,0.104527778,0.01,0.32,360,98.63,1.01
+2018,wielkopolskie,PL3001,Aglomeracja Poznańska,WpPoznChwial,Cd(PM10),24g,0.401100917,0.1,1.21,218,59.72,0.63
+2018,wielkopolskie,PL3002,miasto Kalisz,WpKaliSawick,Cd(PM10),24g,0.470043478,0.1,1.21,230,63.01,0.59
+2018,wielkopolskie,PL3003,strefa wielkopolska,WpNoTomSzpit,Cd(PM10),24g,0.400176991,0.1,1.37,226,61.91,0.73
+2018,wielkopolskie,PL3003,strefa wielkopolska,WpOstWieWyso,Cd(PM10),24g,0.403224299,0.1,1.02,214,58.63,0.66
+2018,wielkopolskie,PL3003,strefa wielkopolska,WpPilaKusoci,Cd(PM10),24g,0.303130435,0.1,0.84,230,63.01,0.58
+2018,zachodniopomorskie,PL3201,Aglomeracja Szczecińska,ZpSzczAndr01,Cd(PM10),24g,0.160846154,0.1,0.487,182,49.86,1.02
+2018,zachodniopomorskie,PL3202,miasto Koszalin,ZpKoszSpasow,Cd(PM10),24g,0.165,0.1,0.4,182,49.86,1.02
+2018,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpSzczec1Maj,Cd(PM10),24g,0.179538462,0.1,0.499,182,49.86,1.02
+2018,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpWiduBulRyb,Cd(PM10),24g,0.158461538,0.1,0.44,182,49.86,1.02
+2019,dolnośląskie,PL0201,Aglomeracja Wrocławska,DsWrocWybCon,Cd(PM10),24g,0.291726761,0.076,0.857,355,97.26,1.04
+2019,dolnośląskie,PL0202,miasto Legnica,DsLegAlRzecz,Cd(PM10),24g,0.577490028,0.181,1.529,351,96.16,0.93
+2019,dolnośląskie,PL0203,miasto Wałbrzych,DsWalbrzWyso,Cd(PM10),24g,0.290446575,0.06,1.166,365,100,1.01
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsGlogWiStwo,Cd(PM10),24g,0.557689076,0.156,2.125,357,97.8,1.03
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsJaworMOB,Cd(PM10),24g,0.27988024,0.052,0.883,334,91.5,0.89
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsJelGorSoko,Cd(PM10),24g,0.266077778,0.052,1.879,360,98.63,1
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(PM10),24g,0.193544073,0.03,0.902,329,90.13,0.89
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsPolKasztan,Cd(PM10),24g,0.264167139,0.078,0.622,353,96.71,1.03
+2019,kujawsko-pomorskie,PL0401,Aglomeracja Bydgoska,KpBydWarszaw,Cd(PM10),24g,0.340869814,0.065,1.56733347,365,100,1.01
+2019,kujawsko-pomorskie,PL0402,miasto Toruń,KpToruDziewu,Cd(PM10),24g,0.215382192,0.065,0.5197,365,100,1.01
+2019,kujawsko-pomorskie,PL0403,miasto Włocławek,KpWloclGniaz,Cd(PM10),24g,0.29163628,0.065,0.70973056,365,100,1.01
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpBrodKochan,Cd(PM10),24g,0.221346111,0.065,0.5116,360,98.63,1.03
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpCiechTezni,Cd(PM10),24g,0.20950466,0.065,0.47682872,365,100,1.01
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpGrudSienki,Cd(PM10),24g,0.409261944,0.065,1.0555,360,98.63,1.03
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpInowSolank,Cd(PM10),24g,0.182377639,0.065,0.51317898,358,98.08,0.97
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpKoniczynka,Cd(PM10),24g,0.207550824,0.065,0.6917,364,99.72,1.01
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpNaklSkargi,Cd(PM10),24g,0.38978075,0.065,1.30109048,365,100,1.01
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpWieniZdroj,Cd(PM10),24g,0.181852393,0.065,0.62685044,356,97.53,1.06
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(PM10),24g,0.091850914,0.025,0.27513676,353,96.71,1.04
+2019,lubelskie,PL0601,Aglomeracja Lubelska,LbLubSliwins,Cd(PM10),24g,0.203232877,0.03,0.51,365,100,1.01
+2019,lubelskie,PL0602,strefa lubelska,LbZamoHrubie,Cd(PM10),24g,0.211432507,0.03,1.33,363,99.45,1.02
+2019,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzKosGdy,Cd(PM10),24g,0.150470914,0.01,0.44,361,98.9,0.98
+2019,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzPilsud,Cd(PM10),24g,0.135054945,0.01,0.36,364,99.72,1
+2019,lubuskie,PL0802,miasto Zielona Góra,LuZielKrotka,Cd(PM10),24g,0.280027473,0.01,2.26,364,99.72,1.01
+2019,lubuskie,PL0803,strefa lubuska,LuNowaSolMOB,Cd(PM10),24g,0.264903581,0.03,1.01,363,99.45,1.02
+2019,lubuskie,PL0803,strefa lubuska,LuSulecDudka,Cd(PM10),24g,0.159063361,0.01,1.14,363,99.45,0.99
+2019,lubuskie,PL0803,strefa lubuska,LuWsKaziWiel,Cd(PM10),24g,0.371589041,0.03,1.12,365,100,1.01
+2019,lubuskie,PL0803,strefa lubuska,LuZarySzyman,Cd(PM10),24g,0.222407932,0,0.63,353,96.71,1.08
+2019,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzLegion,Cd(PM10),24g,0.330410959,0.07,0.76,365,100,1.01
+2019,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzRudzka,Cd(PM10),24g,0.291559889,0.05,0.81,359,98.35,1.01
+2019,łódzkie,PL1001,Aglomeracja Łódzka,LdPabiKilins,Cd(PM10),24g,0.271176471,0.08,0.61,306,83.83,1.49
+2019,łódzkie,PL1002,strefa łódzka,LdPioTrKraPr,Cd(PM10),24g,0.400801105,0.08,1.19,362,99.17,1.02
+2019,łódzkie,PL1002,strefa łódzka,LdSieraPolna,Cd(PM10),24g,0.268075802,0.07,1.13,343,93.97,0.97
+2019,łódzkie,PL1002,strefa łódzka,LdSkierKonop,Cd(PM10),24g,0.263753425,0.05,0.72,365,100,1.01
+2019,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBujaka,Cd(PM10),24g,0.431581699,0.15095,1.11163,365,100,1.01
+2019,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBulwar,Cd(PM10),24g,0.508869048,0.17,1.65,336,92.05,1.02
+2019,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakWadow,Cd(PM10),24g,0.440307263,0.12,1.67,358,98.08,1.05
+2019,małopolskie,PL1202,miasto Tarnów,MpTarBitStud,Cd(PM10),24g,0.543753425,0.11,5.03,365,100,1.01
+2019,małopolskie,PL1203,strefa małopolska,MpNoSaczNadb,Cd(PM10),24g,0.387225275,0.09,1.57,364,99.72,1.01
+2019,małopolskie,PL1203,strefa małopolska,MpTrzebOsZWM,Cd(PM10),24g,0.736465753,0.08,7.85,365,100,1.01
+2019,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAKrzywo,Cd(PM10),24g,0.17849116,0.1,0.4506,362,99.17,1.02
+2019,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAlNiepo,Cd(PM10),24g,0.166476471,0.1,0.4408,357,97.8,1.05
+2019,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarBajkowa,Cd(PM10),24g,0.22962514,0.1,0.5498,358,98.08,1.03
+2019,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarChrosci,Cd(PM10),24g,0.199334278,0.1,1.1288,353,96.71,1.06
+2019,mazowieckie,PL1402,miasto Płock,MzPlocKroJad,Cd(PM10),24g,0.144509972,0.1,0.4476,361,98.9,1.02
+2019,mazowieckie,PL1403,miasto Radom,MzRad25Czerw,Cd(PM10),24g,0.26168137,0.1,1.0287,365,100,1.01
+2019,mazowieckie,PL1404,strefa mazowiecka,MzGutyDuCzer,Cd(PM10),24g,0.125598214,0.1,0.3757,336,92.05,1.15
+2019,mazowieckie,PL1404,strefa mazowiecka,MzKonJezMos,Cd(PM10),24g,0.187961415,0.1,0.4699,311,85.2,1.19
+2019,mazowieckie,PL1404,strefa mazowiecka,MzMinMazKaziMOB,Cd(PM10),24g,0.236916082,0.1,0.749,342,93.69,0.93
+2019,mazowieckie,PL1404,strefa mazowiecka,MzOstroHalle,Cd(PM10),24g,0.141890685,0.1,0.4436,365,100,1.01
+2019,mazowieckie,PL1404,strefa mazowiecka,MzOtwoBrzozo,Cd(PM10),24g,0.276855432,0.1,0.5935,359,98.35,0.97
+2019,mazowieckie,PL1404,strefa mazowiecka,MzSiedKonars,Cd(PM10),24g,0.193048352,0.1,0.418,364,99.72,1
+2019,opolskie,PL1601,miasto Opole,OpOpoleOsAKr,Cd(PM10),24g,0.29635467,0.0347,1.0368,364,99.72,1.01
+2019,opolskie,PL1602,strefa opolska,OpNysaRodzie,Cd(PM10),24g,0.208792011,0.043,0.7076,363,99.45,1.02
+2019,podkarpackie,PL1801,miasto Rzeszów,PkRzeszRejta,Cd(PM10),24g,0.30460274,0.05,0.79,365,100,1.01
+2019,podkarpackie,PL1802,strefa podkarpacka,PkJasloSikor,Cd(PM10),24g,0.414515235,0.05,1.67,361,98.9,1.01
+2019,podkarpackie,PL1802,strefa podkarpacka,PkKrosKletow,Cd(PM10),24g,0.725939227,0.13,6.48,362,99.17,0.99
+2019,podkarpackie,PL1802,strefa podkarpacka,PkPrzemGrunw,Cd(PM10),24g,0.297784091,0.05,0.76,352,96.43,1.07
+2019,podkarpackie,PL1802,strefa podkarpacka,PkRymZdrPark,Cd(PM10),24g,0.236142857,0.05,0.69,350,95.89,1.1
+2019,podkarpackie,PL1802,strefa podkarpacka,PkStWolWoPol,Cd(PM10),24g,0.39569863,0.12,1.16,365,100,1.01
+2019,podlaskie,PL2001,Aglomeracja Białostocka,PdBialWaszyn,Cd(PM10),24g,0.109080047,0.03,0.33592709,356,97.53,0.98
+2019,podlaskie,PL2002,strefa podlaska,PdSuwPulaskp,Cd(PM10),24g,0.114666569,0.03,0.31129043,356,97.53,1.06
+2019,pomorskie,PL2201,Aglomeracja Trójmiejska,PmGdyJozBema,Cd(PM10),24g,0.145068493,0.1,0.47,365,100,1.01
+2019,pomorskie,PL2202,strefa pomorska,PmKosTargo12,Cd(PM10),24g,0.224194444,0.1,0.58,360,98.63,0.98
+2019,pomorskie,PL2202,strefa pomorska,PmMalMicki15,Cd(PM10),24g,0.233238636,0.1,0.67,352,96.43,0.94
+2019,śląskie,PL2401,Aglomeracja Górnośląska,SlKatoKossut,Cd(PM10),24g,0.625380282,0.1,3.89,355,97.26,0.98
+2019,śląskie,PL2402,Aglomeracja Rybnicko-Jastrzębska,SlRybniBorki,Cd(PM10),24g,0.336648199,0.1,1.49,361,98.9,1.03
+2019,śląskie,PL2403,miasto Bielsko-Biała,SlBielKossak,Cd(PM10),24g,0.36241791,0.1,1.72,335,91.78,0.91
+2019,śląskie,PL2404,miasto Częstochowa,SlCzestoBacz,Cd(PM10),24g,0.461123288,0.1,1.63,365,100,1.01
+2019,śląskie,PL2405,strefa śląska,SlGodGliniki,Cd(PM10),24g,0.143076923,0.1,0.58,351,96.16,1.01
+2019,śląskie,PL2405,strefa śląska,SlPszczBoged,Cd(PM10),24g,0.47801676,0.1,3.22,358,98.08,1.05
+2019,śląskie,PL2405,strefa śląska,SlTarnoLitew,Cd(PM10),24g,1.381680912,0.1,9.72,351,96.16,1.01
+2019,świętokrzyskie,PL2601,miasto Kielce,SkKielTargow,Cd(PM10),24g,0.311052632,0.08,0.82,342,93.69,1.06
+2019,świętokrzyskie,PL2602,strefa świętokrzyska,SkStaraZlota,Cd(PM10),24g,0.272011019,0.06,0.7,363,99.45,1.02
+2019,warmińsko-mazurskie,PL2801,miasto Olsztyn,WmOlsPuszkin,Cd(PM10),24g,0.100273973,0.025,0.28,365,100,1.01
+2019,warmińsko-mazurskie,PL2802,miasto Elbląg,WmElbBazynsk,Cd(PM10),24g,0.127064607,0.025,0.4,356,97.53,0.99
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmNiTraugutt,Cd(PM10),24g,0.142534247,0.025,0.55,365,100,1.01
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(PM10),24g,0.07815864,0.01,0.24,353,96.71,1.02
+2019,wielkopolskie,PL3001,Aglomeracja Poznańska,WpPoznChwial,Cd(PM10),24g,0.3096,0.1,1.59,225,61.64,0.67
+2019,wielkopolskie,PL3002,miasto Kalisz,WpKaliSawick,Cd(PM10),24g,0.287534884,0.1,0.95,215,58.9,0.64
+2019,wielkopolskie,PL3003,strefa wielkopolska,WpNoTomSzpit,Cd(PM10),24g,0.225206612,0.1,0.78,242,66.3,0.68
+2019,wielkopolskie,PL3003,strefa wielkopolska,WpOstWieWyso,Cd(PM10),24g,0.330134529,0.1,0.87,223,61.09,0.6
+2019,wielkopolskie,PL3003,strefa wielkopolska,WpPilaKusoci,Cd(PM10),24g,0.203901345,0.1,0.53,223,61.09,0.6
+2019,zachodniopomorskie,PL3201,Aglomeracja Szczecińska,ZpSzczAndr01,Cd(PM10),24g,0.114195531,0.1,0.24,179,49.04,0.99
+2019,zachodniopomorskie,PL3202,miasto Koszalin,ZpKoszSpasow,Cd(PM10),24g,0.120110497,0.1,0.62,181,49.58,1.01
+2019,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpSzczec1Maj,Cd(PM10),24g,0.109438202,0.1,0.23,178,48.76,1
+2020,dolnośląskie,PL0201,Aglomeracja Wrocławska,DsWrocWybCon,Cd(PM10),24g,0.264391549,0.015,1.166,355,96.99,1.05
+2020,dolnośląskie,PL0203,miasto Wałbrzych,DsWalbrzWyso,Cd(PM10),24g,0.260666667,0.078,0.803,366,100,1
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsGlogWiStwo,Cd(PM10),24g,0.46479096,0.13,1.477,354,96.72,1.06
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsLegAlRzecz,Cd(PM10),24g,0.475476454,0.13,1.477,361,98.63,0.97
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Cd(PM10),24g,0.14738674,0.027,0.455,362,98.9,1
+2020,kujawsko-pomorskie,PL0401,Aglomeracja Bydgoska,KpBydWarszaw,Cd(PM10),24g,0.238446588,0.065,1.05747616,359,98.08,1.04
+2020,kujawsko-pomorskie,PL0402,miasto Toruń,KpToruDziewu,Cd(PM10),24g,0.161,0.065,0.486,356,97.26,0.95
+2020,kujawsko-pomorskie,PL0403,miasto Włocławek,KpWloclGniaz,Cd(PM10),24g,0.207283545,0.065,0.77707726,366,100,1
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpCiechTezni,Cd(PM10),24g,0.183222115,0.065,0.55984076,359,98.08,0.96
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpGrudSienki,Cd(PM10),24g,0.302375137,0.065,0.7996,366,100,1
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpInowSolank,Cd(PM10),24g,0.162376107,0.065,0.57538831,366,100,1
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpKoniczynka,Cd(PM10),24g,0.128953803,0.065,0.3618,355,96.99,0.98
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpWieniZdroj,Cd(PM10),24g,0.170831952,0.065,0.51287763,359,98.08,0.96
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(PM10),24g,0.09638026,0.025,0.31348899,343,93.71,0.91
+2020,lubelskie,PL0601,Aglomeracja Lubelska,LbLubSliwins,Cd(PM10),24g,0.199726776,0.03,0.58,366,100,1
+2020,lubelskie,PL0602,strefa lubelska,LbBiaPodOrze,Cd(PM10),24g,0.206530055,0.03,0.6,366,100,1
+2020,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzKosGdy,Cd(PM10),24g,0.118603989,0.01,0.3,351,95.9,0.92
+2020,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzPilsud,Cd(PM10),24g,0.095409836,0.01,0.3,366,100,1
+2020,lubuskie,PL0802,miasto Zielona Góra,LuZielKrotka,Cd(PM10),24g,0.174542857,0.02,0.83,350,95.62,0.91
+2020,lubuskie,PL0803,strefa lubuska,LuSmolBytnic,Cd(PM10),24g,0.084591549,0,0.36,355,96.99,1.06
+2020,lubuskie,PL0803,strefa lubuska,LuSulecDudka,Cd(PM10),24g,0.115552326,0.01,0.48,344,93.98,0.93
+2020,lubuskie,PL0803,strefa lubuska,LuSwiebodMOB,Cd(PM10),24g,0.12952514,0.01,0.46,358,97.81,1.05
+2020,lubuskie,PL0803,strefa lubuska,LuWsKaziWiel,Cd(PM10),24g,0.317939394,0.02,1.01,330,90.16,0.8
+2020,lubuskie,PL0803,strefa lubuska,LuZarySzyman,Cd(PM10),24g,0.200739726,0.05,0.84,365,99.72,1.01
+2020,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzLegion,Cd(PM10),24g,0.316638889,0.04,0.81,360,98.36,0.99
+2020,łódzkie,PL1001,Aglomeracja Łódzka,LdPabiKilins,Cd(PM10),24g,0.31032967,0.07,1.32,364,99.45,1.01
+2020,łódzkie,PL1002,strefa łódzka,LdPioTrKraPr,Cd(PM10),24g,0.395863014,0.08,1.87,365,99.72,0.99
+2020,łódzkie,PL1002,strefa łódzka,LdSkierKonop,Cd(PM10),24g,0.277295082,0.07,0.8,366,100,1
+2020,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBujaka,Cd(PM10),24g,0.417037225,0.17,0.91959,364,99.45,1
+2020,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBulwar,Cd(PM10),24g,0.408732782,0.14,0.94,363,99.18,0.99
+2020,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakWadow,Cd(PM10),24g,0.380985915,0.16,1.03,355,96.99,1.06
+2020,małopolskie,PL1202,miasto Tarnów,MpTarBitStud,Cd(PM10),24g,0.462225275,0.13,2.55,364,99.45,0.99
+2020,małopolskie,PL1203,strefa małopolska,MpTrzebOsZWM,Cd(PM10),24g,0.575348189,0.15,1.74,359,98.08,0.96
+2020,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAKrzywo,Cd(PM10),24g,0.208746243,0.03,0.4615,346,94.53,1.11
+2020,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarBajkowa,Cd(PM10),24g,0.238571429,0.03,0.57,364,99.45,1
+2020,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarChrosci,Cd(PM10),24g,0.222349727,0.06,0.56,366,100,1
+2020,mazowieckie,PL1402,miasto Płock,MzPlocKroJad,Cd(PM10),24g,0.133884426,0.03,0.3445,366,100,1
+2020,mazowieckie,PL1403,miasto Radom,MzRad25Czerw,Cd(PM10),24g,0.305236228,0.0798,0.7141,334,91.25,0.94
+2020,mazowieckie,PL1404,strefa mazowiecka,MzMinMazKaziMOB,Cd(PM10),24g,0.221117614,0.03,0.62,352,96.17,0.97
+2020,mazowieckie,PL1404,strefa mazowiecka,MzOtwoBrzozo,Cd(PM10),24g,0.299344152,0.0629,1.1927,342,93.44,1.1
+2020,mazowieckie,PL1404,strefa mazowiecka,MzSiedKonars,Cd(PM10),24g,0.210556284,0.03,0.475,366,100,1
+2020,opolskie,PL1601,miasto Opole,OpOpoleOsAKr,Cd(PM10),24g,0.495410383,0.0518,4.043,366,100,1
+2020,opolskie,PL1602,strefa opolska,OpStrzOpWysz,Cd(PM10),24g,0.795123193,0.0405,7.3786,332,90.71,1.06
+2020,podkarpackie,PL1801,miasto Rzeszów,PkRzeszRejta,Cd(PM10),24g,0.231080332,0.05,0.74,361,98.63,1.02
+2020,podkarpackie,PL1802,strefa podkarpacka,PkKrosKletow,Cd(PM10),24g,0.478928571,0.05,4.35,364,99.45,1.01
+2020,podkarpackie,PL1802,strefa podkarpacka,PkMielPogodn,Cd(PM10),24g,0.279385475,0.05,0.71,358,97.81,0.98
+2020,podkarpackie,PL1802,strefa podkarpacka,PkRymZdrPark,Cd(PM10),24g,0.153333333,0.05,0.38,366,100,1
+2020,podkarpackie,PL1802,strefa podkarpacka,PkStWolWoPol,Cd(PM10),24g,0.456749311,0.1,2.52,363,99.18,0.98
+2020,podlaskie,PL2001,Aglomeracja Białostocka,PdBialWaszyn,Cd(PM10),24g,0.193105479,0.05,0.725902,336,91.8,0.93
+2020,podlaskie,PL2002,strefa podlaska,PdSuwPulaskp,Cd(PM10),24g,0.169150528,0.05,0.98579905,357,97.54,1.05
+2020,pomorskie,PL2201,Aglomeracja Trójmiejska,PmGdaLecz08m,Cd(PM10),24g,0.173,0.1,0.64,360,98.36,1
+2020,pomorskie,PL2202,strefa pomorska,PmKosTargo12,Cd(PM10),24g,0.218,0.1,0.68,335,91.53,1.02
+2020,pomorskie,PL2202,strefa pomorska,PmLebMalcz16,Cd(PM10),24g,0.388774373,0.1,1.2,359,98.08,1.04
+2020,śląskie,PL2401,Aglomeracja Górnośląska,SlKatoKossut,Cd(PM10),24g,0.999562842,0.1,5.39,366,100,1
+2020,śląskie,PL2402,Aglomeracja Rybnicko-Jastrzębska,SlRybniBorki,Cd(PM10),24g,0.433708791,0.1,1.66,364,99.45,0.99
+2020,śląskie,PL2404,miasto Częstochowa,SlCzestoBacz,Cd(PM10),24g,0.673497268,0.1,3.47,366,100,1
+2020,śląskie,PL2405,strefa śląska,SlGodGliniki,Cd(PM10),24g,0.398068536,0.1,1.43,321,87.7,0.83
+2020,śląskie,PL2405,strefa śląska,SlPszczBoged,Cd(PM10),24g,0.524814815,0.1,6.59,351,95.9,1.09
+2020,śląskie,PL2405,strefa śląska,SlTarnoLitew,Cd(PM10),24g,2.677094972,0.1,50.06,358,97.81,0.96
+2020,świętokrzyskie,PL2601,miasto Kielce,SkKielTargow,Cd(PM10),24g,0.325997101,0.007,0.91,345,94.26,0.93
+2020,świętokrzyskie,PL2602,strefa świętokrzyska,SkStaraZlota,Cd(PM10),24g,0.299801136,0.08,0.77,352,96.17,0.92
+2020,warmińsko-mazurskie,PL2801,miasto Olsztyn,WmOlsPuszkin,Cd(PM10),24g,0.107923497,0.025,0.39,366,100,1
+2020,warmińsko-mazurskie,PL2802,miasto Elbląg,WmElbBazynsk,Cd(PM10),24g,0.142103825,0.025,0.68,366,100,1
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmNiTraugutt,Cd(PM10),24g,0.211297814,0.025,2.3,366,100,1
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(PM10),24g,0.061101695,0.01,0.21,354,96.72,0.97
+2020,wielkopolskie,PL3001,Aglomeracja Poznańska,WpPoznChwial,Cd(PM10),24g,0.301829787,0.1,1.27,235,64.2,0.61
+2020,wielkopolskie,PL3002,miasto Kalisz,WpKaliSawick,Cd(PM10),24g,0.325703422,0.1,1.15,263,71.85,0.59
+2020,wielkopolskie,PL3003,strefa wielkopolska,WpNoTomSzpit,Cd(PM10),24g,0.313692946,0.1,1.74,241,65.84,0.45
+2020,zachodniopomorskie,PL3201,Aglomeracja Szczecińska,ZpSzczAndr01,Cd(PM10),24g,0.139184783,0.1,0.42,184,50.27,0.98
+2020,zachodniopomorskie,PL3202,miasto Koszalin,ZpKoszSpasow,Cd(PM10),24g,0.131847826,0.1,0.35,184,50.27,0.98
+2020,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpSzczec1Maj,Cd(PM10),24g,0.149558011,0.1,0.81,181,49.45,0.97
+2021,dolnośląskie,PL0201,Aglomeracja Wrocławska,DsWrocWybCon,Cd(PM10),24g,0.238916667,0.1,0.67,360,98.63,1.03
+2021,dolnośląskie,PL0202,miasto Legnica,DsLegAlRzecz,Cd(PM10),24g,0.448666667,0.1,1.14,360,98.63,1.03
+2021,dolnośląskie,PL0203,miasto Wałbrzych,DsWalbrzWyso,Cd(PM10),24g,0.224986072,0.1,0.56,359,98.35,1.03
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsGlogWiStwo,Cd(PM10),24g,0.407441176,0.1,2.13,340,93.15,0.92
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(PM10),24g,0.147883008,0.1,0.48,359,98.35,0.97
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsPolKasztan,Cd(PM10),24g,0.198535912,0.1,0.41,362,99.17,1.02
+2021,kujawsko-pomorskie,PL0401,Aglomeracja Bydgoska,KpBydWarszaw,Cd(PM10),24g,0.330373268,0.1,1.05747424,365,100,1.01
+2021,kujawsko-pomorskie,PL0402,miasto Toruń,KpToruDziewu,Cd(PM10),24g,0.215066027,0.1,0.8362,365,100,1.01
+2021,kujawsko-pomorskie,PL0403,miasto Włocławek,KpWloclGniaz,Cd(PM10),24g,0.274122241,0.1,0.93249512,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpGrudSienki,Cd(PM10),24g,0.381317534,0.1,1.0127,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpInowSolank,Cd(PM10),24g,0.201953845,0.1,0.53392193,365,100,1.01
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpNaklWawrzy,Cd(PM10),24g,0.244430063,0.1,0.81475595,355,97.26,1.06
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(PM10),24g,0.120814031,0.025,0.42400203,336,92.05,0.85
+2021,lubelskie,PL0601,Aglomeracja Lubelska,LbLubSliwins,Cd(PM10),24g,0.165424658,0.1,0.44,365,100,1.01
+2021,lubelskie,PL0602,strefa lubelska,LbBiaPodOrze,Cd(PM10),24g,0.174203297,0.1,0.43,364,99.72,1.01
+2021,lubuskie,PL0801,miasto Gorzów Wielkopolski,LuGorzKosGdy,Cd(PM10),24g,0.117107438,0.08,0.24,363,99.45,1.02
+2021,lubuskie,PL0802,miasto Zielona Góra,LuZielKrotka,Cd(PM10),24g,0.139217877,0.09,0.43,358,98.08,1.05
+2021,lubuskie,PL0803,strefa lubuska,LuGubinAnderMOB,Cd(PM10),24g,0.112821229,0.06,0.33,358,98.08,1.02
+2021,lubuskie,PL0803,strefa lubuska,LuNowaSolKos,Cd(PM10),24g,0.164106145,0.09,0.51,358,98.08,1.05
+2021,lubuskie,PL0803,strefa lubuska,LuWsKaziWiel,Cd(PM10),24g,0.208512397,0.1,2.08,363,99.45,1.02
+2021,lubuskie,PL0803,strefa lubuska,LuZarySzyman,Cd(PM10),24g,0.133808219,0.08,0.39,365,100,1.01
+2021,łódzkie,PL1001,Aglomeracja Łódzka,LdLodzLegion,Cd(PM10),24g,0.306443769,0.1,0.76,329,90.13,0.84
+2021,łódzkie,PL1001,Aglomeracja Łódzka,LdPabiKilins,Cd(PM10),24g,0.272216066,0.1,0.71,361,98.9,1.02
+2021,łódzkie,PL1002,strefa łódzka,LdPioTrKraPr,Cd(PM10),24g,0.334254144,0.1,1.24,362,99.17,1
+2021,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBujaka,Cd(PM10),24g,0.37203124,0.1,0.78,363,99.45,0.99
+2021,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakBulwar,Cd(PM10),24g,0.385694444,0.1,0.79,360,98.63,1.03
+2021,małopolskie,PL1201,Aglomeracja Krakowska,MpKrakWadow,Cd(PM10),24g,0.318300283,0.1,0.77,353,96.71,1.08
+2021,małopolskie,PL1202,miasto Tarnów,MpTarBitStud,Cd(PM10),24g,0.28956044,0.1,1.22,364,99.72,1
+2021,małopolskie,PL1203,strefa małopolska,MpTrzebOsZWM,Cd(PM10),24g,0.509148352,0.1,1.43,364,99.72,1
+2021,mazowieckie,PL1401,Aglomeracja Warszawska,MzWarAKrzywo,Cd(PM10),24g,0.166647564,0.1,0.6,349,95.61,0.96
+2021,mazowieckie,PL1402,miasto Płock,MzPlocKroJad,Cd(PM10),24g,0.157465181,0.1,0.61,359,98.35,0.98
+2021,mazowieckie,PL1403,miasto Radom,MzRad25Czerw,Cd(PM10),24g,0.240165289,0.1,0.85,363,99.45,0.99
+2021,mazowieckie,PL1404,strefa mazowiecka,MzOtwoBrzozo,Cd(PM10),24g,0.55988764,0.1,1.89,356,97.53,0.99
+2021,opolskie,PL1601,miasto Opole,OpOpoleOsAKr,Cd(PM10),24g,0.267075943,0.1,0.86,212,58.08,1.36
+2021,opolskie,PL1602,strefa opolska,OpBrzegPoprz,Cd(PM10),24g,0.188481375,0.05,0.7,349,95.61,1.08
+2021,podkarpackie,PL1801,miasto Rzeszów,PkRzeszRejta,Cd(PM10),24g,0.230795455,0.1,0.57,352,96.43,1.06
+2021,podkarpackie,PL1802,strefa podkarpacka,PkKrosKletow,Cd(PM10),24g,0.297774725,0.1,0.67,364,99.72,1.01
+2021,podkarpackie,PL1802,strefa podkarpacka,PkMielPogodn,Cd(PM10),24g,0.249320113,0.1,0.54,353,96.71,0.95
+2021,podlaskie,PL2001,Aglomeracja Białostocka,PdBialWaszyn,Cd(PM10),24g,0.153453026,0.1,0.41479577,357,97.8,1.05
+2021,podlaskie,PL2002,strefa podlaska,PdSuwPulask2,Cd(PM10),24g,0.16361365,0.1,0.57071111,350,95.89,1.1
+2021,pomorskie,PL2201,Aglomeracja Trójmiejska,PmGdaLeczk81,Cd(PM10),24g,0.180747922,0.1,0.69,361,98.9,1.02
+2021,pomorskie,PL2202,strefa pomorska,PmChojPlEmsdMOB,Cd(PM10),24g,0.257071823,0.1,0.86,362,99.17,1.02
+2021,śląskie,PL2401,Aglomeracja Górnośląska,SlDabroTysia,Cd(PM10),24g,0.506638177,0.1,2.27,351,96.16,0.93
+2021,śląskie,PL2401,Aglomeracja Górnośląska,SlKatoKossut,Cd(PM10),24g,0.422418879,0.1,1.43,339,92.87,0.99
+2021,śląskie,PL2402,Aglomeracja Rybnicko-Jastrzębska,SlRybniBorki,Cd(PM10),24g,0.538632479,0.1,10.37,351,96.16,0.93
+2021,śląskie,PL2403,miasto Bielsko-Biała,SlBielKossak,Cd(PM10),24g,0.282492492,0.1,1.59,333,91.23,1.01
+2021,śląskie,PL2404,miasto Częstochowa,SlCzestoBacz,Cd(PM10),24g,0.462645349,0.1,3.47,344,94.24,0.89
+2021,śląskie,PL2405,strefa śląska,SlGodGliniki,Cd(PM10),24g,0.306162465,0.1,0.75,357,97.8,0.96
+2021,śląskie,PL2405,strefa śląska,SlPszczBoged,Cd(PM10),24g,0.450849315,0.1,3.06,365,100,1.01
+2021,śląskie,PL2405,strefa śląska,SlTarnoLitew,Cd(PM10),24g,0.594757835,0.1,3.82,351,96.16,0.93
+2021,świętokrzyskie,PL2601,miasto Kielce,SkKielTargow,Cd(PM10),24g,0.314871795,0.1,0.93,351,96.16,1.09
+2021,świętokrzyskie,PL2602,strefa świętokrzyska,SkStaraZlota,Cd(PM10),24g,0.325013699,0.1,0.79,365,100,1.01
+2021,warmińsko-mazurskie,PL2801,miasto Olsztyn,WmOlsPuszkin,Cd(PM10),24g,0.157863014,0.09,0.5,365,100,1.01
+2021,warmińsko-mazurskie,PL2802,miasto Elbląg,WmElbBazynsk,Cd(PM10),24g,0.147236467,0.1,0.43,351,96.16,1.09
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmNiTraugutt,Cd(PM10),24g,0.139369863,0.1,0.43,365,100,1.01
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(PM10),24g,0.042877493,0,0.17,351,96.16,1.01
+2021,wielkopolskie,PL3001,Aglomeracja Poznańska,WpPoznSpycha,Cd(PM10),24g,0.336987952,0.1,0.65,249,68.21,0.58
+2021,wielkopolskie,PL3002,miasto Kalisz,WpKaliSawick,Cd(PM10),24g,0.366032389,0.1,0.74,247,67.67,0.64
+2021,wielkopolskie,PL3003,strefa wielkopolska,WpOstWieWyso,Cd(PM10),24g,0.327261411,0.1,0.75,241,66.02,0.69
+2021,zachodniopomorskie,PL3201,Aglomeracja Szczecińska,ZpSzczAndrze,Cd(PM10),24g,0.103553299,0.1,0.2,197,53.97,1.01
+2021,zachodniopomorskie,PL3202,miasto Koszalin,ZpKoszChopin,Cd(PM10),24g,0.103608247,0.1,0.2,194,53.15,1.04
+2021,zachodniopomorskie,PL3203,strefa zachodniopomorska,ZpSzczec1Maj,Cd(PM10),24g,0.103664921,0.1,0.2,191,52.32,1.01

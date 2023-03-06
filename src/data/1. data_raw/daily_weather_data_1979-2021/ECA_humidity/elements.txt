@@ -1,0 +1,36 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  HU1,Relative humidity, mean of 0,7,13 18 UT current day                                                                                                   ,1 %            
+  HU2,Relative humidity, unknown interval                                                                                                                   ,1 %            
+  HU3,Mean relative humidity, 0-0 UT                                                                                                                        ,1 %            
+  HU4,Relative humidity, average of 07:30, 14:30 and 21:30 CET                                                                                              ,1 %            
+  HU5,Relative humidity, mean of 7, 14 and 21 UTC                                                                                                           ,1 %            
+  HU6,Relative humidity, mean 18-18 UT                                                                                                                      ,1 %            
+  HU7,Relative humidity, mean of 7, 14 and 21 CET                                                                                                           ,1 %            
+  HU8,Relative humidity, 23-22 UTC (24 values)                                                                                                              ,1 %            
+  HU9,Relative humidity, mean of 7, 14 and 19 UT                                                                                                            ,1 %            
+ HU10,Relative humidity at 9.00 AM                                                                                                                          ,1 %            
+ HU11,Relative humidity at 21.00                                                                                                                            ,1 %            
+ HU12,Relative humidity at 9 AM LT calculated from dewpoint and air temperature                                                                             ,1 %            
+ HU13,Mean relative humidity, 0-0 UTC (8 values)                                                                                                            ,1 %            
+ HU14,Relative humidity, mean of 9, 15, 21 LT                                                                                                               ,1 %            
+ HU15,Relative humidity, mean of 8, 14, 19 LT                                                                                                               ,1 %            
+ HU16,Relative humidity, mean of 21, 03, 09 and 15UTC                                                                                                       ,1 %            
+ HU17,Relative humidity, mean of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                                       ,1 %            
+ HU18,Relative humidity, mean of 7, 14 and 19 CET                                                                                                           ,1 %            
+ HU19,Mean relative humidity 0 - 0 local time (with changes to winter and summer time)                                                                      ,1 %            
+ HU20,Mean relative humidity 0 - 0  UT  average from 96 15 min. values                                                                                      ,0.1 mm         

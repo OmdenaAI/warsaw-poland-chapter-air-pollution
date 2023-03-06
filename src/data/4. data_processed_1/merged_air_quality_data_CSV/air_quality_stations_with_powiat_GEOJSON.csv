@@ -1,0 +1,1029 @@
+No,Station code,International code,Station name,Old station code,Launching date,Closing date,Station type,Region type,Station model,Voivodeship,City,Address,WGS84 φ N,WGS84 λ E,county,STANAME
+1,DsBialka,,Białka,DsBialka,1990-01-03,2005-12-31,industrial,suburban,container,dolnośląskie,Białka,,51.197783,16.11739,powiat legnicki,BIALKA
+2,DsBielGrot,,Bielawa - ul. Grota Roweckiego,DsBielGrot,1994-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Bielawa,ul. Grota Roweckiego 6,50.68251,16.617348,powiat dzierżoniowski,BIELAWA
+3,DsBogatFrancMOB,PL0602A,Bogatynia Mobil,DsBogatMob,2015-01-01,2015-12-31,background,urban,mobile,dolnośląskie,Bogatynia,ul. Francuska/Kręta,50.940998,14.91679,powiat zgorzelecki,BOGATYNIA
+4,DsBogChop,PL0315A,Bogatynia - Chopina,DsBogChop,1996-01-01,2013-12-31,industrial,urban,container,dolnośląskie,Bogatynia,ul. Chopina 35,50.905856,14.967175,powiat zgorzelecki,BOGATYNIA
+5,DsBogZatonieMob,PL0576A,Bogatynia - Mobil,DsBogZatonieMob,2012-01-01,2012-12-31,industrial,urban,mobile,dolnośląskie,Bogatynia,"ul. Konrada, Zatonie",50.943245000000005,14.913327,powiat zgorzelecki,BOGATYNIA
+6,DsBoleslaMOB,PL0658A,Bolesławiec,DsBoleslaMOB,2017-01-01,2018-01-02,background,urban,mobile,dolnośląskie,Bolesławiec,Juliusza Słowackiego 2,51.263245,15.570354,powiat bolesławiecki,BOLESLAWIEC
+7,DsBrzegGlog,,Brzeg Głogowski,DsBrzegGlog,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Brzeg Głogowski,,51.691438,15.91784,powiat głogowski,BRZEG GLOGOWSKI
+8,DsChojnowKil,PL0185A,"Chojnów,ul.Kilińskiego",DsChojnowKil,2004-01-06,2005-12-31,background,urban,container,dolnośląskie,Chojnów,ul. Kilińskiego,51.268889,15.940278,powiat legnicki,CHOJNOW
+9,DsCzar07,PL0186A,Czarna Góra,DsCzar07,1996-12-01,2008-09-30,background,nonurban,container,dolnośląskie,Czarna Góra,,50.255072,16.801641,powiat kłodzki,CZARNA GORA
+10,DsCzerStraza,PL0028A,Czerniawa,,1996-07-01,,background,nonurban,container,dolnośląskie,Czerniawa,ul. Strażacka 7,50.912475,15.31219,powiat lubański,CZERNIAWA
+11,DsCzLasMob,PL0599A,Czarny Las - Mobil Mercedes,DsCzLasMob,2013-01-01,2013-12-31,background,nonurban,mobile,dolnośląskie,Czarny Las,,51.541658,16.937064000000003,powiat trzebnicki,CZARNY LAS
+12,DsDusznikMOB,PL0733A,Duszniki-Zdrój,DsDusznikMOB,2019-01-01,2019-12-31,background,urban,mobile,dolnośląskie,Duszniki-Zdrój,Sportowa 2a,50.402645,16.393319,powiat kłodzki,DUSZNIKI-ZDROJ
+13,DsDuszZiel,,Duszniki Zdrój - ul. Zielona,DsDuszZiel,1993-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Duszniki-Zdrój,ul. Zielona 23,50.393396,16.38247,powiat kłodzki,DUSZNIKI-ZDROJ
+14,DsDzialoszyn,PL0054A,Działoszyn,,1996-07-01,,industrial,nonurban,container,dolnośląskie,Działoszyn,bez ulicy,50.972167,14.941319,powiat zgorzelecki,DZIALOSZYN
+15,DsDziePilsud,PL0187A,"Dzierżoniów, ul. Piłsudskiego",,2005-01-01,,background,urban,container,dolnośląskie,Dzierżoniów,ul. Piłsudskiego 26,50.732817,16.64805,powiat dzierżoniowski,DZIERZONIOW
+16,DsDzierKras,,Dzierżoniów - ul. Krasickiego,DsDzierKras,1986-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Dzierżoniów,ul. Krasickiego 36,50.726338,16.647285999999998,powiat dzierżoniowski,DZIERZONIOW
+17,DsGlogMob,PL0625A,Głogów - Wita Stwosza - mobil,DsGlogMob,2014-01-01,2014-12-31,background,urban,mobile,dolnośląskie,Głogów,ul. Wita Stwosza,51.657022,16.097822,powiat głogowski,GLOGOW
+18,DsGlogNorw,PL0188A,Głogów - Norwida,DsGlogNorw,2011-01-01,2014-12-31,background,urban,dust collector,dolnośląskie,Głogów,ul. Norwida 3,51.65713,16.086188,powiat głogowski,GLOGOW
+19,DsGlogNorwArch,,Głogów - Norwida Arch,DsGlogNorwArch,1994-01-01,2009-12-31,background,urban,dust collector,dolnośląskie,Głogów,ul. Norwida 3,51.657152,16.086183,powiat głogowski,GLOGOW
+20,DsGlogOrzech,,"Głogów, ul. Orzechowa",DsGlogOrzech,1980-01-01,2003-12-31,background,urban,in-house,dolnośląskie,Głogów,ul. Orzechowa,51.648546,16.092285999999998,powiat głogowski,GLOGOW
+21,DsGlogowko,,Głogówko,DsGlogowko,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Głogówko,,51.731824,16.097768,powiat głogowski,GLOGOWKO
+22,DsGlogSikor,PL0260A,"Głogów, ul. Sikorskiego",DsGlogSikor,2003-10-01,2013-12-31,industrial,suburban,container,dolnośląskie,Głogów,ul. Żukowicka 1,51.664508000000005,16.040822,powiat głogowski,GLOGOW
+23,DsGlogWiStwo,PL0603A,"Głogów, ul. Wita Stwosza",,2015-01-01,,background,urban,dust collector,dolnośląskie,Głogów,ul. Wita Stwosza 3,51.657022,16.097822,powiat głogowski,GLOGOW
+24,DsGrodziec,,Grodziec Mały,DsGrodziec,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Grodziec Mały,,51.687496,16.073213,powiat głogowski,GRODZIEC MALY
+25,DsJasnaSport,PL0316A,Jasna Góra - Sportowa,DsJasnaSport,1996-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Jasna Góra,ul. Sportowa 13,50.873692,14.954235999999998,powiat zgorzelecki,JASNA GORA
+26,DsJawDmow,,Jawor - Dmowskiego,DsJawDmow,1994-01-03,2003-12-31,background,urban,in-house,dolnośląskie,Jawor,ul. Dmowskiego 8,51.057121,16.179854000000002,powiat jaworski,JAWOR
+27,DsJaworMOB,PL0734A,Jawor,DsJaworMOB,2019-01-01,2019-12-31,background,urban,mobile,dolnośląskie,Jawor,Armii Krajowej 9,51.049212,16.202317,powiat jaworski,JAWOR
+28,DsJedlZdroj,,Jedlina Zdrój - Plac Zdrojowy,DsJedlZdroj,1993-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Jedlina-Zdrój,pl. Zdrojowy 1,50.728378,16.345481,powiat wałbrzyski,JEDLINA-ZDROJ
+29,DsJelGorOgin,PL0585A,"Jelenia Góra, ul. Ogińskiego",,2014-10-20,,background,urban,container,dolnośląskie,Jelenia Góra,ul. Ogińskiego 6,50.913433000000005,15.765608,powiat Jelenia Góra,JELENIA GORA
+30,DsJelGorSoko,PL0586A,"Jelenia Góra, ul. Sokoliki",,2014-01-01,,background,urban,dust collector,dolnośląskie,Jelenia Góra,ul. Sokoliki 6,50.871214,15.700947,powiat Jelenia Góra,JELENIA GORA
+31,DsJelw05,PL0026A,Jeleniów,DsJelw05,1996-07-01,2009-12-31,background,nonurban,container,dolnośląskie,Jeleniów,,51.224843,15.232984,powiat bolesławiecki,JELENIOW
+32,DsJgCiep,,Jelenia Góra - Cieplice,DsJgCiep,1982-01-02,2004-12-31,background,urban,container,dolnośląskie,Jelenia Góra,ul. Park Zdrojowy,50.862966,15.681788,powiat Jelenia Góra,JELENIA GORA
+33,DsJgCiepA,PL0189A,Jelenia Góra - Cieplice (AUT),DsJgCiepA,2005-01-01,2013-12-31,background,urban,container,dolnośląskie,Jelenia Góra,ul. Cervi 14,50.861853,15.678760999999998,powiat Jelenia Góra,JELENIA GORA
+34,DsJgGrottgeraPM,PL0055A,Jelenia Góra - Grottgera (PM10),DsJgGrottgeraPM,2011-01-01,2011-12-31,background,urban,dust collector,dolnośląskie,Jelenia Góra,ul. Grottgera 7,50.897497,15.736629,powiat Jelenia Góra,JELENIA GORA
+35,DsJgGrottgeraPMArch,,Jelenia Góra - Grottgera (PM10-Arch),DsJgGrottgeraPMArch,2004-01-05,2009-12-31,background,urban,dust collector,dolnośląskie,Jelenia Góra,ul. Grottgera 7,50.897497,15.736629,powiat Jelenia Góra,JELENIA GORA
+36,DsJgScieg,,Jelenia Góra - Ściegiennego,DsJgScieg,1995-01-11,2003-12-31,background,urban,in-house,dolnośląskie,Jelenia Góra,ul. Ściegiennego 5/7,50.865874,15.679301,powiat Jelenia Góra,JELENIA GORA
+37,DsJgWoln,,Jelenia Góra - Wolności,DsJgWoln,1993-01-03,2004-12-31,background,urban,in-house,dolnośląskie,Jelenia Góra,ul. Wolności 139,50.885634,15.717597,powiat Jelenia Góra,JELENIA GORA
+38,DsJgZabob,,Jelenia Góra - Zabobrze,DsJgZabob,1992-01-04,2006-04-30,background,urban,mobile,dolnośląskie,Jelenia Góra,ul. Ogińskiego,50.91447,15.764693,powiat Jelenia Góra,JELENIA GORA
+39,DsKalinowka,PL0261A,Kalinówka,DsKalinowka,2003-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Kalinowka,,51.5226,16.244147,powiat lubiński,KALINOWKA
+40,DsKamGoraMOB,PL0730A,Kamienna Góra,DsKamGoraMOB,2020-01-08,2020-12-30,background,urban,mobile,dolnośląskie,Kamienna Góra,Wałbrzyska 2c,50.788079,16.035122,powiat kamiennogórski,KAMIENNA GORA
+41,DsKawice,,Kawice,DsKawice,2003-01-06,2003-12-31,background,nonurban,container,dolnośląskie,Kawice,,51.230833,16.428889,powiat legnicki,KAWICE
+42,DsKgMob,,Kamienna Góra - Mobil Horiba,DsKgMob,2008-01-01,2008-05-05,background,urban,mobile,dolnośląskie,Kamienna Góra,ul. Szpitalna,50.786873,16.029129,powiat kamiennogórski,KAMIENNA GORA
+43,DsKgSien,,Kamienna Góra - Sienkiewicza,DsKgSien,1995-01-04,2003-12-31,background,urban,in-house,dolnośląskie,Kamienna Góra,ul. Sienkiewicza 5,50.781207,16.029155,powiat kamiennogórski,KAMIENNA GORA
+44,DsKlodzOkrz,,Kłodzko - ul. Okrzei,DsKlodzOkrz,1987-01-02,2005-12-31,background,urban,in-house,dolnośląskie,Kłodzko,ul. Okrzei 16,50.433389,16.650177,powiat kłodzki,KLODZKO
+45,DsKlodzSzkol,PL0504A,"Kłodzko, ul. Szkolna",,2009-06-05,,background,urban,container,dolnośląskie,Kłodzko,ul. Szkolna 8,50.433493,16.653660000000002,powiat kłodzki,KLODZKO
+46,DsKobierz,,Kobierzyce - Robotnicza,DsKobierz,2003-01-30,2003-12-31,background,nonurban,container,dolnośląskie,Kobierzyce,ul. Robotnicza 19,50.968056,16.928055999999998,powiat wrocławski,KOBIERZYCE
+47,DsKostrzaMOB,PL0777A,Kostrza,,2021-01-23,2021-12-31,industrial,suburban,container,dolnośląskie,Kostrza,ul. Żeromskiego 22,50.981906,16.266522,powiat świdnicki,KOSTRZA
+48,DsKowMaj,,Kowary - 1-go Maja,DsKowMaj,2001-01-15,2002-12-31,background,urban,in-house,dolnośląskie,Kowary,ul. 1 Maja 1,50.793145,15.835843,powiat jeleniogórski,KOWARY
+49,DsKozDoly,,Kozie Doły,DsKozDoly,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Kozie Doły,,51.727524,16.025971,powiat głogowski,KOZIE DOLY
+50,DsKromolin,PL0262A,Kromolin,DsKromolin,2003-10-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Kromolin,,51.684959,15.894901,powiat głogowski,KROMOLIN
+51,DsKudowaMOB,PL0659A,Kudowa-Zdrój,DsKudowaMOB,2017-01-01,,background,urban,mobile,dolnośląskie,Kudowa-Zdrój,Tadeusza Kościuszki 16,50.447096,16.238509,powiat kłodzki,KUDOWA-ZDROJ
+52,DsKudSlon,,Kudowa Zdrój - ul. Słoneczna,DsKudSlon,1999-01-02,2004-12-31,background,urban,in-house,dolnośląskie,Kudowa-Zdrój,ul. Słoneczna 17,50.439976,16.248312,powiat kłodzki,KUDOWA-ZDROJ
+53,DsLadekMOB,PL0686A,Lądek-Zdrój,DsLadekMOB,2018-01-17,2018-12-31,background,urban,mobile,dolnośląskie,Lądek-Zdrój,Św. Królowej Jadwigi,50.341864,16.889899,powiat kłodzki,LADEK-ZDROJ
+54,DsLadekWol,,Lądek Zdrój - ul. Wolności,DsLadekWol,1992-01-02,2004-12-31,background,urban,in-house,dolnośląskie,Lądek-Zdrój,ul. Wolności 4,50.345683,16.888804,powiat kłodzki,LADEK-ZDROJ
+55,DsLegAlRzecz,PL0190A,"Legnica, al. Rzeczypospolitej",,2004-10-01,,background,urban,container,dolnośląskie,Legnica,al. Rzeczypospolitej 10/12,51.204503,16.180513,powiat Legnica,LEGNICA
+56,DsLegIwasz,,Legnica - Iwaszkiewicza,DsLegIwasz,1997-01-01,2003-12-31,background,urban,in-house,dolnośląskie,Legnica,ul. Iwaszkiewicza 5,51.208189,16.216706,powiat Legnica,LEGNICA
+57,DsLegJaworz,,Legnica - Jaworzyńska,DsLegJaworz,1984-01-01,2003-12-31,background,urban,container,dolnośląskie,Legnica,ul. Jaworzyńska,51.191168,16.156159,powiat Legnica,LEGNICA
+58,DsLegKsiez,,Legnica - Księżycowa,DsLegKsiez,1996-10-01,2006-04-30,background,urban,container,dolnośląskie,Legnica,ul. Księżycowa 14,51.208727,16.190277,powiat Legnica,LEGNICA
+59,DsLegMick,,Legnica - Mickiewicza,DsLegMick,1996-01-01,2004-12-31,background,urban,in-house,dolnośląskie,Legnica,ul. Mickiewicza 24,51.202831,16.164607999999998,powiat Legnica,LEGNICA
+60,DsLegPolarna,PL0738A,"Legnica, ul. Polarna",,2019-01-01,,background,urban,dust collector,dolnośląskie,Legnica,ul. Polarna 1,51.208104,16.183784,powiat Legnica,LEGNICA
+61,DsLegPoraz,PL0540A,Legnica - Porazińskiej,DsLegPoraz,2011-01-01,2013-12-31,industrial,suburban,container,dolnośląskie,Legnica,ul. Porazińskiej,51.193519,16.135192,powiat Legnica,LEGNICA
+62,DsLegRzecz,,Legnica - Aleja Rzeczypospolitej,DsLegRzecz,1999-01-09,2005-02-10,background,urban,container,dolnośląskie,Legnica,ul. Rzeczypospolitej,51.204196,16.179819000000002,powiat Legnica,LEGNICA
+63,DsLegRzeczPM,,"Legnica, al. Rzeczypospolitej (PSSE)",DsLegRzeczPM,2005-01-01,2007-12-31,background,urban,dust collector,dolnośląskie,Legnica,ul. Rzeczypospolitej,51.20423,16.180763,powiat Legnica,LEGNICA
+64,DsLegSmok,PL0301A,Legnica - Smokowicka,DsLegSmok,2003-01-01,2010-12-31,industrial,urban,container,dolnośląskie,Legnica,ul. Smokowicka,51.180776,16.098375,powiat Legnica,LEGNICA
+65,DsLegZlotor,PL0263A,Legnica - Złotoryjska,DsLegZlotor,1996-01-03,2010-12-31,industrial,suburban,container,dolnośląskie,Legnica,ul. Złotoryjska,51.188018,16.129061,powiat Legnica,LEGNICA
+66,DsLesnaRyn,,Leśna - Rynek,DsLesnaRyn,1994-01-02,2002-12-31,background,urban,in-house,dolnośląskie,Leśna,ul. Rynek 19,51.023029,15.263245,powiat lubański,LESNA
+67,DsLubanMieszMOB,PL0747A,Lubań - Mieszka II,DsLubanMieszMOB,2019-01-01,2021-06-02,background,urban,mobile,dolnośląskie,Lubań,Mieszka II 1,51.119011,15.275539000000002,powiat lubański,LUBAN
+68,DsLubanMOB,PL0687A,Lubań - Łączna,DsLubanMOB,2018-01-11,2018-12-31,background,urban,mobile,dolnośląskie,Lubań,Łączna,51.118412,15.285835,powiat lubański,LUBAN
+69,DsLubanRyn,,Lubań - Rynek,DsLubanRyn,1994-01-02,2004-12-31,background,urban,in-house,dolnośląskie,Lubań,ul. Rynek 19,51.120172,15.290536,powiat lubański,LUBAN
+70,DsLubanZaw,,Lubań - Zawidowska,DsLubanZaw,1993-01-03,2003-12-31,background,urban,in-house,dolnośląskie,Lubań,ul. Zawidowska 4,51.1166,15.27208,powiat lubański,LUBAN
+71,DsLubinMaj,PL0056A,Lubin - 1-go Maja,DsLubinMaj,1998-01-01,2009-12-31,background,urban,in-house,dolnośląskie,Lubin,ul. 1 Maja 15,51.398416,16.199642,powiat lubiński,LUBIN
+72,DsLubinMob,PL0577A,Lubin - Mobil Mercedes,DsLubinMob,2012-01-01,2012-12-31,background,urban,mobile,dolnośląskie,Lubin,ul. Wierzbowa,51.406741,16.187307,powiat lubiński,LUBIN
+73,DsLubinSowia,,"Lubin,ul.Sowia",DsLubinSowia,2004-01-06,2005-12-31,background,urban,container,dolnośląskie,Lubin,ul. Sowia,51.38,16.212564,powiat lubiński,LUBIN
+74,DsLubiWierzb,PL0632A,Lubin - Wierzbowa,DsLubiWierzb,2016-01-01,2016-12-31,background,urban,dust collector,dolnośląskie,Lubin,ul. Wierzbowa 70,51.406505,16.188329,powiat lubiński,LUBIN
+75,DsLwowekPart,,Lwówek Śl.- Partyzantów,DsLwowekPart,1994-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Lwówek Śląski,ul. Partyzantów 6,51.111733,15.579598,powiat lwówecki,LWOWEK SLASKI
+76,DsMiliczMOB,PL0778A,Milicz,,2021-01-08,2021-12-31,background,urban,mobile,dolnośląskie,Milicz,ul. Armii Krajowej 7,51.52785,17.276844,powiat milicki,MILICZ
+77,DsNowRudJezi,PL0745A,"Nowa Ruda, ul. Jeziorna",,2019-01-01,,background,urban,container,dolnośląskie,Nowa Ruda,ul. Jeziorna 19,50.581492,16.498245,powiat kłodzki,NOWA RUDA
+78,DsNowRudSreb,PL0191A,Nowa Ruda - Srebrna,DsNRudaSrebP,2011-01-01,2018-12-31,background,urban,container,dolnośląskie,Nowa Ruda,ul. Srebrna 1a,50.579914,16.514422,powiat kłodzki,NOWA RUDA
+79,DsNRudaPil,,Nowa Ruda - ul. Piłsudskiego,DsNRudaPil,2000-01-02,2003-07-31,background,urban,in-house,dolnośląskie,Nowa Ruda,ul. Piłsudskiego 14,50.58389,16.502457999999997,powiat kłodzki,NOWA RUDA
+80,DsNRudaSlupPM,,Nowa Ruda - Słupiec (PM10),DsNRudaSlupPM,2005-03-01,2006-12-31,background,urban,dust collector,dolnośląskie,Nowa Ruda - Słupiec,ul. Wiejska 15,50.550008,16.553645,powiat kłodzki,NOWA RUDA - SLUPIEC
+81,DsNRudaSrebA,,Nowa Ruda - ul. Srebrna (AUT),DsNRudaSrebA,2005-01-01,2010-12-31,background,urban,container,dolnośląskie,Nowa Ruda,ul. Srebrna,50.579924,16.514302999999998,powiat kłodzki,NOWA RUDA
+82,DsNRudaSrebPArch,,Nowa Ruda - ul. Srebrna (PM10-Arch),DsNRudaSrebPArch,2003-06-06,2009-12-31,background,urban,dust collector,dolnośląskie,Nowa Ruda,ul. Srebrna 1a,50.579913,16.514422,powiat kłodzki,NOWA RUDA
+83,DsOla3Maj,,Oława - 3 Maja,DsOla3Maj,1978-01-01,2005-12-31,background,urban,in-house,dolnośląskie,Oława,ul. 3 Maja 1A,50.945755,17.29615,powiat oławski,OLAWA
+84,DsOlawZolnAK,PL0317A,"Oława, ul. Żołnierzy Armii Krajowej",,2008-07-01,,background,urban,container,dolnośląskie,Oława,ul. Żołnierzy AK 9,50.942073,17.291332999999998,powiat oławski,OLAWA
+85,DsOlesBrzozo,PL0476A,"Oleśnica, ul. Brzozowa",,2011-01-01,,background,urban,dust collector,dolnośląskie,Oleśnica,ul. Brzozowa 7,51.217483,17.389997,powiat oleśnicki,OLESNICA
+86,DsOlesnicaPM-Arch,,Oleśnica - Brzozowa (PM10-Arch),DsOlesnicaPM-Arch,2009-01-01,2009-12-31,background,urban,dust collector,dolnośląskie,Oleśnica,ul. Brzozowa 7,51.217494,17.389998000000002,powiat oleśnicki,OLESNICA
+87,DsOlesRyn,,Oleśnica - Rynek,DsOlesRyn,1995-01-01,2005-12-31,background,urban,in-house,dolnośląskie,Oleśnica,ul. Rynek Ratusz 12,51.209491,17.379688,powiat oleśnicki,OLESNICA
+88,DsOsieczow21,PL0505A,Osieczów,,2010-01-01,,background,nonurban,container,dolnośląskie,Osieczów,bez ulicy,51.31763,15.431719,powiat bolesławiecki,OSIECZOW
+89,DsPolanPark,,Polanica Zdrój - ul. Parkowa,DsPolanPark,1994-01-02,2004-12-31,background,urban,in-house,dolnośląskie,Polanica-Zdrój,ul. Parkowa 4,50.407434,16.511192,powiat kłodzki,POLANICA-ZDROJ
+90,DsPolanSportMOB,PL0633A,Polanica-Zdrój - Sportowa,DsPolanSportMOB,2016-01-01,,background,urban,mobile,dolnośląskie,Polanica-Zdrój,ul. Sportowa 9,50.415758,16.513057999999997,powiat kłodzki,POLANICA-ZDROJ
+91,DsPolKasztan,PL0057A,"Polkowice, ul. Kasztanowa",,2004-05-01,,background,urban,dust collector,dolnośląskie,Polkowice,ul. Kasztanowa 29,51.50237,16.075051000000002,powiat polkowicki,POLKOWICE
+92,DsPolkDabr,,Polkowice - Dąbrowskiego,DsPolkDabr,1994-01-01,2003-12-31,background,urban,in-house,dolnośląskie,Polkowice,ul. Dąbrowskiego,51.503659000000006,16.075060999999998,powiat polkowicki,POLKOWICE
+93,DsPrzerzZdr,,Przerzeczyn Zdrój - ul. Zdrojowa,DsPrzerzZdr,1994-01-02,2003-12-31,background,nonurban,in-house,dolnośląskie,Przerzeczyn-Zdrój,ul. Zdrojowa 31,50.685276,16.831781,powiat dzierżoniowski,PRZERZECZYN-ZDROJ
+94,DsRadomierz,PL0318A,Radomierzyce,DsRadomierz,1996-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Radomierzyce,,51.0583,14.973735,powiat zgorzelecki,RADOMIERZYCE
+95,DsRudna,PL0265A,Rudna,DsRudna,2003-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Rudna,,51.512506,16.251711,powiat lubiński,RUDNA
+96,DsRudnaWit,,Rudna - W.Witosa,DsRudnaWit,1992-10-01,2003-12-31,industrial,nonurban,container,dolnośląskie,Rudna,ul. W. Witosa,51.504339,16.261379,powiat lubiński,RUDNA
+97,DsSlone,,Słone,DsSlone,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Słone,,51.661053,16.022651999999997,powiat głogowski,SLONE
+98,DsSnie04,PL0058A,Śnieżne Kotły,DsSnie04,1996-07-01,2010-12-31,background,nonurban,container,dolnośląskie,Śnieżne Kotły,Śnieżne Kotły,50.778373,15.557425,powiat jeleniogórski,SNIEZNE KOTLY
+99,DsSniezkaObs,PL0003R,Śnieżka,,2000-01-01,,background,nonurban,container,dolnośląskie,Karpacz,Śnieżka,50.736389,15.739722,powiat jeleniogórski,KARPACZ
+100,DsSobczyce,PL0266A,Sobczyce,DsSobczyce,2003-10-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Sobczyce,,51.702092,16.067231,powiat głogowski,SOBCZYCE
+101,DsSoko08,,Sokolec,DsSoko08,1996-11-01,2004-05-19,background,nonurban,container,dolnośląskie,Sokolec,,50.668056,16.475,powiat wałbrzyski,SOKOLEC
+102,DsSpal06,,Spalona,DsSpal06,1996-11-15,2004-05-15,background,nonurban,container,dolnośląskie,Spalona,,50.27657,16.538299,powiat kłodzki,SPALONA
+103,DsSrodaSlMOB,PL0726A,Środa Śląska,,2020-01-28,2021-12-31,background,urban,mobile,dolnośląskie,Środa Śląska,Aleja Konstytucji 3 Maja 7,51.166236,16.597559,powiat średzki,SRODA SLASKA
+104,DsStrzMob,PL0506A,Strzelin - Mobil Mercedes,DsStrzMob,2010-01-01,2011-12-31,background,urban,mobile,dolnośląskie,Strzelin,ul. M.Konopnickiej 3,50.784386,17.079435,powiat strzeliński,STRZELIN
+105,DsSwidnFolwa,PL0660A,"Świdnica, ul. Folwarczna",,2017-01-01,,background,urban,dust collector,dolnośląskie,Świdnica,ul. Folwarczna 2,50.84443,16.494006,powiat świdnicki,SWIDNICA
+106,DsSwidnMarciMOB,PL0604A,Świdnica - Marcinkowskiego MOB,DsSwidMob,2015-01-01,2015-12-31,background,urban,mobile,dolnośląskie,Świdnica,ul. Karola Marcinkowskiego 4-6,50.846559,16.466928,powiat świdnicki,SWIDNICA
+107,DsSwidnRynek,PL0059A,Świdnica - Rynek,DsSwidRynek,2011-01-01,2016-12-31,background,urban,dust collector,dolnośląskie,Świdnica,ul. Rynek 43,50.842364,16.486703,powiat świdnicki,SWIDNICA
+108,DsSwidRynekArch,,Świdnica - Rynek Arch,DsSwidRynekArch,2003-07-02,2009-12-31,background,urban,in-house,dolnośląskie,Świdnica,ul. Rynek 43,50.84236,16.486704,powiat świdnicki,SWIDNICA
+109,DsSwidWalb,,Świdnica - ul. Wałbrzyska,DsSwidWalb,1985-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Świdnica,ul. Wałbrzyska 15,50.838047,16.480395,powiat świdnicki,SWIDNICA
+110,DsSzczaKolej,PL0541A,"Szczawno-Zdrój, ul. Kolejowa",,2012-01-01,,background,urban,dust collector,dolnośląskie,Szczawno-Zdrój,ul. Kolejowa 14,50.804189,16.254110999999998,powiat wałbrzyski,SZCZAWNO-ZDROJ
+111,DsSzczAzalMob,PL0578A,Szczawno-Zdrój - Azalia - Mobil,DsSzczAzalMob,2012-01-01,2012-12-31,background,urban,mobile,dolnośląskie,Szczawno-Zdrój,ul. Klonowa,50.806472,16.253264,powiat wałbrzyski,SZCZAWNO-ZDROJ
+112,DsSzczKopPM,PL0267A,Szczawno Zdrój - ul. Kopernika (PM10),DsSzczKopPM,2007-01-01,2011-12-31,background,urban,dust collector,dolnośląskie,Szczawno-Zdrój,ul. Kopernika 2,50.801538,16.250145,powiat wałbrzyski,SZCZAWNO-ZDROJ
+113,DsSzczMagMob,PL0579A,Szczawno-Zdrój - Magnolia - Mobil,DsSzczMagMob,2012-01-01,2012-12-31,background,urban,mobile,dolnośląskie,Szczawno-Zdrój,ul. Kopernika,50.801523,16.250182000000002,powiat wałbrzyski,SZCZAWNO-ZDROJ
+114,DsSzczOgr,,Szczawno Zdrój - ul. Ogrodowa,DsSzczOgr,1993-01-02,2004-12-31,background,urban,in-house,dolnośląskie,Szczawno-Zdrój,ul. Ogrodowa 5,50.805025,16.257246,powiat wałbrzyski,SZCZAWNO-ZDROJ
+115,DsSzczRat,PL0254A,Szczawno Zdrój - ul. Ratuszowa,DsSzczRat,1983-04-01,2007-12-31,background,urban,in-house,dolnośląskie,Szczawno-Zdrój,ul. Ratuszowa 1,50.802699,16.254862,powiat wałbrzyski,SZCZAWNO-ZDROJ
+116,DsSzklarkiMob,PL0600A,Szklarki - Mobil,DsSzklarkiMob,2013-01-01,2013-12-31,background,nonurban,mobile,dolnośląskie,Szklarki,,51.515908,15.747383,powiat polkowicki,SZKLARKI
+117,DsSzkPor1MajMOB,PL0634A,Szklarska Poręba - 1 Maja,DsSzkPor1MajMOB,2016-01-01,2016-12-31,background,urban,mobile,dolnośląskie,Szklarska Poręba,1 Maja,50.822706,15.528251,powiat jeleniogórski,SZKLARSKA POREBA
+118,DsTarnowek,PL0268A,Tarnówek,DsTarnowek,2003-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Tarnowek,,51.513299,16.166760999999997,powiat polkowicki,TARNOWEK
+119,DsTrzebBoch,,Trzebnica-Bochenka,DsTrzebBoch,2004-01-01,2005-12-31,background,urban,in-house,dolnośląskie,Trzebnica,ul. Ks.Bochenka,51.310278,17.062778,powiat trzebnicki,TRZEBNICA
+120,DsTrzebLes,,Trzebnica - Leśna,DsTrzebLes,1994-01-01,2003-12-31,background,urban,in-house,dolnośląskie,Trzebnica,ul. Leśna,51.303889,17.07,powiat trzebnicki,TRZEBNICA
+121,DsTrzebMob,,Trzebnica - Mobil Mercedes,DsTrzebMob,2008-04-01,2010-01-31,background,urban,mobile,dolnośląskie,Trzebnica,ul. Żołnierzy Września,51.305272,17.060139000000003,powiat trzebnicki,TRZEBNICA
+122,DsTrzebniMaj,PL0779A,"Trzebnica, ul. 3 Maja",,2020-12-23,,background,urban,container,dolnośląskie,Trzebnica,ul. 3 Maja,51.304817,17.071367000000002,powiat trzebnicki,TRZEBNICA
+123,DsWalbBator,,Wałbrzych - ul. Batorego,DsWalbBator,1975-01-02,2003-12-31,background,urban,in-house,dolnośląskie,Wałbrzych,ul. Batorego 3,50.774028,16.278035,powiat Wałbrzych,WALBRZYCH
+124,DsWalbGrodz,,Wałbrzych - ul. Grodzka,DsWalbGrodz,1993-01-02,2004-12-31,background,urban,in-house,dolnośląskie,Wałbrzych,ul. Grodzka 73,50.823623,16.275474,powiat Wałbrzych,WALBRZYCH
+125,DsWalbJord,PL0060A,Wałbrzych - ul. Jordana,DsWalbJord,2001-01-02,2006-12-31,industrial,urban,in-house,dolnośląskie,Wałbrzych,ul. Jordana 4,50.759444,16.241389,powiat Wałbrzych,WALBRZYCH
+126,DsWalbKost,,Wałbrzych - ul. Kosteckiego,DsWalbKost,1983-01-02,2003-12-31,industrial,urban,in-house,dolnośląskie,Wałbrzych,ul. Kosteckiego 2,50.762702,16.244248000000002,powiat Wałbrzych,WALBRZYCH
+127,DsWalbrzWyso,PL0192A,"Wałbrzych, ul. Wysockiego",,2005-01-01,,background,urban,container,dolnośląskie,Wałbrzych,ul. Wysockiego 11,50.768729,16.269676999999998,powiat Wałbrzych,WALBRZYCH
+128,DsWalbWysPArch,,Wałbrzych - ul. Wysockiego (PM10-Arch),DsWalbWysPArch,2004-01-02,2009-12-31,background,urban,dust collector,dolnośląskie,Wałbrzych,ul. Wysockiego 11,50.768747,16.269584,powiat Wałbrzych,WALBRZYCH
+129,DsWitk09,,Witków,DsWitk09,1996-11-01,2004-05-20,background,nonurban,container,dolnośląskie,Witków,,50.81652,16.122029,powiat wałbrzyski,WITKOW
+130,DsWitka,PL0319A,Witka,DsWitka,1996-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Witka,,51.041136,14.980327,powiat zgorzelecki,WITKA
+131,DsWlen03,PL0062A,Wleń,DsWlen03,1996-07-01,2010-12-31,background,nonurban,container,dolnośląskie,Wleń,,51.012248,15.668279,powiat lwówecki,WLEN
+132,DsWrocAlWisn,PL0197A,"Wrocław, al. Wiśniowa",,2005-01-01,,communication,urban,container,dolnośląskie,Wrocław,al. Wiśniowa/ul. Powst. Śląskich,51.086225,17.012689,powiat Wrocław,WROCLAW
+133,DsWrocBartni,PL0193A,"Wrocław, ul. Bartnicza",,2005-01-01,,background,suburban,container,dolnośląskie,Wrocław,ul. Bartnicza,51.115933,17.141125,powiat Wrocław,WROCLAW
+134,DsWrocGrun,,Wrocław - Grunwald,DsWrocGrun,1996-01-01,2005-12-31,communication,urban,in-house,dolnośląskie,Wrocław,pl. Grunwaldzki 9,51.109899,17.056491,powiat Wrocław,WROCLAW
+135,DsWrocKorzPMArch,,Wrocław - Korzeniowskiego (PM10-Arch),DsWrocKorzPMArch,2005-01-01,2009-12-31,background,urban,dust collector,dolnośląskie,Wrocław,ul. Wyb. J.Conrada-Korzeniowskiego,51.129409,17.029552,powiat Wrocław,WROCLAW
+136,DsWrocKrom,,Wrocław - Kromera,DsWrocKrom,1995-01-01,2004-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Kromera 44,51.132752,17.064494,powiat Wrocław,WROCLAW
+137,DsWrocNaGrob,PL0490A,"Wrocław, ul. Na Grobli",,2010-01-01,,background,urban,dust collector,dolnośląskie,Wrocław,ul. Na Grobli,51.103456,17.059225,powiat Wrocław,WROCLAW
+138,DsWrocOlsz,,Wrocław - Olszewskiego,DsWrocOlsz,1978-01-01,2003-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Olszewskiego 21,51.102735,17.096759,powiat Wrocław,WROCLAW
+139,DsWrocOpor,,Wrocław - Oporowska,DsWrocOpor,1995-01-01,2004-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Oporowska 16,51.098027,17.002063,powiat Wrocław,WROCLAW
+140,DsWrocOrzech,PL0196A,"Wrocław, ul. Orzechowa",,2011-01-01,,background,urban,dust collector,dolnośląskie,Wrocław,ul. Orzechowa 61,51.077525,17.042817000000003,powiat Wrocław,WROCLAW
+141,DsWrocOrzechArch,,Wrocław - Orzechowa (PM10-Arch),DsWrocOrzechArch,2005-01-01,2009-12-31,background,urban,dust collector,dolnośląskie,Wrocław,ul. Orzechowa 61,51.077525,17.042816000000002,powiat Wrocław,WROCLAW
+142,DsWrocPret,,Wrocław - Pretficza,DsWrocPret,1994-01-01,2004-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Pretficza 7,51.090895,17.013682,powiat Wrocław,WROCLAW
+143,DsWrocSklad,,Wrocław - Składowa,DsWrocSklad,1977-01-01,2004-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Składowa 1/3,51.119722,17.0275,powiat Wrocław,WROCLAW
+144,DsWrocTech,,Wrocław - Mł.Techników,DsWrocTech,1986-01-01,2004-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Młodych Techników 7,51.113611,17.013056,powiat Wrocław,WROCLAW
+145,DsWrocUkr,PL0009A,Wrocław - Ukryta,DsWrocUkr,1998-01-01,2005-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Ukryta 10,51.117029,17.053859,powiat Wrocław,WROCLAW
+146,DsWrocWie,PL0025A,Wrocław - Wierzbowa,DsWrocWie,1994-11-08,2011-12-31,background,urban,in-house,dolnośląskie,Wrocław,ul. Wierzbowa 14/16,51.10549,17.036471,powiat Wrocław,WROCLAW
+147,DsWrocWybCon,PL0194A,"Wrocław, wyb. Conrada-Korzeniowskiego",,2005-01-01,,background,urban,container,dolnośląskie,Wrocław,ul. Wyb. J.Conrada-Korzeniowskiego 18,51.129378,17.02925,powiat Wrocław,WROCLAW
+148,DsWyszkow,PL0320A,Wyszków,DsWyszkow,1996-01-01,2013-12-31,industrial,nonurban,container,dolnośląskie,Wyszków,,50.963536,14.993653,powiat zgorzelecki,WYSZKOW
+149,DsZabkKlodz,,Ząbkowice Śląskie - ul. Kłodzka,DsZabkKlodz,1977-01-02,2005-12-31,background,urban,in-house,dolnośląskie,Ząbkowice Śląskie,ul. Kłodzka 2,50.586033,16.809694,powiat ząbkowicki,ZABKOWICE SLASKIE
+150,DsZabkPowWar,PL0321A,Ząbkowice Śląskie,DsZabkowSemi,2008-09-01,2020-12-08,background,urban,container,dolnośląskie,Ząbkowice Śląskie,ul. Powstańców Warszawy 5,50.592325,16.819785999999997,powiat ząbkowicki,ZABKOWICE SLASKIE
+151,DsZameczno,,Zameczno,DsZameczno,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Zameczno,,51.669507,15.932111,powiat głogowski,ZAMECZNO
+152,DsZgorBohGet,PL0198A,"Zgorzelec, ul. Bohaterów Getta",,2005-01-01,,background,urban,container,dolnośląskie,Zgorzelec,ul. Bohaterów Getta 1a,51.150391,15.008175,powiat zgorzelecki,ZGORZELEC
+153,DsZgorzMar,PL0199A,Zgorzelec - Maratońska,DsZgorzMar,2005-01-01,2007-12-31,background,urban,dust collector,dolnośląskie,Zgorzelec,ul. Maratońska,51.145777,15.012232999999998,powiat zgorzelecki,ZGORZELEC
+154,DsZgorzOrz,PL0322A,Zgorzelec - Orzeszkowej,DsZgorzOrz,1996-01-01,2013-12-31,industrial,urban,container,dolnośląskie,Zgorzelec,ul. Orzeszkowej 3,51.130156,15.001957999999998,powiat zgorzelecki,ZGORZELEC
+155,DsZgorzWar,,Zgorzelec - Warszawska,DsZgorzWar,1995-01-03,2004-12-31,background,urban,in-house,dolnośląskie,Zgorzelec,ul. Warszawska 11,51.148418,15.007948999999998,powiat zgorzelecki,ZGORZELEC
+156,DsZlotKosc,,Złotoryja - Kościuszki,DsZlotKosc,2000-01-01,2002-12-31,background,urban,container,dolnośląskie,Złotoryja,ul. Kościuszki 5,51.123326,15.911288,powiat złotoryjski,ZLOTORYJA
+157,DsZlotoryjaPMArch,,Złotoryja - Staszica (PM10-Arch),DsZlotoryjaPMArch,2009-01-01,2009-12-31,background,urban,container,dolnośląskie,Złotoryja,ul. Stanisława Staszica 22,51.1239,15.920289000000002,powiat złotoryjski,ZLOTORYJA
+158,DsZlotoStasz,PL0477A,Złotoryja - Staszica,DsZlotoryjaPM,2011-01-01,2019-12-31,background,urban,dust collector,dolnośląskie,Złotoryja,ul. Stanisława Staszica 22,51.1239,15.920289000000002,powiat złotoryjski,ZLOTORYJA
+159,DsZukowice,,Żukowice,DsZukowice,1980-01-01,2003-12-31,industrial,nonurban,in-house,dolnośląskie,Żukowice,,51.667269,15.984407,powiat głogowski,ZUKOWICE
+160,KpAirpKoluda,PL0601A,Kołuda Wielka Airpointer,KpAirpKoluda,2013-04-25,2014-01-02,background,nonurban,mobile,kujawsko-pomorskie,Kołuda Wielka,,52.735747,18.148678,powiat inowrocławski,KOLUDA WIELKA
+161,KpBrodKochan,PL0606A,"Brodnica, ul. Kochanowskiego",,2015-01-01,,background,urban,dust collector,kujawsko-pomorskie,Brodnica,ul. Kochanowskiego,53.249264,19.415086,powiat brodnicki,BRODNICA
+162,KpBrodnZwirki,PL0323A,"Brodnica ""Żwirki""",KpBrodnZwirki,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Brodnica,ul. Żwirki i Wigury 1,53.2575,19.406667,powiat brodnicki,BRODNICA
+163,KpBydBerling,PL0491A,Bydgoszcz Fieldorfa,KpBydgBerlinga,2010-04-01,,background,suburban,dust collector,kujawsko-pomorskie,Bydgoszcz,ul. gen. Augusta Emila Fieldorfa „Nila” 13,53.151452,18.132062,powiat Bydgoszcz,BYDGOSZCZ
+164,KpBydFieldor,PL0491A,"Bydgoszcz, ul. Fieldorfa",,2010-04-01,,background,suburban,dust collector,kujawsko-pomorskie,Bydgoszcz,ul. gen. Augusta Emila Fieldorfa „Nila” 13,53.151452,18.132062,powiat Bydgoszcz,BYDGOSZCZ
+165,KpBydgATRKalisk,PL0324A,"Bydgoszcz ""Fordon ATR""",KpBydgATRKalisk,1990-01-02,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Bydgoszcz,ul. Kaliskiego 7,53.142778,18.126944,powiat Bydgoszcz,BYDGOSZCZ
+166,KpBydgBlota,,Bydgoszcz Białe Błota,KpBydgBlota,2006-01-09,2009-12-31,background,suburban,mobile,kujawsko-pomorskie,Białe Błota,ul. Szubińska 8,53.100278,17.920278,powiat bydgoski,BIALE BLOTA
+167,KpBydgChemEC,PL0583A,Bydgoszcz Chemiczna EC,KpBydgChemEC,2012-01-01,2013-12-31,industrial,suburban,mobile,kujawsko-pomorskie,Bydgoszcz,ul. Chemiczna,53.104444,18.073611,powiat Bydgoszcz,BYDGOSZCZ
+168,KpBydgCO,,Bydgoszcz Centrum Onkologiczne,KpBydgCO,2006-08-22,2009-12-31,background,urban,mobile,kujawsko-pomorskie,Bydgoszcz,ul. Berlinga 13,53.150833,18.131389,powiat Bydgoszcz,BYDGOSZCZ
+169,KpBydgMorska,PL0325A,"Bydgoszcz ""Morska""",KpBydgMorska,1993-01-18,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Bydgoszcz,ul. Morska 2,53.1275,18.054444,powiat Bydgoszcz,BYDGOSZCZ
+170,KpBydgUjejskiego,PL0063A,"Bydgoszcz ""Szpital XXX-lecia""",KpBydgUjejskiego,1981-01-13,2010-12-31,background,urban,container,kujawsko-pomorskie,Bydgoszcz,ul. Ujejskiego 75,53.114722,18.027222,powiat Bydgoszcz,BYDGOSZCZ
+171,KpBydgWPola,PL0065A,"Bydgoszcz ""W. Pola""",KpBydgWPola,1994-01-04,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Bydgoszcz,ul. W. Pola 19,53.125,17.975832999999998,powiat Bydgoszcz,BYDGOSZCZ
+172,KpBydgWzgWolnosci,,Bydgoszcz Wzgórze Wolności,KpBydgWzgWolnosci,2008-03-31,2009-12-31,background,urban,mobile,kujawsko-pomorskie,Bydgoszcz,ul. Słowiańska 7,53.115833,18.016111,powiat Bydgoszcz,BYDGOSZCZ
+173,KpBydgZachemHutn,PL0326A,Zachem - Hutnicza,KpBydgZachemHutn,1999-03-01,2012-12-31,industrial,urban,in-house,kujawsko-pomorskie,Bydgoszcz,ul. Hutnicza 89,53.101667000000006,18.106111,powiat Bydgoszcz,BYDGOSZCZ
+174,KpBydgZachemWojska,PL0327A,"Bydgoszcz ""Zachem2""",KpBydgZachemWojska,1983-01-11,2009-12-31,background,urban,in-house,kujawsko-pomorskie,Bydgoszcz,ul. Wojska Polskiego 46,53.102222,18.059444,powiat Bydgoszcz,BYDGOSZCZ
+175,KpBydPlPozna,PL0252A,"Bydgoszcz, pl. Poznański",,2006-01-06,,communication,urban,container,kujawsko-pomorskie,Bydgoszcz,Plac Poznański,53.121774,17.987883,powiat Bydgoszcz,BYDGOSZCZ
+176,KpBydWarszaw,PL0064A,"Bydgoszcz, ul. Warszawska",,1995-01-21,,background,urban,container,kujawsko-pomorskie,Bydgoszcz,ul. Warszawska 10,53.134088,17.995712,powiat Bydgoszcz,BYDGOSZCZ
+177,KpChelmLunawMOB,PL0737A,"Chełmno, Łunawska 3A",KpChelmLunawMOB,2020-01-08,2021-01-04,background,urban,mobile,kujawsko-pomorskie,Chełmno,ul. Łunawska 3A,53.351975,18.447498,powiat chełmiński,CHELMNO
+178,KpChelmnLunawska,PL0328A,"Chełmno ""Łunawska""",KpChelmnLunawska,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Chełmno,ul. Łunawska 2A,53.348611,18.445278,powiat chełmiński,CHELMNO
+179,KpCiechTezni,PL0066A,"Ciechocinek, ul. Tężniowa",,1995-04-05,,background,suburban,container,kujawsko-pomorskie,Ciechocinek,ul. Tężniowa - Park Tężniowy,52.888422,18.780908,powiat aleksandrowski,CIECHOCINEK
+180,KpDAFAleksandrowK,,Aleksandrów Kujawski,KpDAFAleksandrowK,2010-01-01,2010-12-31,background,urban,mobile,kujawsko-pomorskie,Aleksandrów Kujawski,ul. Słowackiego 18,52.878333,18.6975,powiat aleksandrowski,ALEKSANDROW KUJAWSKI
+181,KpDAFBrzescK,,Brześć Kujawski,KpDAFBrzescK,2005-03-01,2005-09-30,background,urban,mobile,kujawsko-pomorskie,Brześć Kujawski,ul. Kilińskiego,52.605,18.906944,powiat włocławski,BRZESC KUJAWSKI
+182,KpDAFChelmza,,Chełmża (stacja mobilna),KpDAFChelmza,2010-08-01,2010-11-16,background,urban,mobile,kujawsko-pomorskie,Chełmża,ul. Gen. J.Hallera 2,53.186389,18.610556,powiat toruński,CHELMZA
+183,KpDAFChodecz,,Chodecz,KpDAFChodecz,2008-01-01,2008-12-31,background,urban,mobile,kujawsko-pomorskie,Chodecz,ul. I Armii Wojska Polskiego,52.401667,19.029444,powiat włocławski,CHODECZ
+184,KpDAFDobrzynUM,,Dobrzyń UM,KpDAFDobrzynUM,2003-01-01,2007-12-31,background,urban,mobile,kujawsko-pomorskie,Dobrzyń nad Wisłą,ul. Szkolna 4,52.637778,19.321667,powiat lipnowski,DOBRZYN NAD WISLA
+185,KpDAFGolub,,Golub - Dobrzyń (stacja mobilna),KpDAFGolub,2005-06-01,2009-06-17,background,urban,mobile,kujawsko-pomorskie,Golub-Dobrzyń,ul. Dworcowa,53.12055600000001,19.050556,powiat golubsko-dobrzyński,GOLUB-DOBRZYN
+186,KpDAFIzbica,,Izbica Kujawska,KpDAFIzbica,2006-09-01,2010-12-31,background,nonurban,mobile,kujawsko-pomorskie,Izbica Kujawska,ul. Warszawska 2,52.419478000000005,18.767222,powiat włocławski,IZBICA KUJAWSKA
+187,KpDAFLasin,,Łasin (stacja mobilna),KpDAFLasin,2006-03-06,2006-05-13,background,urban,mobile,kujawsko-pomorskie,Łasin,ul. Odrodzenia Polski 5,53.518333,19.089444,powiat grudziądzki,LASIN
+188,KpDAFMarusza,,Marusza (stacja mobilna),KpDAFMarusza,2008-02-01,2008-05-13,background,suburban,mobile,kujawsko-pomorskie,Grudziądz,ul. Warszawska 36,53.453889,18.791667,powiat Grudziądz,GRUDZIADZ
+189,KpDAFNieszawa,,Nieszawa,KpDAFNieszawa,2006-05-01,2006-12-31,background,urban,mobile,kujawsko-pomorskie,Nieszawa,ul. Laskowskiego 3,52.838611,18.895,powiat aleksandrowski,NIESZAWA
+190,KpDAFRadziejowRPGK,,Radziejów RPGK,KpDAFRadziejowRPGK,2009-01-01,2009-12-31,background,urban,mobile,kujawsko-pomorskie,Radziejów,ul. Komunalna 19,52.629722,18.530278,powiat radziejowski,RADZIEJOW
+191,KpDAFRadzyn,,Radzyń Chełmiński (stacja mobilna),KpDAFRadzyn,2010-01-01,2010-05-20,background,urban,mobile,kujawsko-pomorskie,Radzyń Chełmiński,ul. Sady 14,53.381944,18.936944,powiat grudziądzki,RADZYN CHELMINSKI
+192,KpDAFRypinKOMES,,RypinKOMES,KpDAFRypinKOMES,2009-01-01,2009-12-31,background,urban,mobile,kujawsko-pomorskie,Rypin,ul. E. Orzeszkowej 4,53.06555600000001,19.405278,powiat rypiński,RYPIN
+193,KpGrudPilsud,PL0580A,"Grudziądz, ul. Piłsudskiego",,2012-03-01,,communication,urban,container,kujawsko-pomorskie,Grudziądz,ul. Piłsudskiego 51,53.49355,18.762139,powiat Grudziądz,GRUDZIADZ
+194,KpGrudSienki,PL0542A,"Grudziądz, ul. Sienkiewicza",,2011-04-29,,background,urban,dust collector,kujawsko-pomorskie,Grudziądz,ul. Sienkiewicza 27,53.491831000000005,18.752589,powiat Grudziądz,GRUDZIADZ
+195,KpGrudzIkara,PL0200A,"Grudziądz ""Ikara""",KpGrudzIkara,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Grudziądz,ul. Ikara 8,53.464167,18.769444,powiat Grudziądz,GRUDZIADZ
+196,KpGrudzKosynierow,PL0329A,"Grudziądz ""Kosynierów""",KpGrudzKosynierow,1993-01-04,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Grudziądz,ul. Kosynierów Gdyńskich 31,53.492778,18.754167,powiat Grudziądz,GRUDZIADZ
+197,KpInowOsMatwMOB,PL0656A,Inowrocław Mątwy airponter,KpInowOsMatwMOB,2016-02-04,2017-01-10,industrial,urban,mobile,kujawsko-pomorskie,Inowrocław,Chemiczna,52.755688,18.25438,powiat inowrocławski,INOWROCLAW
+198,KpInowrKleeberga,PL0330A,"Inowrocław ""Rąbin""",KpInowrKleeberga,2003-03-16,2009-12-31,background,urban,in-house,kujawsko-pomorskie,Inowrocław,ul. Kleeberga 1,52.786667,18.250556,powiat inowrocławski,INOWROCLAW
+199,KpInowrMatewska,,"Soda-Mątwy ""Mątewska""",KpInowrMatewska,1995-07-01,2011-12-31,industrial,urban,container,kujawsko-pomorskie,Inowrocław,ul. Mątewska 34,52.751944,18.2625,powiat inowrocławski,INOWROCLAW
+200,KpInowrPlacKlaszt,PL0331A,"Inowrocław ""Śródmieście""",KpInowrPlacKlaszt,2003-01-01,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Inowrocław,ul. Klac Klasztorny 1b,52.79666700000001,18.258889,powiat inowrocławski,INOWROCLAW
+201,KpInowrPoznanska,,"Inowrocław ""Poznańska""",KpInowrPoznanska,1992-02-01,2011-12-31,industrial,urban,container,kujawsko-pomorskie,Inowrocław,ul. Poznańska 307,52.75,18.2525,powiat inowrocławski,INOWROCLAW
+202,KpInowrSolan,PL0067A,Inowrocław Solankowa,KpInowrSolan,2011-01-01,2012-12-31,background,urban,container,kujawsko-pomorskie,Inowrocław,ul. Solankowa,52.794722,18.245,powiat inowrocławski,INOWROCLAW
+203,KpInowrSolankowa,,"Inowrocław ""Uzdrowisko""",KpInowrSolankowa,2003-03-16,2010-12-31,background,urban,container,kujawsko-pomorskie,Inowrocław,ul. Solankowa 77,52.793611,18.243333,powiat inowrocławski,INOWROCLAW
+204,KpInowSolank,PL0581A,"Inowrocław, ul. Solankowa",,2011-03-04,,background,suburban,container,kujawsko-pomorskie,Inowrocław,ul. Solankowa,52.793122,18.241044,powiat inowrocławski,INOWROCLAW
+205,KpKoniczynka,PL0068A,"Koniczynka, Pojezierze Chełmińskie",,1996-01-01,,background,nonurban,container,kujawsko-pomorskie,Koniczynka,,53.080647,18.684258,powiat toruński,KONICZYNKA
+206,KpKruszwicamob,,Kruszwica,KpKruszwicamob,2010-03-10,2010-06-02,background,urban,mobile,kujawsko-pomorskie,Kruszwica,ul. Niepodległości,52.678056000000005,18.314167,powiat inowrocławski,KRUSZWICA
+207,KpKruszynLotnisko,,Lotnisko Kruszyn,KpKruszynLotnisko,2000-01-19,2004-12-31,background,nonurban,in-house,kujawsko-pomorskie,Kruszyn,,52.586114,19.01,powiat włocławski,KRUSZYN
+208,KpMogilKosciuszki,PL0332A,Mogilno,KpMogilKosciuszki,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Mogilno,ul. T. Kościuszki 3,52.659167,17.949722,powiat mogileński,MOGILNO
+209,KpMogiNowMOB,PL0751A,"Mogilno,Kościuszki",KpMogiNowMOB,2019-01-03,2019-12-31,background,urban,mobile,kujawsko-pomorskie,Mogilno,Kościuszki,52.656842000000005,17.949565,powiat mogileński,MOGILNO
+210,KpNakloSkargi,,Nakło,KpNakloSkargi,2003-03-16,2010-12-31,background,urban,container,kujawsko-pomorskie,Nakło nad Notecią,ul. P. Skargi 2,53.139444,17.607778,powiat nakielski,NAKLO NAD NOTECIA
+211,KpNaklSkargi,PL0201A,Nakło Piotra Skargi,KpNakloPiotraSkargi,2011-01-01,2020-01-01,background,urban,container,kujawsko-pomorskie,Nakło nad Notecią,ul. Piotra Skargi,53.138358,17.605139,powiat nakielski,NAKLO NAD NOTECIA
+212,KpNaklWawrzy,PL0683A,"Nakło nad Notecią, ul. Św. Wawrzyńca",,2020-12-29,,background,urban,container,kujawsko-pomorskie,Nakło nad Notecią,ul. Świętego Wawrzyńca,53.136681,17.591539,powiat nakielski,NAKLO NAD NOTECIA
+213,KpNwiesNaftobazy,PL0333A,Naftobazy,KpNwiesNaftobazy,1990-01-01,2013-12-31,industrial,nonurban,container,kujawsko-pomorskie,Nowa Wies Wielka,ul. Przemyslowa,52.970278,18.091389000000003,powiat bydgoski,NOWA WIES WIELKA
+214,KpPiech,PL0334A,Lafarge-Piechcin,KpPiech,1998-06-01,2011-12-31,industrial,nonurban,container,kujawsko-pomorskie,Piechcin,,52.816389,18.032778,powiat żniński,PIECHCIN
+215,KpPrzysRCRRiOW,,Przysiek - RCRRiOW,KpPrzysRCRRiOW,1996-05-15,2005-03-31,NO DATA,nonurban,in-house,kujawsko-pomorskie,Przysiek,,53.02944399999999,18.504444,powiat toruński,PRZYSIEK
+216,KpSadlog,PL0202A,Lafarge-Sadłogoszcz,KpSadlog,2001-03-20,2011-12-31,background,nonurban,container,kujawsko-pomorskie,Sadłogoszcz,,52.844722,18.005,powiat żniński,SADLOGOSZCZ
+217,KpSepolno,,Sępólno Krajeńskie,KpSepolno,2006-02-20,2009-12-31,background,urban,mobile,kujawsko-pomorskie,Sępólno Krajeńskie,ul. Sienkiewicza 54,53.4475,17.527778,powiat sępoleński,SEPOLNO KRAJENSKIE
+218,KpSolecRowecMOB,PL0780A,"Solec Kujawski, ul. gen. Roweckiego",,2021-01-04,,background,urban,mobile,kujawsko-pomorskie,Solec Kujawski,"ul. gen. Stefana Roweckiego ""Grota""",53.079618,18.2279,powiat bydgoski,SOLEC KUJAWSKI
+219,KpSwiecGruczno,,Frantschach - Gruczno,KpSwiecGruczno,1997-01-01,2003-02-27,industrial,nonurban,container,kujawsko-pomorskie,Górne Gruczno,,53.364722,18.316667,powiat świecki,GORNE GRUCZNO
+220,KpSwiecGruczno2,PL0069A,02 - Gruczno,KpSwiecGruczno2,2005-02-01,2011-12-31,industrial,nonurban,container,kujawsko-pomorskie,Górne Gruczno,,53.35555600000001,18.318333,powiat świecki,GORNE GRUCZNO
+221,KpSwiecKolejowa,,Frantschach - stacja nr 1,KpSwiecKolejowa,1995-03-10,2003-03-10,industrial,suburban,container,kujawsko-pomorskie,Świecie,ul. Kolejowa 20,53.398056,18.416389,powiat świecki,SWIECIE
+222,KpSwiecPrzechowo,PL0070A,01 Przechowo,KpSwiecPrzechowo,2005-02-01,2014-01-01,industrial,suburban,container,kujawsko-pomorskie,Świecie Przechowo,,53.398056,18.416389,powiat świecki,SWIECIE PRZECHOWO
+223,KpSwiecSadowa,PL0336A,"Świecie ""Sądowa""",KpSwiecSadowa,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Świecie,ul. Sądowa 5,53.407222,18.453889,powiat świecki,SWIECIE
+224,KpToruDziewu,PL0071A,"Toruń, ul. Dziewulskiego",,1993-04-20,,background,urban,container,kujawsko-pomorskie,Toruń,ul. Dziewulskiego 1,53.028647,18.666103,powiat Toruń,TORUN
+225,KpToruKaszow,PL0072A,"Toruń, ul. Przy Kaszowniku",,1997-01-01,,communication,urban,container,kujawsko-pomorskie,Toruń,ul. Przy Kaszowniku,53.017628,18.612808,powiat Toruń,TORUN
+226,KpTorunGagarina,PL0337A,"Toruń ""Gagarina""",KpTorunGagarina,1988-01-20,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Toruń,ul. Gagarina 34,53.018333,18.565,powiat Toruń,TORUN
+227,KpTorunKonstytucji,PL0338A,"Toruń ""Konstytucji""",KpTorunKonstytucji,2003-03-16,2009-12-31,background,urban,in-house,kujawsko-pomorskie,Toruń,ul. Konstytucji 3-Maja 15,53.023889,18.681667,powiat Toruń,TORUN
+228,KpTorunKopernika,PL0339A,"Toruń ""Kopernika""",KpTorunKopernika,1983-01-02,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Toruń,ul. M. Kopernika 9,53.009167000000005,18.604167,powiat Toruń,TORUN
+229,KpTorunLotnisko,PL0073A,"Toruń, LOTNISKO",KpTorunLotnisko,1989-09-18,2008-12-16,background,urban,container,kujawsko-pomorskie,Toruń,ul. Bielańska 66,53.028333,18.561678,powiat Toruń,TORUN
+230,KpTorunOPSIS,,"Toruń, OPSIS",KpTorunOPSIS,1995-06-01,2005-12-31,background,urban,container,kujawsko-pomorskie,Toruń,pl. Teatralny 2,53.013611,18.604722,powiat Toruń,TORUN
+231,KpTorunPoznanska,PL0340A,"Toruń ""Poznańska""",KpTorunPoznanska,2003-03-16,2009-12-31,background,urban,in-house,kujawsko-pomorskie,Toruń,ul. Poznańska 63,52.993611,18.595278,powiat Toruń,TORUN
+232,KpTorunSzpMiejski,PL0203A,Toruń Szpital Miejski,KpTorunSzpMiejski,2004-01-01,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Toruń,ul. Batorego,53.0225,18.620833,powiat Toruń,TORUN
+233,KpToruStorczMOB,PL0688A,"Toruń, ul. Storczykowa",KpToruStorczMOB,2018-01-01,2018-12-31,background,urban,mobile,kujawsko-pomorskie,Toruń,ul. Storczykowa 124,53.041945,18.595036,powiat Toruń,TORUN
+234,KpToruWSikor,PL0582A,"Toruń, ul. Wały gen. Sikorskiego",,2012-03-01,,background,urban,container,kujawsko-pomorskie,Toruń,ul. Wały Gen. Sikorskiego 12,53.012475,18.605681,powiat Toruń,TORUN
+235,KpTuchPiast,PL0341A,Tuchola Piastowska,KpTuchPiast,2011-01-01,2014-01-01,background,suburban,container,kujawsko-pomorskie,Tuchola,ul. Piastowska,53.585961,17.86935,powiat tucholski,TUCHOLA
+236,KpTuchPiastowska,,Tuchola,KpTuchPiastowska,1999-01-01,2010-12-31,background,urban,container,kujawsko-pomorskie,Tuchola,ul. Piastowska 30,53.585833,17.871667000000002,powiat tucholski,TUCHOLA
+237,KpWabrzMuzeum,PL0204A,Wąbrzeźno - muzeum,KpWabrzMuzeum,2005-04-01,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Wąbrzeźno,ul. 1 Maja 40,53.279722,18.954167,powiat wąbrzeski,WABRZEZNO
+238,KpWabrzstmob,,Wąbrzeźno (stacja mobilna),KpWabrzstmob,2005-01-01,2008-12-13,background,urban,mobile,kujawsko-pomorskie,Wąbrzeźno,ul. Kętrzyńskiego 3,53.278333,18.966667,powiat wąbrzeski,WABRZEZNO
+239,KpWieniecZdrMOB,PL0718A,Airponter Wieniec Zdrój,KpWieniecZdrMOB,2018-12-28,2019-12-31,background,suburban,mobile,kujawsko-pomorskie,Wieniec-Zdrój,ul. Wieniecka,52.656866,18.987368,powiat włocławski,WIENIEC-ZDROJ
+240,KpWieniZdroj,PL0689A,"Wieniec Zdrój, ul. Wieniecka",,2018-01-01,,background,suburban,dust collector,kujawsko-pomorskie,Wieniec-Zdrój,Wieniecka,52.656866,18.987368,powiat włocławski,WIENIEC-ZDROJ
+241,KpWienSanatorium,PL0342A,"Wieniec-Zdrój Sanatorium ""Jutrzenka""",KpWienSanatorium,1981-01-01,2010-12-31,NO DATA,nonurban,container,kujawsko-pomorskie,Wieniec-Zdrój,,52.656944,18.988611,powiat włocławski,WIENIEC-ZDROJ
+242,KpWiktorowoG,PL0587A,Lafarge- Airpointer,KpAirpWiktorowo,2012-08-01,2015-01-01,industrial,nonurban,container,kujawsko-pomorskie,Wiktorowo,Wiktorowo 22,52.822942000000005,17.859030999999998,powiat żniński,WIKTOROWO
+243,KpWloclChelmMOB,PL0605A,Airpointer Włocławek,KpAirpWlocWod,2015-01-01,2018-01-01,background,suburban,mobile,kujawsko-pomorskie,Włocławek,ul. Chełmicka,52.672648,19.079261,powiat Włocławek,WLOCLAWEK
+244,KpWloclGnia2,PL0703A,"Włocławek, ul. Gniazdowskiego2",KpWloclGnia2,2017-01-01,2017-12-31,background,suburban,dust collector,kujawsko-pomorskie,Włocławek,Gniazdowskiego 7,52.651561,19.051886,powiat Włocławek,WLOCLAWEK
+245,KpWloclGniaz,PL0690A,"Włocławek, ul. Gniazdowskiego",,2017-04-01,,background,suburban,dust collector,kujawsko-pomorskie,Włocławek,Gniazdowskiego 7,52.651561,19.051886,powiat Włocławek,WLOCLAWEK
+246,KpWloclKalis,PL0664A,"Włocławek, ul. Kaliska",,2018-12-01,,background,urban,container,kujawsko-pomorskie,Włocławek,Kaliska 108 A,52.63739399999999,19.044486,powiat Włocławek,WLOCLAWEK
+247,KpWloclKilinskiego,PL0343A,"Włocławek ""Kilińskiego""",KpWloclKilinskiego,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Włocławek,ul. Kilińskiego 16,52.656389,19.062778,powiat Włocławek,WLOCLAWEK
+248,KpWloclLady,PL0074A,"Włocławek ""Łady""",KpWloclLady,1996-01-01,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Włocławek,ul. Łady 10,52.641944,19.0475,powiat Włocławek,WLOCLAWEK
+249,KpWloclMalinowa,PL0344A,"Włocławek ""Malinowa""",KpWloclMalinowa,1995-01-03,2009-12-31,background,urban,in-house,kujawsko-pomorskie,Włocławek,ul. Malinowa 5,52.678611,19.051667,powiat Włocławek,WLOCLAWEK
+250,KpWloclOkrze,PL0205A,"Włocławek, ul. Okrzei",,2005-01-01,,communication,urban,container,kujawsko-pomorskie,Włocławek,ul. Okrzei,52.658467,19.059314,powiat Włocławek,WLOCLAWEK
+251,KpWloclOpsis,,OPSIS Włocławek,KpWloclOpsis,2002-06-01,2009-05-31,background,urban,in-house,kujawsko-pomorskie,Włocławek,pl. Wolności,52.663056000000005,19.07,powiat Włocławek,WLOCLAWEK
+252,KpWloclPlocka,PL0345A,"Włocławek ""Płocka""",KpWloclPlocka,2003-03-16,2009-12-31,background,urban,in-house,kujawsko-pomorskie,Włocławek,ul. Płocka 45,52.65444399999999,19.101667000000003,powiat Włocławek,WLOCLAWEK
+253,KpWloclSiels,PL0075A,"Włocławek Sielska ""DMD""",KpWloclSielska,1995-01-03,2017-03-31,background,suburban,dust collector,kujawsko-pomorskie,Włocławek,ul. Sielska 3,52.66472099999999,19.036386,powiat Włocławek,WLOCLAWEK
+254,KpWloclWSHE,,Włocławek WSHE,KpWloclWSHE,2003-02-05,2005-01-31,communication,urban,in-house,kujawsko-pomorskie,Włocławek WSHE,ul. Okrzei 94,52.663056000000005,19.056389000000003,powiat Włocławek,WLOCLAWEK WSHE
+255,KpWlocZytnia,PL0346A,"Włocławek ""Żytnia""",KpWlocZytnia,1995-04-11,2009-12-31,industrial,urban,in-house,kujawsko-pomorskie,Włocławek,ul. Żytnia 55,52.646389,19.091111,powiat Włocławek,WLOCLAWEK
+256,KpWolice,PL0076A,Lafarge-Wolice,KpWolice,2001-09-01,2011-12-31,industrial,nonurban,container,kujawsko-pomorskie,Wolice,,52.854167,17.900278,powiat żniński,WOLICE
+257,KpZielBoryTu,PL0077A,"Zielonka, Bory Tucholskie",,2004-05-27,,background,nonurban,container,kujawsko-pomorskie,Zielonka,,53.662136,17.933985999999997,powiat tucholski,ZIELONKA
+258,KpZninBrowarowa,PL0347A,Żnin,KpZninBrowarowa,2003-03-16,2010-12-31,background,urban,in-house,kujawsko-pomorskie,Żnin,ul. Browarowa 14,52.851667000000006,17.715556,powiat żniński,ZNIN
+259,KpZninPotock,PL0348A,Żnin Starostwo Potockiego,KpZninPotockiego,2008-08-11,2016-01-01,background,suburban,in-house,kujawsko-pomorskie,Żnin,ul. Potockiego 1,52.848453000000006,17.734085999999998,powiat żniński,ZNIN
+260,LbBialaPKopernika,PL0078A,PSSE-Biała-Kopernika,LbBialaPKopernika,1995-01-02,2009-12-31,background,urban,in-house,lubelskie,Biała Podlaska,ul. Kopernika 7,52.034189000000005,23.102736,powiat Biała Podlaska,BIALA PODLASKA
+261,LbBialaPPl.TrzechKrzyzy,PL0080A,PSSE-Biała-Pl.TrzechKrzyży,LbBialaPPl.TrzechKrzyzy,2004-03-01,2009-12-31,background,urban,container,lubelskie,Biała Podlaska,pl. Trzech Krzyży 4,52.023856,23.116042,powiat Biała Podlaska,BIALA PODLASKA
+262,LbBialySlupRPN,,Biały Słup,LbBialySlupRPN,2002-01-21,2005-12-31,background,nonurban,in-house,lubelskie,Biały Słup,,50.591742,22.997811,powiat zamojski,BIALY SLUP
+263,LbBiaPodOrze,PL0079A,"Biała Podlaska, ul. Orzechowa",,1993-04-07,,background,urban,container,lubelskie,Biała Podlaska,ul. Orzechowa,52.029194,23.149389000000003,powiat Biała Podlaska,BIALA PODLASKA
+264,LbBiaSlupRPN,PL0349A,Biały Słup (RPN),LbBialySlupRPN_Auto,2006-01-01,2017-12-31,background,nonurban,container,lubelskie,Biały Słup,,50.590806,22.997889,powiat zamojski,BIALY SLUP
+265,LbBilgorajWSSE,PL0350A,Biłgoraj ul. Dąbrowskiego,LbBilgorajWSSE,1991-06-04,2008-12-31,background,urban,in-house,lubelskie,Biłgoraj,ul. Dąbrowskiego 8,50.533889,22.716667,powiat biłgorajski,BILGORAJ
+266,LbChelJagiel,PL0081A,Chełm ul. Jagiellońska,LbChelmJagWIOS,2000-04-01,2018-12-31,background,suburban,dust collector,lubelskie,Chełm,ul. Jagiellońska 64,51.13095,23.514603,powiat Chełm,CHELM
+267,LbChelmPolan,PL0744A,"Chełm, ul. Połaniecka",,2019-01-01,,background,urban,container,lubelskie,Chełm,ul. Połaniecka,51.12219,23.47287,powiat Chełm,CHELM
+268,LbChelmPolWSSE,PL0082A,Chełm ul. Połaniecka,LbChelmPolWSSE,1991-04-16,2008-12-31,background,urban,in-house,lubelskie,Chełm,ul. Połaniecka 11,51.122778,23.473333,powiat Chełm,CHELM
+269,LbChelmSzpWSSE,PL0083A,Chełm ul. Szpitalna,LbChelmSzpWSSE,1980-01-05,2009-12-31,background,urban,in-house,lubelskie,Chełm,ul. Szpitalna 48,51.150278,23.4575,powiat Chełm,CHELM
+270,LbChelPolan,PL0744A,Chełm ul.Połaniecka,LbChelPolan,2019-01-01,,background,urban,container,lubelskie,Chełm,ul. Połaniecka,51.12219,23.47287,powiat Chełm,CHELM
+271,LbDorohWIOS,PL0084A,Dorohusk,LbDorohWIOS,2001-07-01,2006-08-31,background,nonurban,in-house,lubelskie,Dorohusk,ul. teren GZO,51.175556,23.801667,powiat chełmski,DOROHUSK
+272,LbFlorianRPN,PL0691A,"Florianka, RPN",,2018-01-01,,background,nonurban,container,lubelskie,Florianka,,50.551894,22.982861,powiat biłgorajski,FLORIANKA
+273,LbHrubieszowWIOS,PL0351A,Hrubieszów Gródecka,LbHrubieszowWIOS,2003-02-06,2009-12-31,background,urban,in-house,lubelskie,Hrubieszów,ul. Gródecka 36,50.804722,23.913056,powiat hrubieszowski,HRUBIESZOW
+274,LbHrubieszowWSSE,,Hrubieszów Mickiewicza,LbHrubieszowWSSE,2002-01-02,2003-12-31,background,urban,in-house,lubelskie,Hrubieszów,ul. Mickiewicza 2,50.802778,23.896111,powiat hrubieszowski,HRUBIESZOW
+275,LbJarczWolaM,PL0002R,"Jarczew, IMGW",,1985-10-01,,background,nonurban,container,lubelskie,Jarczew,,51.814367,21.972375,powiat łukowski,JARCZEW
+276,LbKra-awWSSE,PL0352A,Krasnystaw ul. Sikorskiego,LbKra-awWSSE,1990-01-18,2009-12-31,background,urban,in-house,lubelskie,Krasnystaw,ul. Sikorskiego 3a,50.981547,23.170486,powiat krasnostawski,KRASNYSTAW
+277,LbKrasKoszar,PL0353A,"Kraśnik, ul. Koszarowa",,2007-01-01,,background,suburban,dust collector,lubelskie,Kraśnik,ul. Koszarowa 10A,50.928239000000005,22.228308,powiat kraśnicki,KRASNIK
+278,LbKrasnikSpoldziel,PL0354A,Kraśnik Ul. Spółdzielcza,LbKrasnikSpoldziel,1994-01-25,2008-12-31,background,urban,in-house,lubelskie,Kraśnik,ul. Spółdzielcza 3,50.927486,22.228567,powiat kraśnicki,KRASNIK
+279,LbKrasnobrod,PL0761A,"Krasnobród, ul. Sanatoryjna",,2020-01-16,,background,suburban,dust collector,lubelskie,Krasnobród,ul. Sanatoryjna,50.549297,23.197317,powiat zamojski,KRASNOBROD
+280,LbKrasnobrodWSSELel,,Krasnobród ul. Lelewela 2,LbKrasnobrodWSSELel,2002-01-23,2009-12-31,background,urban,in-house,lubelskie,Krasnobród,ul. Lelewela 2,50.54385,23.215858,powiat zamojski,KRASNOBROD
+281,LbLeczna1000Lecia,PL0269A,Łęczna ul. 1000-Lecia,LbLeczna1000Lecia,2006-09-01,2010-12-31,background,urban,container,lubelskie,Łęczna,ul. 1000-Lecia 12,51.30445,22.883331,powiat łęczyński,LECZNA
+282,LbLublin_Chmielna,,Lublin ul. Chmielna,LbLublin_Chmielna,1994-01-03,2002-12-31,background,urban,in-house,lubelskie,Lublin,ul. Chmielna 10,51.251289,22.5558,powiat Lublin,LUBLIN
+283,LbLublin_Krasn,PL0253A,Lublin Al. Kraśnicka,LbLublin_Krasn,2006-01-01,2010-05-10,background,urban,container,lubelskie,Lublin,al. Kraśnicka 2 CD,51.247225,22.523883,powiat Lublin,LUBLIN
+284,LbLublinMaszynowa,PL0356A,Lublin ul. Maszynowa,LbLublinMaszynowa,1986-03-10,2009-12-31,background,urban,in-house,lubelskie,Lublin,ul. Maszynowa 2,51.244431,22.595297,powiat Lublin,LUBLIN
+285,LbLublinNadrzecz,,Lublin Ul. Nadrzeczna,LbLublinNadrzecz,1991-01-02,2002-12-31,background,urban,in-house,lubelskie,Lublin,ul. Nadrzeczna 16,51.222225,22.581822,powiat Lublin,LUBLIN
+286,LbLublinObywat_13,PL0086A,Lublin ul. Obywatelska 13,LbLublinObywat_13,2000-10-04,2009-12-31,background,urban,in-house,lubelskie,Lublin,ul. Obywatelska 13,51.259269,22.568522,powiat Lublin,LUBLIN
+287,LbLublinOgrod,,Lublin Ogród Botaniczny,LbLublinOgrod,2003-09-05,2006-12-31,background,urban,container,lubelskie,Lublin,ul. Sławinkowska 3,51.263964,22.514581,powiat Lublin,LUBLIN
+288,LbLublinPiel,PL0087A,Lublin Ul. Pielęgniarek,LbLublinPiel,2001-05-22,2009-12-31,background,urban,container,lubelskie,Lublin,ul. Pielęgniarek 6,51.239444,22.5075,powiat Lublin,LUBLIN
+289,LbLublinSpokojna,PL0206A,Lublin Ul. Spokojna (Śródmieście),LbLublinSpokojna,2003-01-01,2009-12-31,background,urban,in-house,lubelskie,Lublin,ul. Spokojna 9,51.250731,22.554769,powiat Lublin,LUBLIN
+290,LbLubObywate,PL0507A,"Lublin, ul. Obywatelska",,2010-05-21,,background,urban,container,lubelskie,Lublin,ul. Obywatelska 13,51.259431,22.569133,powiat Lublin,LUBLIN
+291,LbLubSliwins,PL0085A,"Lublin, ul. Śliwińskiego",,2001-07-01,,background,urban,container,lubelskie,Lublin,ul. Śliwińskiego 5,51.273078000000005,22.551675,powiat Lublin,LUBLIN
+292,LbLukowBrowarna,PL0357A,WIOŚ-Łuków-Browarna,LbLukowBrowarna,2007-01-03,2010-12-31,background,urban,container,lubelskie,Łuków,ul. Browarna 63,51.928564,22.377758,powiat łukowski,LUKOW
+293,LbLukowSpoldzielcza,PL0088A,PSSE-Łuków-Spółdzielcza,LbLukowSpoldzielcza,1999-02-01,2008-12-31,background,urban,in-house,lubelskie,Łuków,ul. Społdzielcza 4,51.929722,22.380569,powiat łukowski,LUKOW
+294,LbMiedzPModrzewiowa,,PSSE-MiędzyrzecP-Modrzewiowa,LbMiedzPModrzewiowa,1997-01-15,2003-12-31,background,suburban,in-house,lubelskie,Międzyrzec Podlaski,ul. Modrzewiowa 27,51.996064,22.802539000000003,powiat bialski,MIEDZYRZEC PODLASKI
+295,LBMiedzPStaromiejska,PL0358A,PSSE-MiędzyrzecP-Staromiejska,LBMiedzPStaromiejska,2004-01-05,2008-12-31,background,urban,in-house,lubelskie,Międzyrzec Podlaski,ul. Staromiejska 20,51.985278,22.787097,powiat bialski,MIEDZYRZEC PODLASKI
+296,LbNaleczAlMa,PL0710A,"Nałęczów, al. Małachowskiego",,2019-01-22,,background,suburban,dust collector,lubelskie,Nałęczów,al. Małachowskiego,51.284931,22.210242,powiat puławski,NALECZOW
+297,LbNaleczow,PL0710A,Nałęczów,LbNaleczow,2019-01-22,,background,suburban,dust collector,lubelskie,Nałęczów,Al. Małachowskiego,51.284931,22.210242,powiat puławski,NALECZOW
+298,LbNaleczowKasztan,PL0359A,Nałęczów Ul. Kasztanowa,LbNaleczowKasztan,1993-01-04,2009-12-31,background,urban,in-house,lubelskie,Nałęczów,ul. Kasztanowa 1,51.287361,22.208233,powiat puławski,NALECZOW
+299,LbPulaKarpin,PL0657A,"Puławy, ul. Karpińskiego",,2015-06-01,2021-12-31,background,urban,container,lubelskie,Puławy,ul. Karpińskiego 5,51.419047,21.961089,powiat puławski,PULAWY
+300,LbPulaSkowie,PL0089A,Puławy ul. Skowieszyńska,LbPulawySkowieszynska,2003-07-22,2015-12-31,background,suburban,dust collector,lubelskie,Puławy,ul. Skowieszyńska 51,51.410614,21.976375,powiat puławski,PULAWY
+301,LbPulawyLubelska,PL0360A,Puławy Ul. Lubelska,LbPulawyLubelska,1993-01-04,2015-01-01,background,urban,in-house,lubelskie,Puławy,ul. Lubelska 5,51.417258,21.972761,powiat puławski,PULAWY
+302,LbRadzPodSit,PL0270A,"Radzyń Podlaski, ul. Sitkowskiego",,2006-11-08,,background,suburban,dust collector,lubelskie,Radzyń Podlaski,ul. Sitkowskiego 1b,51.78,22.625944,powiat radzyński,RADZYN PODLASKI
+303,LbRadzyPPocztowa,PL0090A,PSSE-RadzyńP-Pocztowa,LbRadzyPPocztowa,1984-01-01,2009-12-31,background,urban,in-house,lubelskie,Radzyń Podlaski,ul. Pocztowa 5,51.784558,22.619614,powiat radzyński,RADZYN PODLASKI
+304,LbRejowiecFabrWIOS,PL0361A,Rejowiec Fabryczny,LbRejowiecFabrWIOS,2006-09-01,2010-12-31,background,urban,container,lubelskie,Rejowiec Fabryczny,ul. Chełmska 51A,51.110278,23.246944,powiat chełmski,REJOWIEC FABRYCZNY
+305,LbSwidnikWPolskiego,PL0362A,Świdnik ul. Wojska Polskiego,LbSwidnikWPolskiego,2004-01-12,2009-12-31,background,urban,in-house,lubelskie,Świdnik,ul. Wojska Polskiego 27,51.221919,22.687217,powiat świdnicki,SWIDNIK
+306,LbSwidnikWyszyns,,Świdnik Ul. Wyszyńskiego,LbSwidnikWyszyns,1993-03-24,2003-12-31,background,urban,in-house,lubelskie,Świdnik,ul. Wyszyńskiego 15,51.217625,22.698714,powiat świdnicki,SWIDNIK
+307,LbSzczebPartyzantow,PL0363A,Szczebrzeszyn,LbSzczebPartyzantow,2003-02-10,2008-12-31,background,urban,in-house,lubelskie,Szczebrzeszyn,ul. Partyzantów 35,50.698056,22.971944,powiat zamojski,SZCZEBRZESZYN
+308,LbTomaszowLubWIOS,PL0271A,Tomaszów Lubelski ul. Lwowska 68,LbTomaszowLubWIOS,2006-09-01,2010-12-31,background,urban,container,lubelskie,Tomaszów Lubelski,ul. Lwowska 68,50.4475,23.414444,powiat tomaszowski,TOMASZOW LUBELSKI
+309,LbTomaszowLubWSSE,PL0364A,Tomaszów Lubelski ul. Lwowska 51,LbTomaszowLubWSSE,1995-01-02,2008-12-31,background,urban,in-house,lubelskie,Tomaszów Lubelski,ul. Lwowska 51,50.447778,23.416944,powiat tomaszowski,TOMASZOW LUBELSKI
+310,LbWilczopole,PL0488A,Wilczopole,,2006-09-01,,background,nonurban,in-house,lubelskie,Wilczopole,,51.163542,22.598608,powiat lubelski,WILCZOPOLE
+311,LbWlodawWSSE,PL0365A,Włodawa ul. Pilsudskiego,LbWlodawWSSE,1985-01-02,2009-12-31,background,urban,in-house,lubelskie,Włodawa,ul. Piłsudskiego 66,51.552308,23.554408,powiat włodawski,WLODAWA
+312,LbZamoHrubie,PL0091A,"Zamość, ul. Hrubieszowska",,1992-01-01,,background,urban,container,lubelskie,Zamość,ul. Hrubieszowska 69A,50.716628,23.290247,powiat Zamość,ZAMOSC
+313,LbZamoscWSSE,PL0092A,Zamość ul. Peowiaków 96,LbZamoscWSSE,1985-06-12,2009-12-31,background,urban,in-house,lubelskie,Zamość,ul. Peowiaków 96,50.716111,23.260833,powiat Zamość,ZAMOSC
+315,LdBelchatEdward,PL0665A,Bełchatów-Edwardów 5,LdBelchatEdward,2017-01-01,,background,urban,dust collector,łódzkie,Bełchatów,ul. Edwardów 5,51.356611,19.365806,powiat bełchatowski,BELCHATOW
+316,LdBelchaWSSEMOkrzei,PL0093A,Bełchatów-Okrzei49,LdBelchaWSSEMOkrzei,1988-01-01,2010-01-01,background,urban,in-house,łódzkie,Bełchatów,ul. Okrzei S. 49,51.360278,19.367778,powiat bełchatowski,BELCHATOW
+317,LdBelchEdwar,PL0665A,"Bełchatów, ul. Edwardów",,2017-01-01,,background,urban,dust collector,łódzkie,Bełchatów,ul. Edwardów 5,51.356611,19.365806,powiat bełchatowski,BELCHATOW
+318,LdBrzeReform,PL0366A,"Brzeziny, ul. Reformacka",,2010-01-01,,background,urban,dust collector,łódzkie,Brzeziny,ul. Reformacka 1,51.797814,19.755769,powiat brzeziński,BRZEZINY
+320,LdGajewUjWod,PL0094A,"Gajew, Ujęcie Wody",,2003-11-01,,background,nonurban,container,łódzkie,Gajew,Ujęcie wody,52.14325,19.233225,powiat łęczycki,GAJEW
+321,LdKutn1Maja7MOB,PL0763A,"Kutno, ul. 1 Maja",,2019-09-19,,background,urban,mobile,łódzkie,Kutno,ul. 1 Maja 7,52.231728,19.353742,powiat kutnowski,KUTNO
+322,LdKutnKosciu,PL0607A,"Kutno, ul. Kościuszki",,2014-01-01,,background,urban,dust collector,łódzkie,Kutno,ul. Kościuszki 26,52.234481,19.368186,powiat kutnowski,KUTNO
+323,LdKutnoWIOSMWilcza,PL0095A,Kutno Wilcza,LdKutnoWIOSMWilcza,1993-03-01,2015-12-31,background,urban,in-house,łódzkie,Kutno,ul. Wilcza 5a,52.228489,19.372206,powiat kutnowski,KUTNO
+324,LdKutnoWSSEMGrunwal,PL0367A,Kutno-Grunwaldzka2,LdKutnoWSSEMGrunwal,1976-07-01,2010-01-01,background,urban,in-house,łódzkie,Kutno,ul. Grunwaldzka 2,52.229167,19.372222,powiat kutnowski,KUTNO
+325,LdLaskNarutoMOB,PL0764A,"Łask, ul. Narutowicza",,2020-10-26,,background,urban,mobile,łódzkie,Łask,ul. Narutowicza 28,51.589261,19.131494,powiat łaski,LASK
+326,LdLaskWSSEMWarszaw,PL0255A,Łask-Warszawska,LdLaskWSSEMWarszaw,1990-02-05,2010-01-01,background,urban,in-house,łódzkie,Łask,ul. Warszawska,51.59,19.147222,powiat łaski,LASK
+327,LdLodzCzerni,PL0096A,"Łódź, ul. Czernika",,2003-11-01,,background,urban,container,łódzkie,Łódź,ul. Czernika 1/3,51.75805,19.529786,powiat Łódź,LODZ
+328,LdLodzGdansk,PL0543A,"Łódź, ul. Gdańska",,2012-01-01,,background,urban,container,łódzkie,Łódź,ul. Gdańska 16,51.775411,19.4509,powiat Łódź,LODZ
+329,LdLodzJanPaw,PL0635A,"Łódź, al. Jana Pawła II",,2015-10-27,,communication,urban,container,łódzkie,Łódź,al. Jana Pawła II 15,51.754613,19.434925,powiat Łódź,LODZ
+330,LdLodzKilins,PL0589A,Łódź-Kilińskiego 102/102a,LdLodzWIOSAKilinsk,2014-01-01,2017-12-31,communication,urban,container,łódzkie,Łódź,ul. Kilińskiego 102/102a,51.763801,19.467132,powiat Łódź,LODZ
+331,LdLodzLegion,PL0100A,"Łódź, ul. Legionów",,2004-01-01,,background,urban,dust collector,łódzkie,Łódź,ul. Legionów 1,51.776417,19.452936,powiat Łódź,LODZ
+332,LdLodzRudzka,PL0101A,"Łódź, ul. Rudzka",,1975-01-01,,background,urban,dust collector,łódzkie,Łódź,ul. Rudzka 60,51.705581,19.434842,powiat Łódź,LODZ
+333,LdLodzWIOSARubinst,PL0097A,Łódź-Śródmieście,LdLodzWIOSARubinst,2003-11-01,2014-12-31,background,urban,in-house,łódzkie,Łódź,ul. Rubinsteina 77,51.767292,19.455339,powiat Łódź,LODZ
+334,LdLodzWSSEMAstrona,PL0368A,Łódź-Astronautów,LdLodzWSSEMAstrona,1968-01-01,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Astronautów 17,51.726111,19.461944,powiat Łódź,LODZ
+335,LdLodzWSSEMDeczyns,PL0099A,Łódź-Deczyńskiego,LdLodzWSSEMDeczyns,1973-01-01,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Deczyńskiego 24,51.803889,19.471111,powiat Łódź,LODZ
+336,LdLodzWSSEMPrzybys,PL0036A,Łódź-Przybyszewskiego10,LdLodzWSSEMPrzybys,1965-03-05,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Przybyszewskiego 10,51.744167,19.467228,powiat Łódź,LODZ
+337,LdLodzWSSEMRokicin,,Łódź-Rokicińska144,LdLodzWSSEMRokicin,1971-01-02,2003-12-31,background,urban,in-house,łódzkie,Łódź,ul. Rokicińska 144,51.758056,19.560278,powiat Łódź,LODZ
+338,LdLodzWSSEMWici3,PL0037A,Łódź-Wici3,LdLodzWSSEMWici3,1994-01-07,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Wici 3,51.798611,19.384722,powiat Łódź,LODZ
+339,LdLodzWSSEMWilensk,PL0369A,Łódź-Wileńska25,LdLodzWSSEMWilensk,1994-01-01,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Wileńska 25,51.752778,19.428333,powiat Łódź,LODZ
+340,LdLodzWSSEMWodna40,PL0002A,Łódź-WSSE Wodna40,LdLodzWSSEMWodna40,1998-12-25,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Wodna 40,51.761667,19.476944,powiat Łódź,LODZ
+341,LdLodzWSSEMZachodn,PL0102A,Łódź-Zachodnia81,LdLodzWSSEMZachodn,1967-01-05,2010-01-01,background,urban,in-house,łódzkie,Łódź,ul. Zachodnia 81,51.774722,19.455003,powiat Łódź,LODZ
+342,LdLodzZachod,PL0098A,Łódź-Zachodnia 40,LdLodzWIOSAZachodn,2003-09-02,2016-05-20,communication,urban,container,łódzkie,Łódź,ul. Zachodnia 40,51.777603000000006,19.452408,powiat Łódź,LODZ
+343,LdLowiczSien,PL0609A,"Łowicz, ul. Sienkiewicza",,2015-01-01,,background,urban,dust collector,łódzkie,Łowicz,ul. Henryka Sienkiewicza 62,52.105853,19.939553,powiat łowicki,LOWICZ
+344,LdLowiczWSSEMSwFlori,PL0370A,Łowicz-Św.Floriana3,LdLowiczWSSEMSwFlori,1994-01-01,2010-01-01,background,urban,in-house,łódzkie,Łowicz,ul. Św. Floriana 3,52.108056,19.936944,powiat łowicki,LOWICZ
+345,LdOpocCurieSk,PL0666A,Opoczno-Curie-Skłodowskiej 5,LdOpocCurieSk,2017-01-01,,background,urban,dust collector,łódzkie,Opoczno,ul. Curie-Skłodowskiej 5,51.379128,20.282169,powiat opoczyński,OPOCZNO
+346,LdOpocPlKosc,PL0508A,Opoczno-Pl Kościuszki 15,LdOpocznWIOSMPlKosci,2010-01-01,2017-01-01,background,urban,dust collector,łódzkie,Opoczno,pl. Kościuszki 15,51.375842,20.289236,powiat opoczyński,OPOCZNO
+347,LdOpocSkCuri,PL0666A,"Opoczno, ul. Skłodowskiej-Curie",,2017-01-01,,background,urban,dust collector,łódzkie,Opoczno,ul. Skłodowskiej-Curie 5,51.379128,20.282169,powiat opoczyński,OPOCZNO
+348,LdOpocznWSSEMPlKosci,PL0103A,Opoczno-Pl Kościuszki,LdOpocznWSSEMPlKosci,1986-01-01,2010-01-01,background,urban,in-house,łódzkie,Opoczno,pl. Kościuszki,51.375,20.275008,powiat opoczyński,OPOCZNO
+349,LdOzorkoWSSEMWigury1,PL0371A,Ozorków-Wigury 1,LdOzorkoWSSEMWigury1,1986-02-04,2010-01-01,background,urban,in-house,łódzkie,Ozorków,ul. Wigury 1,51.967222,19.290283,powiat zgierski,OZORKOW
+350,LdPabianWSSEMNowa,PL0372A,Pabianice-Nowa1,LdPabianWSSEMNowa,1992-01-01,2010-01-01,background,urban,in-house,łódzkie,Pabianice,ul. Nowa 1,51.659167,19.320833,powiat pabianicki,PABIANICE
+351,LdPabiKilins,PL0537A,"Pabianice, ul. Kilińskiego",,2009-12-08,,background,urban,in-house,łódzkie,Pabianice,ul. Kilińskiego 4,51.663181,19.355486,powiat pabianicki,PABIANICE
+352,LdPabiKonsta,PL0104A,"Pabianice, ul. Konstantynowska",,2003-11-01,,industrial,urban,container,łódzkie,Pabianice,ul. Konstantynowska,51.667981,19.368683,powiat pabianicki,PABIANICE
+353,LdPajeczWSSEMZeromsk,PL0373A,Pajęczno-Żeromskiego 7,LdPajeczWSSEMZeromsk,2001-01-01,2010-01-01,background,urban,in-house,łódzkie,Pajęczno,ul. Żeromskiego,51.150556,18.987781,powiat pajęczański,PAJECZNO
+354,LdParzniUjWo,PL0105A,"Parzniewice, Ujęcie Wody",,2003-10-17,,background,nonurban,container,łódzkie,Parzniewice,Ujęcie wody,51.291175,19.517556,powiat piotrkowski,PARZNIEWICE
+355,LdPiotrkMZGKMkarolin,,Piotrków Tryb. - Karolinowska 51,LdPiotrkMZGKMkarolin,1983-06-01,2008-01-01,industrial,urban,container,łódzkie,Piotrków Trybunalski,ul. Karolinowska 51,51.425,19.682222,powiat Piotrków Trybunalski,PIOTRKOW TRYBUNALSKI
+356,LdPioTrKraPr,PL0509A,"Piotrków Trybunalski, ul. Krakowskie Przedmieście",,2009-12-15,,background,urban,container,łódzkie,Piotrków Trybunalski,ul. Krakowskie Przedmieście 13,51.404406,19.696956,powiat Piotrków Trybunalski,PIOTRKOW TRYBUNALSKI
+357,LdPiotrkWIOSABelzack,PL0106A,Piotrków Belzacka,LdPiotrkWIOSABelzack,1999-03-09,2009-01-13,background,urban,in-house,łódzkie,Piotrków Trybunalski,ul. Belzacka 78a,51.406944,19.673056,powiat Piotrków Trybunalski,PIOTRKOW TRYBUNALSKI
+358,LdPiotrkWSSEM3goMaja,PL0107A,PiotrkówTryb.-3-goMaja8,LdPiotrkWSSEM3goMaja,1987-01-01,2010-01-01,background,urban,in-house,łódzkie,Piotrków Trybunalski,ul. 3 Maja 8,51.405,19.693333,powiat Piotrków Trybunalski,PIOTRKOW TRYBUNALSKI
+359,LdPioTrSienk,PL0510A,PiotrkówTryb.-Sienkiewicza 16,LdPiotrkWIOSMSienkie,2010-01-01,2015-01-01,background,urban,in-house,łódzkie,Piotrków Trybunalski,ul. Sienkiewicza 16,51.407844,19.688694,powiat Piotrków Trybunalski,PIOTRKOW TRYBUNALSKI
+360,LdRadomsFAMEGMGlinia,,Radomsko-Gliniana26,LdRadomsFAMEGMGlinia,1990-01-01,2006-04-01,background,urban,container,łódzkie,Radomsko,ul. Gliniana 26,51.068056,19.426667,powiat radomszczański,RADOMSKO
+362,LdRadomsMETALMPrzedb,,Radomsko-Przedborska,LdRadomsMETALMPrzedb,1990-01-01,2006-04-01,background,urban,container,łódzkie,Radomsko,ul. Przedborska,51.074722,19.461111,powiat radomszczański,RADOMSKO
+363,LdRadomsRoln,PL0544A,"Radomsko, ul. Rolna",,2010-01-01,,background,urban,container,łódzkie,Radomsko,ul. Rolna 2,51.067439,19.448694,powiat radomszczański,RADOMSKO
+364,LdRadomsSoko,PL0256A,Radomsko-Sokola4,LdRadomsWIOSASokola4,2005-04-19,2016-05-20,background,urban,container,łódzkie,Radomsko,ul. Sokola 4,51.063992,19.451164,powiat radomszczański,RADOMSKO
+365,LdRadomsWSSEMKomunyP,PL0108A,Radomsko-KomunyParyskiej5,LdRadomsWSSEMKomunyP,1995-01-01,2010-01-01,background,urban,in-house,łódzkie,Radomsko,ul. Komuny Paryskiej 5,51.069444,19.441111,powiat radomszczański,RADOMSKO
+366,LdRadomsWSSEMZeromsk,PL0109A,Radomsko-Żeromskiego 15,LdRadomsWSSEMZeromsk,2004-01-01,2011-05-01,background,urban,container,łódzkie,Radomsko,ul. Żeromskiego 15,51.066111,19.441944,powiat radomszczański,RADOMSKO
+367,LdRawaMaWIOSMKoscius,PL0511A,Rawa Mazowiecka-Kościuszki 5,LdRawaMaWIOSMKoscius,2008-02-01,2011-12-31,background,urban,in-house,łódzkie,Rawa Mazowiecka,ul. Kościuszki 5,51.763358,20.249978,powiat rawski,RAWA MAZOWIECKA
+368,LdRawaNiepod,PL0545A,"Rawa Mazowiecka, ul. Niepodległości",,2010-01-01,,background,urban,in-house,łódzkie,Rawa Mazowiecka,ul. Niepodległości 8,51.760875,20.250569,powiat rawski,RAWA MAZOWIECKA
+369,LdSieradWIOSMKoscius,PL0374A,Sieradz-Kościuszki6,LdSieradWIOSMKoscius,2006-01-01,2011-12-31,communication,urban,in-house,łódzkie,Sieradz,ul. Kościuszki 6,51.594444,18.736111,powiat sieradzki,SIERADZ
+370,LdSieradWSSEMArmiiKr,,Sieradz-ArmiiKrajowej7,LdSieradWSSEMArmiiKr,2003-01-01,2004-03-31,background,urban,in-house,łódzkie,Sieradz,ul. Armii Krajowej 7,51.583889,18.710556,powiat sieradzki,SIERADZ
+371,LdSieradWSSEMPOW52,PL0375A,Sieradz-POW52,LdSieradWSSEMPOW52,2004-06-01,2010-01-01,communication,urban,in-house,łódzkie,Sieradz,ul. POW 52,51.595833,18.720278,powiat sieradzki,SIERADZ
+372,LdSieraPolna,PL0636A,"Sieradz, ul. Polna",,2016-01-01,,background,urban,dust collector,łódzkie,Sieradz,ul. Polna 18/20,51.592111,18.734898,powiat sieradzki,SIERADZ
+373,LdSierGrunwa,PL0110A,Sieradz-Grunwaldzka 28,LdSieradWSSEMGrunwal,2004-01-01,2015-12-31,background,urban,dust collector,łódzkie,Sieradz,ul. Grunwaldzka 28,51.590125,18.717333,powiat sieradzki,SIERADZ
+374,LdSkierKonop,PL0611A,"Skierniewice, ul. Konopnickiej",,2014-07-01,,background,urban,dust collector,łódzkie,Skierniewice,ul. Marii Konopnickiej 5,51.954314,20.149378,powiat Skierniewice,SKIERNIEWICE
+375,LdSkiernWIOSMJagiell,PL0546A,Skierniewice-Jagiellońska 28,LdSkiernWIOSMJagiell,2010-01-01,2014-06-30,background,urban,in-house,łódzkie,Skierniewice,ul. Jagiellońska 28,51.959561,20.146183,powiat Skierniewice,SKIERNIEWICE
+376,LdSkiernWIOSMWitaStw,PL0512A,Skierniewice-Wita Stwosza2/4,LdSkiernWIOSMWitaStw,2008-03-07,2011-12-31,background,urban,in-house,łódzkie,Skierniewice,ul. Wita Stwosza 2/4,51.960719,20.147408,powiat Skierniewice,SKIERNIEWICE
+377,LdSkiernWSSEMKoperni,PL0111A,Skierniewice-Kopernika5,LdSkiernWSSEMKoperni,1994-01-02,2010-01-01,background,urban,in-house,łódzkie,Skierniewice,ul. Kopernika 5,51.952778,20.152222,powiat Skierniewice,SKIERNIEWICE
+378,LdSkiernWSSEMReymont,PL0112A,Skierniewice-Reymonta 33,LdSkiernWSSEMReymont,2004-01-01,2011-05-01,background,urban,in-house,łódzkie,Skierniewice,ul. Reymonta 33,51.96,20.147222,powiat Skierniewice,SKIERNIEWICE
+379,LdSkiernWSSEMWankowi,,Skierniewice-Wańkowicza10,LdSkiernWSSEMWankowi,1991-01-16,2003-12-31,background,urban,in-house,łódzkie,Skierniewice,ul. Wańkowicza 10,51.973611,20.148889,powiat Skierniewice,SKIERNIEWICE
+380,LdToMaSwAnto,PL0547A,Tomaszów Mazowiecki ul. Św. Antoniego,,2010-01-01,,background,urban,dust collector,łódzkie,Tomaszów Mazowiecki,ul. Św. Antoniego 43/45,51.526258,20.016786,powiat tomaszowski,TOMASZOW MAZOWIECKI
+381,LdTomaszWSSEMSw.Anto,PL0113A,TomaszówMaz.-Św.Antoniego24,LdTomaszWSSEMSw.Anto,1988-01-01,2014-08-13,background,urban,container,łódzkie,Tomaszów Mazowiecki,ul. Św. Antoniego 24,51.528889,20.010833,powiat tomaszowski,TOMASZOW MAZOWIECKI
+382,LdUniejTermy,PL0667A,Uniejów-Termy,LdUniejTermy,2017-01-01,,background,suburban,dust collector,łódzkie,Uniejów,ul. Zamkowa 1,51.971664,18.79035,powiat poddębicki,UNIEJOW
+383,LdUniejZamko,PL0667A,"Uniejów, ul. Zamkowa",,2017-01-01,,background,suburban,dust collector,łódzkie,Uniejów,ul. Zamkowa 1,51.971664,18.79035,powiat poddębicki,UNIEJOW
+384,LdWielunPOW1,PL0590A,"Wieluń, ul. POW",,2012-01-01,,background,urban,dust collector,łódzkie,Wieluń,ul. POW 12,51.217828,18.581828,powiat wieluński,WIELUN
+385,LdWielunWSSEMPOW14,PL0208A,Wieluń-POW14,LdWielunWSSEMPOW14,2005-01-01,2010-01-01,background,urban,in-house,łódzkie,Wieluń,ul. POW 14,51.218611,18.581389,powiat wieluński,WIELUN
+387,LdWieluPOW12,PL0590A,Wieluń-POW 12,LdWielunWIOSMPOW,2012-01-01,,background,urban,dust collector,łódzkie,Wieluń,ul. P.O.W. 12,51.217828,18.581828,powiat wieluński,WIELUN
+388,LdZduWoKrole,PL0548A,"Zduńska Wola, ul. Królewska",,2011-08-16,,background,urban,dust collector,łódzkie,Zduńska Wola,ul. Królewska 10,51.601439,18.940122,powiat zduńskowolski,ZDUNSKA WOLA
+389,LdZdWolaWSSEMDabrows,PL0114A,ZduńskaWola-Dąbrowskiego1,LdZdWolaWSSEMDabrows,2003-01-01,2010-01-01,background,urban,in-house,łódzkie,Zduńska Wola,ul. Dąbrowskiego 1,51.601111,18.936944,powiat zduńskowolski,ZDUNSKA WOLA
+390,LdZdWolaWSSEMPlWolno,,Zduńska Wola-Plac Wolności 20,LdZdWolaWSSEMPlWolno,2001-01-01,2003-07-31,background,urban,in-house,łódzkie,Zduńska Wola,pl. Wolności 20,51.603056,18.934444,powiat zduńskowolski,ZDUNSKA WOLA
+391,LdZdWolaWSSEMSzadkow,,ZduńskaWola-Szadkowska4,LdZdWolaWSSEMSzadkow,2003-01-01,2006-01-01,background,urban,in-house,łódzkie,Zduńska Wola,ul. Szadkowska 4,51.606667,18.939722,powiat zduńskowolski,ZDUNSKA WOLA
+392,LdZgieMielcz,PL0115A,"Zgierz, ul. Mielczarskiego",,2003-09-01,,background,urban,container,łódzkie,Zgierz,ul. Mielczarskiego 1,51.856692,19.421231,powiat zgierski,ZGIERZ
+393,LdZgierzWSSEMDabrows,,Zgierz-Dąbrowskiego 12,LdZgierzWSSEMDabrows,1976-01-01,2000-05-31,background,urban,in-house,łódzkie,Zgierz,ul. Dąbrowskiego 12,51.856944,19.411944,powiat zgierski,ZGIERZ
+394,LdZgierzWSSEMStRynek,PL0116A,Zgierz-Pl Jana Pawła II,LdZgierzWSSEMStRynek,2000-01-01,2010-01-01,background,urban,in-house,łódzkie,Zgierz,pl. Jana Pawła II,51.856389,19.404444,powiat zgierski,ZGIERZ
+395,LdZloczeWSSEMWieluns,,Złoczew-Wieluńksa(szkoła),LdZloczeWSSEMWieluns,2003-01-01,2003-12-31,background,urban,in-house,łódzkie,Złoczew,ul. Wieluńska,51.406944,18.610833,powiat sieradzki,ZLOCZEW
+396,LuDrezdeWSSE,PL0376A,WSSE - Drezdenko,LuDrezdeWSSE,2002-05-01,2009-12-31,background,urban,in-house,lubuskie,Drezdenko,ul. Chrobrego 11,52.839167,15.835578,powiat strzelecko-drezdenecki,DREZDENKO
+397,LuGorzKosGdy,PL0209A,Gorzów Wlkp. ul. Kosynierów Gdyńskich,,2005-01-01,,background,urban,container,lubuskie,Gorzów Wielkopolski,ul. Kosynierów Gdyńskich,52.738214,15.228667000000002,powiat Gorzów Wielkopolski,GORZOW WIELKOPOLSKI
+398,LuGorzowWSSE_1,PL0272A,WSSE - Gorzów ul. Borowskiego,LuGorzowWSSE_1,2003-01-01,2009-12-31,background,urban,in-house,lubuskie,Gorzów Wielkopolski,ul. Borowskiego 28,52.737222,15.232222,powiat Gorzów Wielkopolski,GORZOW WIELKOPOLSKI
+399,LuGorzowWSSE_5,PL0377A,WSSE - Gorzów ul. Mickiewicza,LuGorzowWSSE_5,1988-02-01,2009-12-31,background,urban,in-house,lubuskie,Gorzów Wielkopolski,ul. Mickiewicza,52.739722,15.23,powiat Gorzów Wielkopolski,GORZOW WIELKOPOLSKI
+400,LuGorzowWSSE_6,PL0378A,WSSE - Gorzów ul. Wróblewskiego,LuGorzowWSSE_6,2003-04-01,2009-12-31,background,urban,in-house,lubuskie,Gorzów Wielkopolski,ul. Wróblewskiego,52.754722,15.241944,powiat Gorzów Wielkopolski,GORZOW WIELKOPOLSKI
+401,LuGorzPilsud,PL0492A,Gorzów Wlkp. ul. Piłsudskiego,,2010-01-08,,background,urban,dust collector,lubuskie,Gorzów Wielkopolski,ul. Piłsudskiego,52.747044,15.246294,powiat Gorzów Wielkopolski,GORZOW WIELKOPOLSKI
+402,LuGubinAnderMOB,PL0782A,"Gubin, ul. Gen. W. Andersa",,2021-01-04,2021-12-31,background,urban,mobile,lubuskie,Gubin,Generała Władysława Andersa,51.947935,14.724985,powiat krośnieński,GUBIN
+403,LuMiedzyWSSE,PL0379A,WSSE - Międzyrzecz,LuMiedzyWSSE,1992-01-01,2009-12-31,background,urban,in-house,lubuskie,Międzyrzecz,ul. Centrum 16,52.442778,15.581389,powiat międzyrzecki,MIEDZYRZECZ
+404,LuNowaSolKos,PL0783A,Nowa Sól,,2021-01-01,,background,urban,container,lubuskie,Nowa Sól,T. Kościuszki,51.809103,15.708042,powiat nowosolski,NOWA SOL
+405,LuNowaSolMOB,PL0752A,"Nowa Sól, ul. T. Kościuszki",LuNowaSolMOB,2018-12-05,2019-12-31,background,urban,mobile,lubuskie,Nowa Sól,T. Kościuszki 26,51.808662,15.708193,powiat nowosolski,NOWA SOL
+406,LuNowasoWSSE,PL0380A,WSSE - Nowa Sól,LuNowasoWSSE,1990-01-03,2008-12-31,background,urban,in-house,lubuskie,Nowa Sól,ul. Wojska Polskiego 11,51.8025,15.715014000000002,powiat nowosolski,NOWA SOL
+407,LuSlubWIOS_AUT,PL0210A,Słubice ul. Woj Pol,LuSlubWIOS_AUT,2005-01-01,2010-12-31,background,urban,container,lubuskie,Słubice,ul. Wojska Polskiego,52.355833,14.564167,powiat słubicki,SLUBICE
+408,LuSlubWSSE,PL0381A,WSSE - Słubice,LuSlubWSSE,1988-02-01,2009-12-31,background,urban,in-house,lubuskie,Słubice,ul. Mickiewicza 4,52.350278,14.557222,powiat słubicki,SLUBICE
+409,LuSmolBytnic,PL0211A,Smolary Bytnickie,,2005-01-01,,background,nonurban,container,lubuskie,Smolary Bytnickie,Smolary Bytnickie 45A,52.172222,15.206667,powiat krośnieński,SMOLARY BYTNICKIE
+410,LuSulecDudka,PL0575A,Sulęcin ul. Dudka,,2011-01-26,,background,urban,container,lubuskie,Sulęcin,ul. Dudka,52.437722,15.122444,powiat sulęciński,SULECIN
+411,LuSuleciWSSE,PL0382A,WSSE - Sulęcin,LuSuleciWSSE,1992-01-02,2009-12-31,background,urban,in-house,lubuskie,Sulęcin,ul. Magazynowa,52.449722,15.116944,powiat sulęciński,SULECIN
+412,LuSwiebodMOB,PL0766A,"Świebodzin,ul. Gen.W.Sikorskiego",LuSwiebodMOB,2020-01-09,2020-12-31,background,urban,mobile,lubuskie,Świebodzin,Gen.W.Sikorskiego 25,52.245444,15.527571,powiat świebodziński,SWIEBODZIN
+413,LuSwieboWIOS_MOB,PL0383A,"Świebodzin, ul. Łąki Zamkowe",LuSwieboWIOS_MOB,2008-01-07,2009-01-14,background,urban,mobile,lubuskie,Świebodzin,ul. Łąki Zamkowe,52.247778,15.534722,powiat świebodziński,SWIEBODZIN
+414,LuSwieboWSSE,PL0384A,WSSE - Świebodzin,LuSwieboWSSE,1990-05-25,2009-12-31,background,urban,in-house,lubuskie,Świebodzin,ul. 1 Maja 10,52.251111,15.531667,powiat świebodziński,SWIEBODZIN
+415,LuWsKaziWiel,PL0212A,Wschowa ul. Kazimierza Wielkiego,,2005-01-01,,background,urban,container,lubuskie,Wschowa,ul. Kazimierza Wielkiego,51.799722,16.3175,powiat wschowski,WSCHOWA
+416,LuZaganWSSE,PL0385A,WSSE - Żagań,LuZaganWSSE,1991-01-14,2009-12-31,background,urban,in-house,lubuskie,Żagań,ul. Szprotawska 25A,51.6125,15.328889000000002,powiat żagański,ZAGAN
+417,LuZarySzyman,PL0591A,"Żary, ul. Szymanowskiego 8",,2012-09-01,,background,urban,container,lubuskie,Żary,ul. Szymanowskiego 8,51.642656,15.127807999999998,powiat żarski,ZARY
+418,LuZaryWIOS_MAN,PL0513A,Żary ul. Podchorążych,LuZaryWIOS_MAN,2010-01-01,2010-12-31,background,urban,in-house,lubuskie,Żary,ul. Podchorążych,51.6399,15.136131,powiat żarski,ZARY
+419,LuZaryWIOS_MOB,PL0514A,Żary ul. Chopina,LuZaryWIOS_MOB,2010-01-26,2010-12-31,background,urban,mobile,lubuskie,Żary,ul. Chopina,51.6415,15.1275,powiat żarski,ZARY
+420,LuZaryWSSE,PL0386A,WSSE - Żary,LuZaryWSSE,1998-06-01,2009-12-31,background,urban,in-house,lubuskie,Żary,ul. Podchorążych 23a,51.64,15.135556,powiat żarski,ZARY
+421,LuZaryWSSE_2,PL0387A,WSSE - Żary ul. 1Maja,LuZaryWSSE_2,2006-01-01,2009-12-31,background,urban,NO DATA,lubuskie,Żary,ul. 1 Maja,51.634444,15.141111,powiat żarski,ZARY
+422,LuZgoraWSSE_1,PL0388A,WSSE - Zielona Góra ul. Jasna,LuZgoraWSSE_1,1989-03-12,2009-12-31,background,urban,in-house,lubuskie,Zielona Góra,ul. Jasna 10,51.93,15.503056,powiat Zielona Góra,ZIELONA GORA
+423,LuZielKrotka,PL0213A,Zielona Góra ul. Krótka,,2005-01-01,,background,urban,container,lubuskie,Zielona Góra,ul. Krótka,51.939783,15.518861,powiat Zielona Góra,ZIELONA GORA
+424,MpAndrycWSSEKrak1801,,Andrychów Krakowska,MpAndrycWSSEKrak1801,2001-01-01,2009-12-31,background,urban,in-house,małopolskie,Andrychów,ul. Krakowska 86,49.853333,19.340556,powiat wadowicki,ANDRYCHOW
+425,MpBochKonfed,PL0549A,"Bochnia, ul. Konfederatów Barskich",,2011-01-01,,background,urban,dust collector,małopolskie,Bochnia,ul. Konfederatów Barskich,49.969017,20.439511,powiat bocheński,BOCHNIA
+426,MpBochniWSSEKazi0104,PL0302A,Bochnia Kazimierza Wielkiego 67,MpBochniWSSEKazi0104,2003-01-01,2008-12-31,background,urban,in-house,małopolskie,Bochnia,ul. Kazimierza Wielkiego 67,49.959167,20.420556,powiat bocheński,BOCHNIA
+427,MpBochniWSSEKons0105,PL0389A,Bochnia Kostytucji 3 Maja Nr 5,MpBochniWSSEKons0105,2004-01-01,2010-12-31,background,urban,NO DATA,małopolskie,Bochnia,ul. Kostytucji 3 Maja Nr 5,49.972778000000005,20.428056,powiat bocheński,BOCHNIA
+428,MpBochniWSSESoln0102,,Bochnia Solna,MpBochniWSSESoln0102,2003-01-01,2003-12-31,background,urban,NO DATA,małopolskie,Bochnia,ul. Solna,49.97,20.432222,powiat bocheński,BOCHNIA
+429,MpBrzeskWIOSWiej0202,PL0626A,"Brzesko, ul. Wiejska",MpBrzeskWIOSWiej0202,2014-01-01,2014-12-31,background,urban,mobile,małopolskie,Brzesko,ul. Wiejska,49.975953,20.603222,powiat brzeski,BRZESKO
+430,MpBrzeskWSSEGlow0201,PL0390A,Brzesko Głowackiego,MpBrzeskWSSEGlow0201,2001-01-01,2008-12-31,background,urban,in-house,małopolskie,Brzesko,ul. Głowackiego 51,49.9675,20.607783,powiat brzeski,BRZESKO
+431,MpBrzeszKosc,PL0668A,"Brzeszcze, ul. Kościelna",MpBrzeszKosc,2017-01-01,2018-01-17,background,urban,container,małopolskie,Brzeszcze,Kościelna,49.966667,19.146061,powiat oświęcimski,BRZESZCZE
+432,MpBukowKolejMOB,PL0612A,"Bukowno, ul. Kolejowa",MpBukownWIOSKole1206,2015-01-01,2015-12-31,background,urban,mobile,małopolskie,Bukowno,ul. Kolejowa,50.266239,19.462286,powiat olkuski,BUKOWNO
+433,MpChrzanWSSEGrzy0301,PL0303A,Chrzanów Grzybowskiego,MpChrzanWSSEGrzy0301,2001-01-01,2009-12-31,background,urban,in-house,małopolskie,Chrzanów,ul. Grzybowskiego 7,50.136944,19.397222,powiat chrzanowski,CHRZANOW
+434,MpChrzaPlTysMOB,PL0637A,"Chrzanów, Pl. Tysiąclecia",MpChrzaPlTysMOB,2016-01-01,2016-12-31,background,urban,mobile,małopolskie,Chrzanów,Pl. Tysiąclecia,50.144028000000006,19.406556,powiat chrzanowski,CHRZANOW
+435,MpDabrowWIOSZare0401,PL0627A,"Dabrowa Tarnowska, ul. Zaręby",MpDabrowWIOSZare0401,2014-01-01,2014-12-31,background,urban,mobile,małopolskie,Dąbrowa Tarnowska,ul. Zaręby,50.177519,20.984028,powiat dąbrowski,DABROWA TARNOWSKA
+436,MpDobczSzkolMOB,PL0638A,"Dobczyce, ul. Szkolna",MpDobczSzkolMOB,2016-01-01,2016-12-31,background,urban,mobile,małopolskie,Dobczyce,ul. Szkolna,49.881108000000005,20.100819,powiat myślenicki,DOBCZYCE
+437,MpDobrowWSSEPils0401,,Dąbrowa Tarnowska Piłsudskiego,MpDobrowWSSEPils0401,2001-01-01,2004-12-31,background,urban,in-house,małopolskie,Dąbrowa Tarnowska,ul. Piłsudskiego 14,50.170833,20.983611,powiat dąbrowski,DABROWA TARNOWSKA
+438,MpGorlicWSSELegi0501,PL0391A,Gorlice Legionów,MpGorlicWSSELegi0501,2001-01-01,2010-12-31,background,urban,in-house,małopolskie,Gorlice,ul. Legionów 12,49.655,21.156111,powiat gorlicki,GORLICE
+439,MpGorlKrasin,PL0478A,"Gorlice, ul. Krasińskiego",,2009-01-01,,background,urban,dust collector,małopolskie,Gorlice,ul. Krasińskiego,49.658889,21.163336,powiat gorlicki,GORLICE
+440,MpKalZebRyneMOB,PL0639A,"Kalwaria Zebrzydowska, Rynek",MpKalZebRyneMOB,2016-01-01,2016-12-31,background,urban,mobile,małopolskie,Kalwaria Zebrzydowska,Rynek,49.867344,19.676722,powiat wadowicki,KALWARIA ZEBRZYDOWSKA
+441,MpKaszowLisz,PL0640A,Kaszów,,2016-01-01,,background,suburban,container,małopolskie,Kaszów,Bory,50.025028000000006,19.726833,powiat krakowski,KASZOW
+442,MpKetyWyspiaMOB,PL0613A,"Kęty, ul. Wyspiańskiego",MpKetyWIOSWysp1304,2015-01-01,2015-12-31,background,urban,mobile,małopolskie,Kęty,ul. Wyspiańskiego,49.876936,19.2156,powiat oświęcimski,KETY
+443,MpKrakAlKras,PL0012A,"Kraków, Aleja Krasińskiego",,2003-01-01,,communication,urban,container,małopolskie,Kraków,al. Krasińskiego,50.057678,19.926189,powiat Kraków,KRAKOW
+444,MpKrakBujaka,PL0501A,"Kraków, ul. Bujaka",,2010-01-01,,background,urban,container,małopolskie,Kraków,ul. Bujaka,50.010575,19.949189,powiat Kraków,KRAKOW
+445,MpKrakBulwar,PL0039A,"Kraków, ul. Bulwarowa",,2003-01-01,,industrial,urban,container,małopolskie,Kraków,ul. Bulwarowa,50.069308,20.053492,powiat Kraków,KRAKOW
+446,MpKrakDietla,PL0641A,"Kraków, ul. Dietla",,2016-01-01,,communication,urban,container,małopolskie,Kraków,ul. Dietla,50.057447,19.946008,powiat Kraków,KRAKOW
+447,MpKrakOsPias,PL0642A,"Kraków, os. Piastów",,2016-01-01,,background,urban,dust collector,małopolskie,Kraków,os. Piastów,50.098508,20.018269,powiat Kraków,KRAKOW
+448,MpKrakowWIOSPrad6115,PL0038A,"Krowodrza-Kraków, szpital Jana Pawła II",MpKrakowWIOSPrad6115,2003-01-01,2010-02-28,background,urban,container,małopolskie,Kraków,ul. Prądnicka,50.0875,19.926111,powiat Kraków,KRAKOW
+449,MpKrakowWSSEKapi6108,PL0392A,Kraków Swoszowice Kąpielowa,MpKrakowWSSEKapi6108,2003-01-01,2009-12-31,background,urban,in-house,małopolskie,Kraków,ul. Swoszowice Kąpielowa 70,49.991667,19.935,powiat Kraków,KRAKOW
+450,MpKrakowWSSEPrad6102,,Krakow Pradnicka 76,MpKrakowWSSEPrad6102,2003-01-01,2004-12-31,background,urban,in-house,małopolskie,Kraków,ul. Prądnicka 76,50.0875,19.938056,powiat Kraków,KRAKOW
+451,MpKrakowWSSERPod6113,,Kraków Rynek Podgórski,MpKrakowWSSERPod6113,2001-01-01,2004-12-31,background,urban,in-house,małopolskie,Kraków,ul. Rynek Podgórski,50.04,19.943333,powiat Kraków,KRAKOW
+452,MpKrakSwoszo,PL0735A,"Kraków, os. Swoszowice",,2019-01-01,,background,urban,dust collector,małopolskie,Kraków,Lusińska,49.991442,19.936792,powiat Kraków,KRAKOW
+453,MpKrakTelime,PL0669A,"Kraków, ul. Telimeny",MpKrakTelime,2017-01-01,2018-06-01,background,urban,dust collector,małopolskie,Kraków,ul. Telimeny 9,50.019036,20.016822,powiat Kraków,KRAKOW
+454,MpKrakWadow,PL0670A,"Kraków, os. Wadów",,2017-01-01,,industrial,urban,container,małopolskie,Kraków,Wadów,50.100569,20.122561,powiat Kraków,KRAKOW
+455,MpKrakZloRog,PL0643A,"Kraków, ul. Złoty Róg",,2016-01-01,,background,urban,dust collector,małopolskie,Kraków,Złoty Róg,50.081197,19.895358,powiat Kraków,KRAKOW
+456,MpKrynicDiet,PL0743A,"Krynica, ul. Bulwary Dietla",MpKrynicDiet,2019-01-01,2021-01-01,background,urban,mobile,małopolskie,Krynica-Zdrój,Bulwary Dietla,49.416978,20.956147,powiat nowosądecki,KRYNICA-ZDROJ
+457,MpKrynicWIOSNowo1008,PL0479A,Krynica Nowotarskiego,MpKrynicWIOSNowo1008,2009-01-01,2009-12-31,background,urban,mobile,małopolskie,Krynica-Zdrój,ul. Nowotarskiego,49.417778000000006,20.9575,powiat nowosądecki,KRYNICA-ZDROJ
+458,MpKrynicWIOSPark1009,PL0515A,"Krynica, ul. Park Sportowy",MpKrynicWIOSPark1009,2010-01-01,2010-12-31,background,urban,mobile,małopolskie,Krynica-Zdrój,ul. Park Sportowy,49.427533,20.9512,powiat nowosądecki,KRYNICA-ZDROJ
+461,MpLimanoBoleMOB,PL0614A,"Limanowa, ul. Matki Bożej Bolesnej",MpLimanoWIOSMBBo0706,2015-01-01,2015-12-31,background,urban,mobile,małopolskie,Limanowa,Zygmunta Augusta,49.698525,20.424119,powiat limanowski,LIMANOWA
+462,MpMaPodhWIOSKosc1508,PL0117A,Maków Podhalański,MpMaPodhWIOSKosc1508,2004-12-15,2010-12-31,background,urban,container,małopolskie,Maków Podhalański,ul. Kościuszki 5,49.730278000000006,19.681389000000003,powiat suski,MAKOW PODHALANSKI
+463,MpMiechoWIOSKono0802,PL0628A,"Miechów, ul. Konopnickiej",MpMiechoWIOSKono0802,2014-01-01,2014-12-31,background,urban,mobile,małopolskie,Miechów,ul. Konopnickiej,50.360036,20.038672,powiat miechowski,MIECHOW
+464,MpMiechoWIOSKsSk0801,,Miechów Księdza Skorupki,MpMiechoWIOSKsSk0801,2002-01-01,2003-12-31,background,urban,in-house,małopolskie,Miechów,ul. Księdza Skorupki 5,50.354722,20.024722,powiat miechowski,MIECHOW
+465,MpMszanaDoln,PL0784A,Mszana Dolna ul. Orkana,,2021-01-01,2021-12-10,background,urban,mobile,małopolskie,Mszana Dolna,Orkana,49.672225,20.083092,powiat limanowski,MSZANA DOLNA
+466,MpMuszynKity,PL0685A,"Muszyna, ul. A. Kity 17",MpMuszynKity,2017-01-01,2018-01-17,background,urban,container,małopolskie,Muszyna,ul. A. Kity,49.354447,20.894361,powiat nowosądecki,MUSZYNA
+467,MpMuszynKityMOB,PL0644A,"Muszyna, ul. Kity",MpMuszynKityMOB,2016-01-01,2016-12-31,background,urban,mobile,małopolskie,Muszyna,ul. Kity,49.354464,20.894375,powiat nowosądecki,MUSZYNA
+468,MpMuszynWSSERyne1001,PL0393A,Muszyna Rynek 14 Szkoła Podst.,MpMuszynWSSERyne1001,2001-01-01,2009-12-31,background,urban,in-house,małopolskie,Muszyna,ul. Rynek 14,49.353611,20.891944,powiat nowosądecki,MUSZYNA
+469,MpMuszynZloc,PL0693A,Muszyna Złockie,MpMuszynZloc,2018-01-01,2018-12-31,background,nonurban,mobile,małopolskie,Złockie,Złockie 79,49.374147,20.879581,powiat nowosądecki,ZLOCKIE
+471,MpMyslenWIOSKosc0902,,Myślenice Kościuszki,MpMyslenWIOSKosc0902,2002-01-01,2003-12-31,background,urban,in-house,małopolskie,Myślenice,ul. Kościuszki 16,49.826667,19.936389,powiat myślenicki,MYSLENICE
+472,MpMyslenWIOSRyne0905,,Mobilna Myślenice Rynek,MpMyslenWIOSRyne0905,2004-08-09,2004-10-30,background,urban,mobile,małopolskie,Myślenice,ul. Rynek,49.835,19.938056,powiat myślenicki,MYSLENICE
+473,MpMyslenWIOSRyne0906,PL0118A,Myślenice Rynek,MpMyslenWIOSRyne0906,2004-12-16,2008-12-31,background,urban,container,małopolskie,Myślenice,ul. Rynek,49.835,19.938056,powiat myślenicki,MYSLENICE
+474,MpMysleRynekMOB,PL0615A,"Myślenice, Rynek",MpMyslenWIOSRyne0907,2015-01-01,2015-12-31,background,urban,mobile,małopolskie,Myślenice,Rynek,49.834922,19.938114,powiat myślenicki,MYSLENICE
+475,MpNiepo3Maja,PL0125A,"Niepołomice, ul. 3 Maja",,2003-01-01,,background,urban,dust collector,małopolskie,Niepołomice,ul. 3 Maja,50.035117,20.212689,powiat wielicki,NIEPOLOMICE
+477,MpNoSaczNadb,PL0550A,"Nowy Sącz, ul. Nadbrzeżna",,2010-09-01,,background,urban,container,małopolskie,Nowy Sącz,ul. Nadbrzeżna,49.619281,20.714403,powiat Nowy Sącz,NOWY SACZ
+478,MpNoSaczWSSENawo17a,,Nowy Sącz Nawojowska 17a,MpNoSaczWSSENawo17a,2004-01-01,2004-12-31,background,urban,in-house,małopolskie,Nowy Sącz,ul. Nawojowska 17a,49.613889,20.704444,powiat Nowy Sącz,NOWY SACZ
+479,MpNoTargPSlo,PL0671A,"Nowy Targ, Plac Słowackiego",,2016-03-21,2021-12-06,background,urban,container,małopolskie,Nowy Targ,Plac Słowackiego,49.483597,20.028992,powiat nowotarski,NOWY TARG
+480,MpNoTargWSSESzaf1102,PL0304A,Nowy Targ Szaflarska,MpNoTargWSSESzaf1102,2001-01-01,2009-12-31,background,urban,NO DATA,małopolskie,Nowy Targ,ul. Szaflarska,49.474444,20.025833,powiat nowotarski,NOWY TARG
+481,MpNowyTaWIOSPows1114,PL0629A,"Nowy Targ, ul. Powstańców",MpNowyTaWIOSPows1114,2014-01-01,2014-12-31,background,urban,mobile,małopolskie,Nowy Targ,ul. Powstańców,49.476097,20.026881,powiat nowotarski,NOWY TARG
+482,MpNSaczWIOSPija6204,PL0119A,"Nowy Sącz, Pijarska",MpNSaczWIOSPija6204,2003-08-20,2010-09-30,background,urban,container,małopolskie,Nowy Sącz,ul. Pijarska,49.627222,20.688333,powiat Nowy Sącz,NOWY SACZ
+483,MpNSaczWSSETarn6202,PL0305A,Nowy Sącz Tarnowska 28,MpNSaczWSSETarn6202,2004-01-01,2009-12-31,background,urban,in-house,małopolskie,Nowy Sącz,ul. Tarnowska 28,49.635278,20.693056,powiat Nowy Sącz,NOWY SACZ
+484,MpOlkuCegiel,PL0754A,"Olkusz, ul. Cegielniana",,2019-01-01,,background,urban,dust collector,małopolskie,Olkusz,Cegielniana,50.284,19.564044,powiat olkuski,OLKUSZ
+485,MpOlkuFrNull,PL0306A,"Olkusz, ul. Francesco Nullo",MpOlkuszWIOSNull1205,2003-04-01,2018-04-16,background,urban,container,małopolskie,Olkusz,ul. Francesco Nullo,50.277569,19.569869,powiat olkuski,OLKUSZ
+486,MpOswiecBema,PL0694A,"Oświęcim, ul. J. Bema",,2018-01-01,,background,urban,container,małopolskie,Oświęcim,J. Bema,50.033083000000005,19.245275,powiat oświęcimski,OSWIECIM
+487,MpOswiecWIOSSnia1302,PL0630A,"Oświęcim, ul. Śniadeckiego",MpOswiecWIOSSnia1302,2014-01-01,2014-12-31,background,urban,mobile,małopolskie,Oświęcim,ul. Śniadeckiego,50.035447,19.239331,powiat oświęcimski,OSWIECIM
+488,MpOswiecWIOSSnia1304,,Oświęcim mobilna,MpOswiecWIOSSnia1304,2005-01-01,2008-12-31,background,urban,mobile,małopolskie,Oświęcim,ul. Śniadeckiego,50.034167,19.245278,powiat oświęcimski,OSWIECIM
+489,MpOswiecWSSEWiez1301,PL0307A,Oświęcim Więźniów Oświęcimia,MpOswiecWSSEWiez1301,2001-01-01,2009-12-31,background,urban,in-house,małopolskie,Oświęcim,ul. Więźniów Oświęcimia 1,50.034167,19.200556,powiat oświęcimski,OSWIECIM
+490,MpPiwnicWSSERyne1004,,Piwniczna Rynek 2,MpPiwnicWSSERyne1004,2004-03-08,2005-12-31,background,urban,in-house,małopolskie,Piwniczna,ul. Rynek 2,49.4375,20.708611,powiat nowosądecki,PIWNICZNA
+491,MpPiwnZdrojoMOB,PL0645A,"Piwniczna-Zdrój, ul. Zdrojowa",MpPiwnZdrojoMOB,2016-01-01,2016-12-31,background,urban,mobile,małopolskie,Piwniczna,ul. Zdrojowa,49.444056,20.719889,powiat nowosądecki,PIWNICZNA
+492,MpProszoWIOS3Maj1402,,Proszowice UmiG,MpProszoWIOS3Maj1402,2002-01-01,2003-12-31,background,urban,in-house,małopolskie,Proszowice,ul. 3 maja 72,50.188056,20.29,powiat proszowicki,PROSZOWICE
+493,MpProszWIOSKrol1404,PL0120A,"Proszowice, ul. Królewska",MpProszWIOSKrol1404,2004-12-16,2014-12-31,background,urban,dust collector,małopolskie,Proszowice,ul. Królewska 72,50.192181,20.299711,powiat proszowicki,PROSZOWICE
+494,MpRabkaOrkan,PL0672A,"Rabka-Zdrój, ul. Orkana",,2017-01-01,,background,urban,dust collector,małopolskie,Rabka-Zdrój,Orkana,49.608647,19.966008,powiat nowotarski,RABKA-ZDROJ
+495,MpRabkaWIOSChop1113,PL0631A,"Rabka-Zdrój, ul. Chopina",MpRabkaWIOSChop1113,2014-01-01,2014-12-31,background,urban,mobile,małopolskie,Rabka-Zdrój,ul. Chopina,49.608753,19.965894,powiat nowotarski,RABKA-ZDROJ
+496,MpRabkaWIOSRudn1112,PL0480A,Rabka ul. Rudnika,MpRabkaWIOSRudn1112,2009-01-01,2009-12-31,background,urban,mobile,małopolskie,Rabka-Zdrój,ul. prof. Rudnika,49.603611,19.9675,powiat nowotarski,RABKA-ZDROJ
+498,MpSkawOsOgro,PL0273A,"Skawina, os. Ogrody",,2003-01-01,,background,urban,container,małopolskie,Skawina,os. Ogrody,49.971047,19.830422,powiat krakowski,SKAWINA
+499,MpSkawStudzi,PL0757A,"Skawina, ul. Studzińskiego",,2020-01-01,2021-12-16,industrial,urban,container,małopolskie,Skawina,Studzińskiego,49.983361,19.839572,powiat krakowski,SKAWINA
+500,MpSlomWolnosMOB,PL0616A,"Słomniki, ul. Wolności",MpSlomniWIOSWoln0611,2015-01-01,2015-12-31,background,urban,mobile,małopolskie,Słomniki,ul. Wolności,50.243442,20.082194,powiat krakowski,SLOMNIKI
+501,MpSuchaBWIOSHand1512,PL0551A,"Sucha Beskidzka, ul. Handlowa",MpSuchaBWIOSHand1512,2011-09-16,2014-12-31,background,urban,container,małopolskie,Sucha Beskidzka,ul. Handlowa,49.740644,19.588325,powiat suski,SUCHA BESKIDZKA
+502,MpSuchaNiesz,PL0646A,"Sucha Beskidzka, ul. Nieszczyńskiej",,2017-06-10,,background,urban,container,małopolskie,Sucha Beskidzka,ul. Nieszczyńskiej,49.743131,19.600339,powiat suski,SUCHA BESKIDZKA
+504,MpSuchaWIOSMick1502,,Sucha Beskidzka Mickiewicza LOK,MpSuchaWIOSMick1502,2003-01-01,2003-12-31,background,urban,in-house,małopolskie,Sucha Beskidzka,ul. Miskiewicza 9,49.738333,19.592778,powiat suski,SUCHA BESKIDZKA
+505,MpSuchSemika,PL0617A,"Sucha Beskidzka, ul. Semika",MpSuchaBWIOSSemi1513,2015-01-01,2015-12-31,background,urban,container,małopolskie,Sucha Beskidzka,ul. Semika,49.740711,19.592275,powiat suski,SUCHA BESKIDZKA
+506,MpSzarowSpok,PL0618A,"Szarów, ul. Spokojna",,2015-05-04,,background,suburban,container,małopolskie,Szarów,ul. Spokojna,50.0075,20.259167,powiat wielicki,SZAROW
+508,MpSzarowWIOS1908,PL0487A,Szarów,MpSzarowWIOS1908,2009-01-01,2015-12-31,background,suburban,in-house,małopolskie,Szarów,,50.007014,20.258475,powiat wielicki,SZAROW
+509,MpSzczawJanaMOB,PL0619A,"Szczawnica, ul. Jana Wiktora",MpSzczawWIOSSzal1116,2015-01-01,2015-12-31,background,urban,mobile,małopolskie,Szczawnica,ul. Jana Wiktora,49.425886,20.484947,powiat nowotarski,SZCZAWNICA
+510,MpSzymbaGorl,PL0121A,Szymbark,,2004-11-01,,background,nonurban,container,małopolskie,Szymbark,Szymbark 430,49.633714000000005,21.116833,powiat gorlicki,SZYMBARK
+511,MpTarBitStud,PL0502A,"Tarnów, ul. Bitwy pod Studziankami",,2010-01-01,,background,urban,container,małopolskie,Tarnów,ul. Bitwy pod Studziankami,50.020169,21.004167,powiat Tarnów,TARNOW
+512,MpTarnowWIOSSoli6303,PL0122A,Tarnów Al. Solidarności,MpTarnowWIOSSoli6303,2001-01-01,2009-12-31,background,urban,container,małopolskie,Tarnów,al. Solidarności,50.016111,20.983611,powiat Tarnów,TARNOW
+513,MpTarnowWSSEMosc6301,,Tarnów ul.Mościckiego 10,MpTarnowWSSEMosc6301,2001-01-01,2005-12-31,background,urban,container,małopolskie,Tarnów,ul. Mościckiego 10,50.006667,20.975278,powiat Tarnów,TARNOW
+514,MpTarnowWSSEWest6302,,Tarnów Westerplatte,MpTarnowWSSEWest6302,2003-01-01,2008-12-31,background,urban,container,małopolskie,Tarnów,ul. Westerplatte 10,50.023333,21.005,powiat Tarnów,TARNOW
+515,MpTarRoSitko,PL0647A,"Tarnów, ul. Ks. Romana Sitko",,2016-01-01,,communication,urban,container,małopolskie,Tarnów,ul. Ks. Romana Sitko,50.018253,20.992578,powiat Tarnów,TARNOW
+516,MpTrzebiWIOSPils0303,PL0123A,Trzebinia,MpTrzebiWIOSPils0303,2004-01-23,2010-08-31,industrial,urban,container,małopolskie,Trzebinia,ul. Piłsudskiego,50.160833,19.472778,powiat chrzanowski,TRZEBINIA
+517,MpTrzebOsZWM,PL0552A,"Trzebinia, os. Związku Walki Młodych",,2010-01-01,,background,urban,container,małopolskie,Trzebinia,os. Widokowe (dawne os. ZWM),50.159406,19.477464,powiat chrzanowski,TRZEBINIA
+518,MpTuchChopin,PL0481A,"Tuchów, ul. Chopina",,2009-01-01,,background,urban,dust collector,małopolskie,Tuchów,ul. Chopina,49.894169,21.051061,powiat tarnowski,TUCHOW
+519,MpWadowiWIOSPSka1805,PL0124A,"Wadowice, os. Pod Skarpą",MpWadowiWIOSPSka1805,2004-12-16,2014-12-31,background,urban,dust collector,małopolskie,Wadowice,os. Pod Skarpą,49.872761,19.497942,powiat wadowicki,WADOWICE
+520,MpWadowiWIOSPska1807,,wadowice mobilna,MpWadowiWIOSPska1807,2005-01-01,2008-12-31,background,urban,mobile,małopolskie,Wadowice,os. Pod Skarpą,49.871944,19.498333,powiat wadowicki,WADOWICE
+521,MpWadowiWIOSTeat1802,,Wadowice Teatralna,MpWadowiWIOSTeat1802,2002-01-01,2003-12-31,background,urban,in-house,małopolskie,Wadowice,ul. Teatralna 1,49.884722,19.489722,powiat wadowicki,WADOWICE
+522,MpWielDembowMOB,PL0648A,"Wieliczka, ul. Dembowskiego",MpWielDembowMOB,2016-01-01,2016-12-31,background,urban,mobile,małopolskie,Wieliczka,ul. Dembowskiego,49.98825,20.059,powiat wielicki,WIELICZKA
+523,MpWielicWIOSOSP1902,,Wieliczka OSP,MpWielicWIOSOSP1902,2002-01-01,2003-12-31,background,urban,in-house,małopolskie,Wieliczka,ul. OSP Plac Targowy,49.975833,20.057778,powiat wielicki,WIELICZKA
+525,MpWysowaWSSE0502,,Uście Gorlickie Wysowa,MpWysowaWSSE0502,2000-01-01,2004-12-31,background,nonurban,in-house,małopolskie,Uście Gorlickie Wysowa,ul. Wysowa,49.424722,21.176389,powiat gorlicki,USCIE GORLICKIE WYSOWA
+526,MpZabieWapie,PL0728A,"Zabierzów, ul. Wapienna",,2019-01-01,,background,urban,dust collector,małopolskie,Zabierzów,Wapienna,50.116028,19.800639,powiat krakowski,ZABIERZOW
+527,MpZakopaSien,PL0126A,"Zakopane, ul. Sienkiewicza",,2003-04-01,,background,urban,container,małopolskie,Zakopane,ul. Sienkiewicza,49.293564,19.960083,powiat tatrzański,ZAKOPANE
+528,MzBelsIGFPAN,PL0014A,"Belsk Duży, IGF PAN",,1991-07-01,,background,nonurban,container,mazowieckie,Belsk Duży,Osiedle PAN 1,51.835242,20.791912,powiat grójecki,BELSK DUZY
+529,MzBialaKmiciMOB,PL0712A,"Biała, ul. Kmicica",,2019-01-01,,industrial,suburban,mobile,mazowieckie,Biała,ul. Andrzeja Kmicica 33,52.602534,19.6451,powiat płocki,BIALA
+530,MzCiechSienkWSSE,,Ciechanów-Sienkiewicza,MzCiechSienkWSSE,1979-07-01,2006-12-31,background,urban,in-house,mazowieckie,Ciechanów,ul. Sienkiewicza,52.88265,20.594756,powiat ciechanowski,CIECHANOW
+531,MzCiechStrazacka,PL0127A,Ciechanów-Strażacka,MzCiechStrazacka,1992-07-01,2014-12-31,background,urban,in-house,mazowieckie,Ciechanów,ul. Strażacka 6,52.878436,20.613288,powiat ciechanowski,CIECHANOW
+532,MzGostMajaWSSE,,Gostynin-Maja,MzGostMajaWSSE,1998-04-09,2007-12-31,background,urban,in-house,mazowieckie,Gostynin,ul. 3 Maja 17,52.425533,19.460439,powiat gostyniński,GOSTYNIN
+533,MzGranicaKPN,PL0128A,"Granica, KPN",,2003-08-01,,background,nonurban,container,mazowieckie,Granica,Kampinoski Park Narodowy,52.285858000000005,20.454653,powiat warszawski zachodni,GRANICA
+534,MzGrodziskWSSE,,Grodzisk Maz-Kościuszki,MzGrodziskWSSE,2005-01-01,2007-12-31,background,urban,in-house,mazowieckie,Grodzisk Mazowiecki,ul. Kościuszki 32a,52.109081,20.625174,powiat grodziski,GRODZISK MAZOWIECKI
+535,MzGutyDuCzer,PL0649A,Guty Duże,,2016-01-01,,background,nonurban,container,mazowieckie,Guty Duże,Guty Duże 4,52.943172,21.288167,powiat makowski,GUTY DUZE
+536,MzKonJezMos,PL0673A,Konstancin-Jeziorna-Wierzejewskiego,MzKonJezMos,2017-01-01,,background,suburban,mobile,mazowieckie,Konstancin-Jeziorna,Wierzejewskiego 12,52.080625,21.111186,powiat piaseczyński,KONSTANCIN-JEZIORNA
+537,MzKonJezWieMOB,PL0673A,"Konstancin-Jeziorna, ul. Wierzejewskiego",,2017-01-01,,background,suburban,mobile,mazowieckie,Konstancin-Jeziorna,ul. Wierzejewskiego 12,52.080625,21.111186,powiat piaseczyński,KONSTANCIN-JEZIORNA
+538,MzKonJezZrodWSSE,,Konstancin Jeziorna - Źródlana,MzKonJezZrodWSSE,1989-06-15,2006-12-31,background,urban,in-house,mazowieckie,Konstancin-Jeziorna,ul. Źródlana 6/8,52.084541,21.113746,powiat piaseczyński,KONSTANCIN-JEZIORNA
+539,MzKozienSwierWSSE,,Kozienice-Świerczewskiego,MzKozienSwierWSSE,1984-01-01,2003-12-31,background,urban,in-house,mazowieckie,Kozienice,ul. Świerczewskiego 27,51.58563,21.545647,powiat kozienicki,KOZIENICE
+540,MzLegionBronWSSE,,Legionowo-Broniewskiego,MzLegionBronWSSE,1991-11-06,2009-12-31,background,urban,in-house,mazowieckie,Legionowo,ul. Broniewskiego 6,52.399686,20.927147,powiat legionowski,LEGIONOWO
+541,MzLegZegrzyn,PL0129A,"Legionowo, ul. Zegrzyńska",,2003-08-01,,background,suburban,container,mazowieckie,Legionowo,ul. Zegrzyńska 38,52.407578,20.955928,powiat legionowski,LEGIONOWO
+542,MzMakMMickWSSE,,Maków-Mazowiecki-Mickiewicza,MzMakMMickWSSE,1985-01-01,2006-12-31,background,urban,in-house,mazowieckie,Maków Mazowiecki,ul. Mickiewicza 31,52.864687,21.094026,powiat makowski,MAKOW MAZOWIECKI
+543,MzMinMazKaziMOB,PL0753A,Mińsk Mazowiecki-Kazikowskiego,MzMinMazKaziMOB,2019-01-01,2020-12-31,background,urban,mobile,mazowieckie,Mińsk Mazowiecki,Zygmunta Kazikowskiego 18,52.178766,21.560968,powiat miński,MINSK MAZOWIECKI
+544,MzMinskKilinWSSE,PL0394A,Mińsk-Kilińskiego,MzMinskKilinWSSE,2004-01-01,2009-12-31,background,urban,in-house,mazowieckie,Mińsk Mazowiecki,ul. Kilińskiego 10,52.179811,21.56651,powiat miński,MINSK MAZOWIECKI
+545,MzMinskKoscWSSE,,Mińsk-Kościuszki,MzMinskKoscWSSE,1992-01-01,2003-12-31,background,urban,in-house,mazowieckie,Mińsk Mazowiecki,ul. Kościuszki 9,52.18047,21.558658,powiat miński,MINSK MAZOWIECKI
+546,MzMlawaMajaWSSE,,Mława-Maja,MzMlawaMajaWSSE,1980-01-01,2006-12-31,background,urban,in-house,mazowieckie,Mława,ul. 1 Maja 6,53.112359,20.381051,powiat mławski,MLAWA
+547,MzMlawOrdona,PL0516A,Mława-Ordona,MzMlawaOrdona,2006-01-01,2018-01-01,background,urban,dust collector,mazowieckie,Mława,ul. Ordona 14,53.11190799999999,20.371725,powiat mławski,MLAWA
+548,MzNowDwChemWSSE,PL0130A,Nowy Dwór-Chemików,MzNowDwChemWSSE,2004-01-01,2009-12-31,background,urban,in-house,mazowieckie,Nowy Dwór Mazowiecki,ul. Chemików,52.429424,20.724131,powiat nowodworski,NOWY DWOR MAZOWIECKI
+549,MzOstMazSikorWSSE,PL0395A,Ostrów Mazowiecka-Sikorskiego,MzOstMazSikorWSSE,1980-01-01,2009-12-31,background,urban,in-house,mazowieckie,Ostrów Mazowiecka,ul. Generała Sikorskiego 3,52.803259,21.890476,powiat ostrowski,OSTROW MAZOWIECKA
+550,MzOstroHalle,PL0620A,"Ostrołęka, ul. Hallera",,2015-01-01,,background,urban,dust collector,mazowieckie,Ostrołęka,ul. gen. J. Hallera 12,53.083736,21.579322,powiat Ostrołęka,OSTROLEKA
+551,MzOstrolKoscWSSE,,Ostrołęka-Kościuszki,MzOstrolKoscWSSE,1982-01-01,2006-12-31,background,urban,in-house,mazowieckie,Ostrołęka,ul. Kościuszki 19,53.08531899999999,21.568983,powiat Ostrołęka,OSTROLEKA
+552,MzOstrolTargowa,PL0131A,Ostrołęka-Targowa,MzOstrolTargowa,1994-01-03,2014-12-31,background,urban,dust collector,mazowieckie,Ostrołęka,ul. Targowa 4,53.084023,21.589205,powiat Ostrołęka,OSTROLEKA
+553,MzOtwoBrzozo,PL0539A,"Otwock, ul. Brzozowa",,2010-05-11,,background,suburban,container,mazowieckie,Otwock,ul. Brzozowa 2,52.115725,21.237297,powiat otwocki,OTWOCK
+554,MzOtwockBrzozWSSE,PL0132A,Otwock-BrzozowaWSSE,MzOtwockBrzozWSSE,1980-01-02,2009-12-31,background,urban,in-house,mazowieckie,Otwock,ul. Brzozowa 2,52.115444,21.237658,powiat otwocki,OTWOCK
+555,MzPiaseczDworWSSE,PL0133A,Piaseczno-Dworska,MzPiaseczDworWSSE,1981-10-01,2009-12-31,background,urban,in-house,mazowieckie,Piaseczno,ul. Dworska,52.051445,21.005582,powiat piaseczyński,PIASECZNO
+556,MzPiasPulask,PL0134A,"Piastów, ul. Pułaskiego",,2003-08-01,,background,suburban,container,mazowieckie,Piastów,ul. Pułaskiego 6/8,52.191728000000005,20.837489,powiat pruszkowski,PIASTOW
+557,MzPiastWarszWSSE,,Piastów-Warszawska,MzPiastWarszWSSE,1994-01-04,2003-12-31,industrial,urban,in-house,mazowieckie,Piastów,ul. Warszawska 24,52.186581,20.843524,powiat pruszkowski,PIASTOW
+558,MzPionkiSienWSSE,,Pionki-Sienkiewicza,MzPionkiSienWSSE,1995-01-09,2003-12-31,background,urban,in-house,mazowieckie,Pionki,ul. Sienkiewicza 11,51.478028,21.451383,powiat radomski,PIONKI
+559,MzPlockJasnaWSSE,,Płock-Jasna,MzPlockJasnaWSSE,1986-04-14,2006-12-31,background,urban,in-house,mazowieckie,Płock,ul. Jasna 8,52.554005,19.667701,powiat Płock,PLOCK
+560,MzPlockKolegWSSE,PL0135A,Płock-Kolegialna,MzPlockKolegWSSE,2004-02-27,2009-12-31,background,urban,in-house,mazowieckie,Płock,ul. Kolegialna 20,52.542222,19.695556,powiat Płock,PLOCK
+561,MzPlockKolodWSSE,,Płock-Piasta Kołodzieja,MzPlockKolodWSSE,1990-01-02,2003-12-31,background,urban,in-house,mazowieckie,Płock,ul. Piasta Kołodzieja 4,52.550865,19.69058,powiat Płock,PLOCK
+562,MzPlockLaczWSSE,,Płock-Łączniczek,MzPlockLaczWSSE,1991-01-10,2003-12-31,background,urban,in-house,mazowieckie,Płock,ul. Łączniczek 14,52.539936,19.751334,powiat Płock,PLOCK
+563,MzPlockOpsis,,Płock-Opsis,MzPlockOpsis,1995-02-27,2006-12-31,communication,urban,in-house,mazowieckie,Płock,ul. Jachowicza 44,52.549779,19.691923000000003,powiat Płock,PLOCK
+564,MzPlockPiaskaWSSE,,Płock-Piaska,MzPlockPiaskaWSSE,1987-01-05,2006-12-31,background,urban,in-house,mazowieckie,Płock,ul. Piaska 5,52.544338,19.724452,powiat Płock,PLOCK
+565,MzPlockPKN1,PL0396A,Płock-Trzepowo,MzPlockPKN1,1996-12-01,2009-12-31,industrial,urban,container,mazowieckie,Trzepowo,ul. Trzepowo 56,52.5888,19.724289,powiat płocki,TRZEPOWO
+566,MzPlockPKN2,PL0397A,Płock-Maszewo,MzPlockPKN2,1994-10-01,2009-12-31,background,nonurban,container,mazowieckie,Maszewo Duże,ul. Maszewo Duże 154,52.584167,19.6114,powiat płocki,MASZEWO DUZE
+567,MzPlockPKN3,,Płock-Chełpowo,MzPlockPKN3,1993-01-01,2005-12-31,industrial,urban,container,mazowieckie,Chełpowo,ul. Długa,52.5675,19.6875,powiat Płock,CHELPOWO
+568,MzPlocKroJad,PL0398A,"Płock, ul. Królowej Jadwigi",,1993-01-01,,industrial,urban,container,mazowieckie,Płock,ul. Królowej Jadwigi 4,52.556279,19.687672,powiat Płock,PLOCK
+569,MzPlocMiReja,PL0136A,"Płock, ul. Reja",,2003-08-01,,background,urban,container,mazowieckie,Płock,ul. Mikołaja Reja 28,52.550938,19.709791,powiat Płock,PLOCK
+570,MzPlonskSienWSSE,,Płońsk-Sienkiewicza,MzPlonskSienWSSE,1987-01-01,2003-12-31,background,urban,in-house,mazowieckie,Płońsk,ul. Sienkiewicza 7a,52.629778,20.37556,powiat płoński,PLONSK
+571,MzPruszKraszeWSSE,PL0399A,Pruszków-Kraszewskiego,MzPruszKraszeWSSE,2004-01-01,2009-12-31,background,urban,in-house,mazowieckie,Pruszków,ul. Kraszewskiego 14,52.162262,20.812831,powiat pruszkowski,PRUSZKOW
+572,MzPruszMajWSSE,,Pruszków-Majowa,MzPruszMajWSSE,1980-10-01,2003-12-31,background,urban,in-house,mazowieckie,Pruszków,ul. Majowa 14,52.17154,20.810253,powiat pruszkowski,PRUSZKOW
+573,MzPultusKoscWSSE,,Pułtusk-Kościuszki,MzPultusKoscWSSE,1987-01-01,2003-12-31,background,urban,in-house,mazowieckie,Pułtusk,ul. Kościuszki 16,52.70964300000001,21.083912,powiat pułtuski,PULTUSK
+574,MzPultusMajaWSSE,,Pułtusk-Maja,MzPultusMajaWSSE,2004-01-01,2006-12-31,background,urban,in-house,mazowieckie,Pułtusk,ul. 3 Maja 20,52.707685,21.084498,powiat pułtuski,PULTUSK
+575,MzRad25Czerw,PL0137A,"Radom, ul. 25 Czerwca",,2010-07-01,,background,urban,dust collector,mazowieckie,Radom,ul. 25 Czerwca 1976 70,51.40608,21.166819,powiat Radom,RADOM
+576,MzRadHallera,PL0493A,"Radom, ul. Hallera",,2010-06-23,,background,urban,dust collector,mazowieckie,Radom,ul. Hallera,51.415324,21.171285,powiat Radom,RADOM
+577,MzRadomAlekWSSE,,Radom-Józefów,MzRadomAlekWSSE,1987-11-06,2006-12-31,background,urban,in-house,mazowieckie,Radom,ul. Aleksandrowicza 5,51.437739,21.161865,powiat Radom,RADOM
+578,MzRadomCzWSSE,,Radom-CzerwcaWSSE,MzRadomCzWSSE,2004-01-01,2009-12-31,background,urban,container,mazowieckie,Radom,ul. 25 Czerwca,51.400128,21.162633,powiat Radom,RADOM
+579,MzRadomLubonWSSE,,Radom-Lubońskiego,MzRadomLubonWSSE,1992-01-22,2003-12-31,background,urban,in-house,mazowieckie,Radom,ul. Lubońskiego 2,51.390409000000005,21.170235,powiat Radom,RADOM
+580,MzRadomPulask,,Radom-Pułaskiego,MzRadomPulask,1996-04-22,2006-12-31,background,urban,in-house,mazowieckie,Radom,ul. Pułaskiego 9,51.42521,21.158278,powiat Radom,RADOM
+581,MzRadTochter,PL0138A,"Radom, ul. Tochtermana",,2003-08-01,,background,urban,container,mazowieckie,Radom,ul. Tochtermana 1,51.399084,21.147474,powiat Radom,RADOM
+582,MzSiedChrobWSSE,,Siedlce-Chrobrego,MzSiedChrobWSSE,1994-01-01,2003-12-31,background,urban,in-house,mazowieckie,Siedlce,ul. Chrobrego 19,52.18308,22.27501,powiat Siedlce,SIEDLCE
+583,MzSiedKonars,PL0538A,"Siedlce, ul. Konarskiego",,2012-01-01,,background,urban,container,mazowieckie,Siedlce,ul. Konarskiego 11,52.172145,22.282001,powiat Siedlce,SIEDLCE
+584,MzSiedPodlasWSSE,,Siedlce-Podlaska,MzSiedPodlasWSSE,1990-01-01,2004-12-31,background,urban,in-house,mazowieckie,Siedlce,ul. Podlaska 8,52.160795,22.255203,powiat Siedlce,SIEDLCE
+585,MzSiedPoniatWSSE,,Siedlce-Poniatowskiego,MzSiedPoniatWSSE,2008-01-01,2009-12-31,background,urban,in-house,mazowieckie,Siedlce,ul. Poniatowskiego 31,52.176298,22.288741,powiat Siedlce,SIEDLCE
+586,MzSiedSienkWSSE,,Siedlce-Sienkiewicza,MzSiedSienkWSSE,1994-01-03,2004-12-31,background,urban,in-house,mazowieckie,Siedlce,ul. Sienkiewicza 32,52.165962,22.278046,powiat Siedlce,SIEDLCE
+587,MzSiedStarowWSSE,,Siedlce-Starowiejska,MzSiedStarowWSSE,1998-01-01,2003-12-31,background,urban,in-house,mazowieckie,Siedlce,ul. Starowiejska 66,52.166475,22.292956,powiat Siedlce,SIEDLCE
+588,MzSiedWoszczWSSE,,Siedlce-Woszczerowicza,MzSiedWoszczWSSE,2005-01-01,2007-12-31,background,urban,in-house,mazowieckie,Siedlce,ul. Woszczerowicza 9,52.164444,22.279722,powiat Siedlce,SIEDLCE
+589,MzSierpcPiastWSSE,,Sierpc-Piastowska,MzSierpcPiastWSSE,1987-02-03,2006-12-31,background,urban,in-house,mazowieckie,Sierpc,ul. Piastowska 24,52.853175,19.666716,powiat sierpecki,SIERPC
+590,MzSierWiosnyMOB,PL0785A,"Sierpc, ul. Wiosny Ludów",,2021-01-09,,background,urban,mobile,mazowieckie,Sierpc,ul. Wiosny Ludów 7,52.851783,19.662061,powiat sierpecki,SIERPC
+591,MzSochPlocWSSE,PL0400A,Sochaczew-Płocka,MzSochPlocWSSE,2004-01-01,2009-12-31,background,urban,in-house,mazowieckie,Sochaczew,ul. Płocka,52.231793,20.219171,powiat sochaczewski,SOCHACZEW
+592,MzSochSierpWSSE,,Sochaczew-Sierpnia,MzSochSierpWSSE,2004-01-01,2005-12-31,background,urban,in-house,mazowieckie,Sochaczew,ul. 15 Sierpnia 4,52.221772,20.234649,powiat sochaczewski,SOCHACZEW
+593,MzSokPodSierpWSSE,,Sokołów Podlaski-Sierpnia,MzSokPodSierpWSSE,1994-01-01,2003-12-31,background,urban,in-house,mazowieckie,Sokołów Podlaski,ul. 1 Sierpnia 1d,52.405721,22.234814,powiat sokołowski,SOKOLOW PODLASKI
+594,MzTluszczJKiel,PL0139A,Tłuszcz-Kielaka,MzTluszczJKiel,2003-08-01,2010-12-31,background,suburban,container,mazowieckie,Tłuszcz,ul. Jana Kielaka 1,52.425833,21.429167,powiat wołomiński,TLUSZCZ
+595,MzWarAKrzywo,PL0214A,"Warszawa, ul. Krzywoń",,2011-01-01,,background,urban,dust collector,mazowieckie,Warszawa,ul. Anieli Krzywoń,52.228649,20.917513,powiat Warszawa,WARSZAWA
+596,MzWarAKrzywWSSE,,Warszawa-Anieli KrzywońWSSE,MzWarAKrzywWSSE,2004-01-01,2009-12-31,background,urban,container,mazowieckie,Warszawa,ul. Anieli Krzywoń,52.228649,20.917513,powiat Warszawa,WARSZAWA
+597,MzWarAlNiepo,PL0140A,"Warszawa, al. Niepodległości",,2003-08-01,,communication,urban,container,mazowieckie,Warszawa,al. Niepodległości 227/233,52.219298,21.004724,powiat Warszawa,WARSZAWA
+598,MzWarBajkowa,PL0717A,"Warszawa, ul. Bajkowa",,2019-01-01,,background,urban,container,mazowieckie,Warszawa,ul. Bajkowa 17/21,52.188474,21.176233,powiat Warszawa,WARSZAWA
+599,MzWarChrosci,PL0739A,"Warszawa, ul. Chrościckiego",,2019-01-01,,background,urban,container,mazowieckie,Warszawa,ul. Chrościckiego 16/18,52.207742,20.906073000000003,powiat Warszawa,WARSZAWA
+600,MzWarKondrat,PL0143A,"Warszawa, ul. Kondratowicza",,2003-08-01,,background,urban,container,mazowieckie,Warszawa,ul. Kondratowicza 8,52.290864,21.042458,powiat Warszawa,WARSZAWA
+601,MzWarMarszal,PL0592A,Warszawa-Marszałkowska,MzWarszMarsz,2013-01-01,2017-12-31,communication,urban,container,mazowieckie,Warszawa,ul. Marszałkowska 68,52.225157,21.014803,powiat Warszawa,WARSZAWA
+602,MzWarMeteo,PL0787A,"Warszawa, IMiGW",,2021-01-01,,background,urban,container,mazowieckie,Warszawa,ul. Podleśna 61,52.281472,20.963361,powiat Warszawa,WARSZAWA
+603,MzWarPodlesn,PL0044A,Warszawa-Podleśna,MzWarPodIMGW,2003-09-30,2020-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Podleśna 61,52.280939,20.962156,powiat Warszawa,WARSZAWA
+604,MzWarPorajow,PL0034A,Warszawa-Porajów,MzWarszPorajow,1991-01-01,2016-01-04,industrial,urban,container,mazowieckie,Warszawa,ul. Porajów 3,52.314516,20.958614,powiat Warszawa,WARSZAWA
+605,MzWarPuszSol,PL0033A,Warszawa-Puszczy Solskiej,MzWarszPuszSolska,1998-08-22,2016-01-04,industrial,urban,container,mazowieckie,Warszawa,ul. Puszczy Solskiej 5,52.226408,20.908633,powiat Warszawa,WARSZAWA
+606,MzWarszAlJerozol,,Warszawa-Aleje Jerozolimskie,MzWarszAlJerozol,1993-01-01,2004-12-31,background,urban,in-house,mazowieckie,Warszawa,al. Jerozolimskie 30,52.231631,21.0189,powiat Warszawa,WARSZAWA
+607,MzWarszArmLudWSSE,,Warszawa-Armii Ludowej,MzWarszArmLudWSSE,1989-10-01,2003-12-31,communication,urban,in-house,mazowieckie,Warszawa,ul. Armii Ludowej 16,52.217723,21.011722,powiat Warszawa,WARSZAWA
+608,MzWarszBednarWSSE,,Warszawa-Bednarska,MzWarszBednarWSSE,1976-09-01,2006-12-31,communication,urban,in-house,mazowieckie,Warszawa,ul. Bednarska 2/4,52.245977,21.020429,powiat Warszawa,WARSZAWA
+609,MzWarszBernWoda,PL0215A,Warszawa-Bernardyńska,MzWarszBernWoda,1996-04-26,2013-12-31,industrial,urban,container,mazowieckie,Warszawa,ul. Przy Bernardyńskiej Wodzie 7,52.191733,21.051053,powiat Warszawa,WARSZAWA
+610,MzWarszBialobWSSE,,Warszawa-Białobrzeska,MzWarszBialobWSSE,1994-01-01,2006-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Białobrzeska 26,52.213226,20.973755,powiat Warszawa,WARSZAWA
+611,MzWarszBorKomWSSE,PL0309A,Warszawa-Bora Komorowskiego,MzWarszBorKomWSSE,1995-03-14,2008-12-31,background,urban,container,mazowieckie,Warszawa,ul. Bora Komorowskiego 31,52.225194,21.087355,powiat Warszawa,WARSZAWA
+612,MzWarszHertzaWSSE,,Warszawa-Hertza,MzWarszHertzaWSSE,1980-01-02,2003-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Hertza 8,52.224538,21.152749,powiat Warszawa,WARSZAWA
+613,MzWarszKochanWSSE,,Warszawa-Kochanowskiego,MzWarszKochanWSSE,1980-01-02,2003-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Kochanowskiego 21,52.267161,20.94953,powiat Warszawa,WARSZAWA
+614,MzWarszKrucza,PL0010A,Warszawa-Krucza,MzWarszKrucza,1990-01-01,2013-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Krucza 5/11,52.224583,21.019039000000003,powiat Warszawa,WARSZAWA
+615,MzWarszLazurowa,,Warszawa - Lazurowa,MzWarszLazurowa,1991-11-01,2008-12-31,industrial,urban,container,mazowieckie,Warszawa,ul. Lazurowa,52.220278,20.8975,powiat Warszawa,WARSZAWA
+616,MzWarszOskLanWSSE,,Warszawa-Oskara Lange,MzWarszOskLanWSSE,1996-01-01,2003-12-31,background,urban,container,mazowieckie,Warszawa,ul. Oskara Lange,52.181540000000005,21.008873,powiat Warszawa,WARSZAWA
+617,MzWarszSGGW,PL0274A,Warszawa-Nowoursynowska,MzWarszSGGW,2001-02-01,2012-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Nowoursynowska 166,52.160556,21.047778,powiat Warszawa,WARSZAWA
+618,MzWarszSuwalWSSE,,Warszawa-Suwalska,MzWarszSuwalWSSE,1995-04-03,2003-12-31,background,urban,container,mazowieckie,Warszawa,ul. Suwalska 14,52.295469,21.029065,powiat Warszawa,WARSZAWA
+619,MzWarszZelazWSSE,PL0142A,Warszawa-Żelazna,MzWarszZelazWSSE,1976-09-01,2009-12-31,background,urban,in-house,mazowieckie,Warszawa,ul. Żelazna 79,52.237499,20.98793,powiat Warszawa,WARSZAWA
+620,MzWarTolstoj,PL0308A,"Warszawa, ul. Tołstoja",,2000-05-15,,background,urban,container,mazowieckie,Warszawa,ul. Tołstoja 2,52.285073,20.933018,powiat Warszawa,WARSZAWA
+621,MzWarWokalna,PL0141A,"Warszawa, ul. Wokalna",,2003-08-01,,background,urban,container,mazowieckie,Warszawa,ul. Wokalna 1,52.160772,21.033819,powiat Warszawa,WARSZAWA
+622,MzWarZeganWSSE,PL0216A,Warszawa-Żegańska,MzWarZeganWSSE,2004-01-01,2009-12-31,background,urban,container,mazowieckie,Warszawa,ul. Żegańska,52.205769,21.169522,powiat Warszawa,WARSZAWA
+623,MzWolOgrodowa,PL0404A,Wołomin-Ogrodowa,MzWolOgrodowa,2010-09-20,2013-04-23,background,urban,in-house,mazowieckie,Wołomin,ul. Ogrodowa 4,52.344675,21.239511,powiat wołomiński,WOLOMIN
+624,MzWolomLegionWSSE,,Wołomin-Legionów,MzWolomLegionWSSE,2000-01-03,2006-12-31,background,urban,in-house,mazowieckie,Wołomin,ul. Legionów 78,52.338759,21.241824,powiat wołomiński,WOLOMIN
+625,MzWyszDaszynWSSE,,Wyszków-Daszyńskiego,MzWyszDaszynWSSE,1982-01-01,2006-12-31,background,urban,in-house,mazowieckie,Wyszków,ul. Daszyńskiego 28,52.593993000000005,21.458079,powiat wyszkowski,WYSZKOW
+626,MzZwolenWSSE,,Zwoleń-Kościuszki,MzZwolenWSSE,2004-01-01,2006-12-31,background,urban,in-house,mazowieckie,Zwoleń,ul. Kościuszki 11,51.35581,21.578566,powiat zwoleński,ZWOLEN
+627,MzZyrardMoniuszWSSE,,Żyrardów-Moniuszki,MzZyrardMoniuszWSSE,1988-05-30,2006-12-31,background,urban,in-house,mazowieckie,Żyrardów,ul. Moniuszki 40,52.057147,20.450546,powiat żyrardowski,ZYRARDOW
+628,MzZyraRoosev,PL0144A,"Żyrardów, ul. Roosevelta",,2003-08-01,,background,urban,container,mazowieckie,Żyrardów,ul. Roosevelta 2,52.053811,20.429892,powiat żyrardowski,ZYRARDOW
+629,OpBrzeg101,PL0405A,Brzeg manualna 101,OpBrzeg101,1978-12-13,2009-12-31,background,urban,in-house,opolskie,Brzeg,ul. Armii Krajowej 22,50.8575,17.463611,powiat brzeski,BRZEG
+630,OpBrzegPoprz,PL0788A,"Brzeg, ul. Poprzeczna",,2021-01-11,,background,urban,mobile,opolskie,Brzeg,Poprzeczna 1,50.849509000000005,17.462579,powiat brzeski,BRZEG
+631,OpGlubKochan,PL0217A,Głubczyce manualna 1,OpGlub1pyl,2005-01-01,2016-01-01,background,urban,dust collector,opolskie,Głubczyce,ul. Kochanowskiego 23,50.200942,17.816453,powiat głubczycki,GLUBCZYCE
+632,OpGlubRatusz,PL0650A,"Głubczyce, ul. Ratuszowa",,2016-01-01,,background,urban,dust collector,opolskie,Głubczyce,ul. Ratuszowa 9,50.200778,17.83051,powiat głubczycki,GLUBCZYCE
+633,OpGora12728,,Góra Św. Anny lokalna 12728,OpGora12728,1991-12-31,2006-06-30,NO DATA,nonurban,container,opolskie,Góra Św. Anny,ul. Leśnicka,50.451667,18.163333,powiat strzelecki,GORA SW. ANNY
+634,OpJanusz12394,,Januszkowice lokalna 12394,OpJanusz12394,1990-11-27,2006-06-30,NO DATA,nonurban,container,opolskie,Januszkowice,ul. Piękna,50.395833,18.138333,powiat krapkowicki,JANUSZKOWICE
+635,OpKKozBSmial,PL0218A,"Kędzierzyn-Koźle, ul. Śmiałego",,2005-01-01,,background,urban,container,opolskie,Kędzierzyn-Koźle,ul. Bolesława Śmiałego 5,50.349608,18.236575,powiat kędzierzyńsko-kozielski,KEDZIERZYN-KOZLE
+636,OpKkozle243,,K-Koźle manualna 243,OpKkozle243,2001-10-10,2004-12-31,background,urban,in-house,opolskie,Kędzierzyn-Koźle,ul. Chrobrego 28,50.338333,18.134167,powiat kędzierzyńsko-kozielski,KEDZIERZYN-KOZLE
+637,OpKkozle61,,K-Koźle manualna 61,OpKkozle61,1980-01-10,2005-12-31,background,urban,in-house,opolskie,Kędzierzyn-Koźle,ul. Anny 14,50.334444,18.147222,powiat kędzierzyńsko-kozielski,KEDZIERZYN-KOZLE
+638,OpKkozleSP10,,K-Koźle BASKI-SP10,OpKkozleSP10,2004-01-01,2004-12-31,industrial,urban,container,opolskie,Kędzierzyn-Koźle,ul. Książąt Opolskich,50.369444,18.327778,powiat kędzierzyńsko-kozielski,KEDZIERZYN-KOZLE
+639,OpKkozleSP3,,K-Koźle BASKI-SP3,OpKkozleSP3,2004-01-01,2004-12-31,industrial,urban,container,opolskie,Kędzierzyn-Koźle,ul. Przodowników Pracy,50.323611,18.251389,powiat kędzierzyńsko-kozielski,KEDZIERZYN-KOZLE
+640,OpKkozleSP7,,K-Koźle BASKI-SP7,OpKkozleSP7,2004-01-01,2004-12-31,background,urban,container,opolskie,Kędzierzyn-Koźle,ul. Gagarina,50.344444,18.227778,powiat kędzierzyńsko-kozielski,KEDZIERZYN-KOZLE
+641,OpKlucz227,PL0145A,Kluczbork manualna 227,OpKlucz227,2004-01-01,2009-12-31,background,urban,in-house,opolskie,Kluczbork,ul. Rynek_ratusz,50.973056,18.214167,powiat kluczborski,KLUCZBORK
+642,OpKlucz235,PL0406A,Kluczbork manualna 235,OpKlucz235,2002-07-15,2009-12-31,background,urban,in-house,opolskie,Kluczbork,ul. Jagiellońska 3,50.974444,18.217508,powiat kluczborski,KLUCZBORK
+643,OpKluczMicki,PL0517A,"Kluczbork, ul. Mickiewicza",,2010-08-06,,background,urban,dust collector,opolskie,Kluczbork,ul. Mickiewicza 10,50.972181,18.207575,powiat kluczborski,KLUCZBORK
+644,OpNamys2pyl,PL0219A,Namysłów manualna 2,OpNamys2pyl,2005-01-01,2010-08-05,background,urban,NO DATA,opolskie,Namysłów,ul. Mariańska 2,51.072222,17.718889,powiat namysłowski,NAMYSLOW
+645,OpNysa237,,Nysa manualna 237,OpNysa237,2001-01-01,2009-12-31,background,urban,in-house,opolskie,Nysa,ul. Tkacka 2,50.473611,17.333556,powiat nyski,NYSA
+646,OpNysaRodzie,PL0593A,"Nysa, ul. Rodziewiczówny",,2013-10-28,,background,urban,dust collector,opolskie,Nysa,ul. Rodziewiczówny 1,50.458989,17.331906,powiat nyski,NYSA
+647,OpOlesno3pyl,PL0220A,Olesno manualna 3,OpOlesno3pyl,2005-01-01,2011-04-01,background,urban,NO DATA,opolskie,Olesno,ul. Solny Rynek 1,50.876389,18.418611,powiat oleski,OLESNO
+648,OpOlesSlowac,PL0553A,"Olesno, ul. Słowackiego",,2011-11-01,,background,urban,container,opolskie,Olesno,ul. Słowackiego,50.876983,18.416878,powiat oleski,OLESNO
+649,OpOpole244,,Opole manualna 244,OpOpole244,2002-01-12,2003-12-31,background,urban,in-house,opolskie,Opole,ul. Sosnkowskiego 40-42,50.682222,17.946111,powiat Opole,OPOLE
+650,OpOpole246,PL0146A,Opole manualna 246,OpOpole246,2004-01-01,2009-12-31,background,urban,NO DATA,opolskie,Opole,ul. Oleska 64,50.675278000000006,17.937222,powiat Opole,OPOLE
+651,OpOpole45,,Opole manualna 45,OpOpole45,2003-02-10,2006-12-31,background,urban,in-house,opolskie,Opole,ul. Mickiewicza 1,50.666111,17.937778,powiat Opole,OPOLE
+652,OpOpole45p,,Opole manualna 45p,OpOpole45p,2002-01-01,2004-12-31,background,urban,in-house,opolskie,Opole,ul. Mickiewicza 1,50.666111,17.937778,powiat Opole,OPOLE
+653,OpOpoleKoszy,PL0674A,"Opole, ul. Koszyka",,2017-01-01,,background,urban,container,opolskie,Opole,ul. Koszyka 21,50.666736,17.899137,powiat Opole,OPOLE
+654,OpOpoleMinor,PL0221A,Opole automat 3,OpOpole3a,2005-01-01,2016-12-31,background,urban,container,opolskie,Opole,ul. Minorytów,50.666961,17.922797,powiat Opole,OPOLE
+655,OpOpoleOsAKr,PL0494A,"Opole, os. Armii Krajowej",,2010-01-01,,background,urban,dust collector,opolskie,Opole,os. Armii Krajowej,50.676856,17.950278,powiat Opole,OPOLE
+656,OpPrud189,PL0407A,Prudnik manualna 189,OpPrud189,1991-03-15,2009-12-31,background,urban,in-house,opolskie,Prudnik,ul. Klasztorna 4,50.321111,17.5775,powiat prudnicki,PRUDNIK
+657,OpPrud189p,,Prudnik manualna 189p,OpPrud189p,2001-06-01,2007-12-31,background,urban,in-house,opolskie,Prudnik,ul. Klasztorna 4,50.321111,17.577778,powiat prudnicki,PRUDNIK
+658,OpPrudPodgor,PL0719A,Prudnik mobilna,OpPrudPodgor,2019-01-01,2020-12-31,background,urban,mobile,opolskie,Prudnik,ul. Podgórna 5,50.320858,17.591909,powiat prudnicki,PRUDNIK
+659,OpSkozleSP5,,K-Koźle BASKI-SP5,OpSkozleSP5,2004-01-01,2004-12-31,industrial,nonurban,container,opolskie,Stare Koźle,ul. Szkolna,50.306944,18.219444,powiat kędzierzyńsko-kozielski,STARE KOZLE
+660,OpStrzel239,,Strzelce manualna 239,OpStrzel239,2000-01-01,2004-12-31,background,urban,in-house,opolskie,Strzelce Opolskie,ul. Krakowska 19,50.509444,18.303611,powiat strzelecki,STRZELCE OPOLSKIE
+661,OpStrzel247,PL0408A,Strzelce manualna 247,OpStrzel247,2005-01-01,2009-12-31,background,urban,in-house,opolskie,Strzelce Opolskie,ul. Piłsudskiego 20,50.513889,18.303892,powiat strzelecki,STRZELCE OPOLSKIE
+662,OpStrzOpWysz,PL0767A,"Strzelce Opolskie, ul. Kard. Wyszyńskiego",,2020-01-22,2021-12-31,background,urban,mobile,opolskie,Strzelce Opolskie,ul. Kardynała Wyszyńskiego 12,50.509334,18.288206,powiat strzelecki,STRZELCE OPOLSKIE
+663,OpZdze12392,PL0409A,Zdzieszowice lokalna 12392,OpZdze12392,1990-11-27,2008-12-31,background,urban,container,opolskie,Zdzieszowice,ul. Sienkiewicza,50.435278,18.132514,powiat krapkowicki,ZDZIESZOWICE
+664,OpZdziePiast,PL0222A,"Zdzieszowice, ul. Piastów",,2005-01-01,,background,urban,container,opolskie,Zdzieszowice,ul. Piastów 6,50.423533,18.120739,powiat krapkowicki,ZDZIESZOWICE
+665,PdAugSzpitalna,,Augustów ul.Szpitalna 12,PdAugSzpitalna,1994-01-01,2002-12-31,background,urban,in-house,podlaskie,Augustów,ul. Szpitalna 12,53.851342,22.993628,powiat augustowski,AUGUSTOW
+666,PdAugustowUm,PL0768A,Augustów-Miejska,PdAugustowUm,2020-01-01,,background,urban,container,podlaskie,Augustów,Uzdrowisko,53.852639,22.984611,powiat augustowski,AUGUSTOW
+667,PdAugustowUz,PL0768A,"Augustów, Uzdrowisko",,2020-01-01,,background,urban,container,podlaskie,Augustów,Uzdrowisko,53.852639,22.984611,powiat augustowski,AUGUSTOW
+668,PdAugustoZdrMOB,PL0675A,Augustów - mobilne,PdAugustoZdrMOB,2017-01-01,2019-12-31,background,urban,mobile,podlaskie,Augustów,ul. Zdrojowa,53.859528000000005,23.00075,powiat augustowski,AUGUSTOW
+669,PdBialPulPie,PL0149A,Białystok-Podmiejska,PdBialyPodmiejska,2004-09-01,2017-12-21,background,suburban,container,podlaskie,Białystok,ul. 42 Pułku Piechoty,53.138614,23.229903,powiat Białystok,BIALYSTOK
+670,PdBialWarsza,PL0496A,"Białystok, ul. Warszawska",,2010-01-01,,background,urban,container,podlaskie,Białystok,ul. Warszawska 75 A,53.12930600000001,23.181744,powiat Białystok,BIALYSTOK
+671,PdBialWaszyn,PL0148A,"Białystok, ul. Waszyngtona",,2004-09-01,,background,urban,container,podlaskie,Białystok,ul. Waszyngtona 16,53.126689,23.155869,powiat Białystok,BIALYSTOK
+672,PdBialyBroniewsk,,Bialystok ul. Broniewskiego 1,PdBialyBroniewsk,1994-01-01,2002-12-31,background,urban,in-house,podlaskie,Białystok,ul. Broniewskiego 1,53.140469,23.134272,powiat Białystok,BIALYSTOK
+673,PdBialyLegionowa,,Białystok ul Legionowa 8,PdBialyLegionowa,1998-01-01,2003-12-31,background,urban,in-house,podlaskie,Białystok,ul. Legionowa 8,53.130933,23.159853,powiat Białystok,BIALYSTOK
+674,PdBialyLegionowa8,PL0147A,BIAŁYSTOK LEGIONOWA 8 POSESJA,PdBialyLegionowa8,2003-11-01,2009-12-31,background,urban,container,podlaskie,Białystok,ul. Legionowa 8,53.131111,23.158889,powiat Białystok,BIALYSTOK
+675,PdBialyPorzeczkowa,,Białystok ul Porzeczkowa 11,PdBialyPorzeczkowa,1994-01-01,2002-12-31,background,urban,in-house,podlaskie,Białystok,ul. Porzeczkowa 11,53.151186,23.119169,powiat Białystok,BIALYSTOK
+676,PdBialyWarszaw,,Białystok ul. Warszawska 57 A,PdBialyWarszaw,1983-01-01,2002-12-31,background,urban,in-house,podlaskie,Białystok,ul. Warszawska 57 A,53.131078,23.174142,powiat Białystok,BIALYSTOK
+677,PdBiePodKosciuszki,,Bielsk Podlaski ul Kościuszki 16,PdBiePodKosciuszki,1994-01-01,2002-12-31,background,urban,in-house,podlaskie,Bielsk Podlaski,ul. Kościuszki 16,52.769472,23.187025,powiat bielski,BIELSK PODLASKI
+678,PdBorsukowiz,PL0150A,"Borsukowizna, Szkółka Leśna",,2004-09-01,,background,nonurban,container,podlaskie,Borsukowizna,,53.215492000000005,23.642153,powiat sokólski,BORSUKOWIZNA
+679,PdGrajewKonsty3M,,Grajewo ul Konstytucji 3 Maja 3,PdGrajewKonsty3M,1995-01-02,2002-12-31,background,urban,in-house,podlaskie,Grajewo,ul. Konstytucji 3 Maja 3,53.64399399999999,22.461244,powiat grajewski,GRAJEWO
+680,PdGrajewoWPoMOB,PL0721A,"Grajewo, ul. Wojska Polskiego",,2019-12-30,,background,urban,mobile,podlaskie,Grajewo,ul. Wojska Polskiego 74,53.639793,22.470274,powiat grajewski,GRAJEWO
+681,PdGrajNowickiego,,Grajewo - lab. mobilne,PdGrajNowickiego,2005-01-01,2005-12-31,background,urban,mobile,podlaskie,Grajewo,ul. T. Nowickiego,53.64850799999999,22.4509,powiat grajewski,GRAJEWO
+682,PdHajnowkJagMOB,PL0651A,Hajnówka-mobilne,PdHajnowkJagMOB,2015-01-01,2016-12-31,background,urban,mobile,podlaskie,Hajnówka,ul. Władysława Jagiełły,52.739528,23.586139000000003,powiat hajnowski,HAJNOWKA
+683,PdLomSikorsk,PL0151A,"Łomża, ul. Sikorskiego",,2002-01-01,,background,urban,container,podlaskie,Łomża,ul. Sikorskiego 48/94,53.181394,22.054381,powiat Łomża,LOMZA
+684,PdLomzaKopernika16,,Lomza Kopernika16,PdLomzaKopernika16,1996-07-01,2004-04-30,background,urban,in-house,podlaskie,Łomża,ul. Kopernika,53.174836,22.075947,powiat Łomża,LOMZA
+685,PdLomzaSadowa,,Łomża ul Sadowa 3,PdLomzaSadowa,1994-01-02,2002-12-31,background,urban,in-house,podlaskie,Łomża,ul. Sadowa 3,53.177778,22.0825,powiat Łomża,LOMZA
+686,PdSiemPilsudskiego,,Siemiatycze - lab. mobilne,PdSiemPilsudskiego,2008-01-18,2008-12-31,background,urban,mobile,podlaskie,Siemiatycze,ul. Piłsudskiego,52.423019,22.863833,powiat siemiatycki,SIEMIATYCZE
+687,PdSokol1Maja,,Sokółka ul 1- go Maja 13,PdSokol1Maja,1991-01-03,2002-12-31,background,urban,in-house,podlaskie,Sokółka,ul. 1 Maja 13,53.404722,23.499444,powiat sokólski,SOKOLKA
+688,PdSuw1Maja,,Suwałki ul. 1 - go Maja 12,PdSuw1Maja,1994-01-01,2002-12-31,background,urban,in-house,podlaskie,Suwałki,ul. 1 Maja,54.099675,22.935967,powiat Suwałki,SUWALKI
+689,PdSuwPulask2,PL0706A,"Suwałki, ul. Pułaskiego 26",,2018-08-01,,background,urban,container,podlaskie,Suwałki,ul. Pułaskiego 26,54.11605600000001,22.93875,powiat Suwałki,SUWALKI
+690,PdSuwPulaski,PL0152A,"Suwałki, ul. Pułaskiego 73",PdSuwPulaski,1992-03-18,2017-12-31,background,urban,container,podlaskie,Suwałki,ul. Pułaskiego,54.117878000000005,22.934608,powiat Suwałki,SUWALKI
+691,PdSuwPulaskp,PL0706A,"Suwałki, ul. Pułaskiego 26",PdSuwPulaskp,2018-08-01,,background,urban,container,podlaskie,Suwałki,ul. Pułaskiego 26,54.11605600000001,22.93875,powiat Suwałki,SUWALKI
+692,PdZambObronZamb,,Zambrów ul Obrońców Zambrowa 50,PdZambObronZamb,1997-01-02,2002-12-31,background,urban,in-house,podlaskie,Zambrów,ul. Obrońców Zambrowa 50,52.985556,22.253333,powiat zambrowski,ZAMBROW
+693,PkCzarnaWSSENafGaz,PL0153A,Czarna-OśrNaftaGaz-WSSE,PkCzarnaWSSENafGaz,1994-01-01,2006-12-31,background,nonurban,in-house,podkarpackie,Czarna,ul. Ośrodek Wyp-Szkol Nafta-Gaz,49.308889,22.663903,powiat bieszczadzki,CZARNA
+694,PkDebicaWSSEParkow,PL0154A,Dębica-Parkowa-WSSE,PkDebicaWSSEParkow,1999-01-01,2009-12-31,background,urban,in-house,podkarpackie,Dębica,ul. Parkowa 2,50.046667,21.402222,powiat dębicki,DEBICA
+695,PkDebiGrottg,PL0621A,"Dębica, ul.Grottgera",,2015-01-01,,background,urban,distributed,podkarpackie,Dębica,Grottgera 3,50.054786,21.416256,powiat dębicki,DEBICA
+696,PkGorzycWSSEKEN,,Gorzyce-KEN-WSSE,PkGorzycWSSEKEN,1991-01-07,2002-12-31,industrial,urban,in-house,podkarpackie,Gorzyce,ul. Komisji Edukacji Narodowej,50.657792,21.84528,powiat tarnobrzeski,GORZYCE
+697,PkHorZdrParkMOB,PL0716A,Horyniec-Zdrój-Park,PkHorZdrParkMOB,2019-01-01,2019-12-30,background,suburban,mobile,podkarpackie,Horyniec-Zdrój,aleja Przyjaźni,50.1921,23.361425,powiat lubaczowski,HORYNIEC-ZDROJ
+698,PkHorZdrWSSESobies,PL0155A,Horyniec-Zdrój-Sobieskiego-WSSE,PkHorZdrWSSESobies,1979-01-01,2009-12-31,background,nonurban,in-house,podkarpackie,Horyniec-Zdrój,ul. Sobieskiego 60,50.189167,23.362222,powiat lubaczowski,HORYNIEC-ZDROJ
+699,PkIwonZdrRab,PL0676A,"Iwonicz Zdrój, ul. Rąba",,2017-01-01,,background,suburban,dust collector,podkarpackie,Iwonicz-Zdrój,Księdza Rąba,49.565183000000005,21.791308,powiat krośnieński,IWONICZ-ZDROJ
+700,PkIwZdrWSSEToros,,IwoniczZdr-Torosiewicza-WSSE,PkIwZdrWSSEToros,1986-01-01,2006-12-31,background,urban,in-house,podkarpackie,Iwonicz-Zdrój,ul. Torosiewicza 2,49.561388,21.78888,powiat krośnieński,IWONICZ-ZDROJ
+701,PkJarosPruch,PL0554A,"Jarosław, ul. Pruchnicka",,2012-01-01,,background,urban,container,podkarpackie,Jarosław,Pruchnicka,50.012083,22.674772,powiat jarosławski,JAROSLAW
+702,PkJarosWIOSJanPawII,PL0410A,Jarosław-JanaPawłaII-WIOS,PkJarosWIOSJanPawII,2007-09-01,2010-12-31,background,urban,distributed,podkarpackie,Jarosław,ul. Jana Pawła II,50.015833,22.672778,powiat jarosławski,JAROSLAW
+703,PkJarosWSSE3Maja,PL0411A,Jarosław - 3 Maja -WSSE,PkJarosWSSE3Maja,2008-01-01,2009-12-31,background,urban,in-house,podkarpackie,Jarosław,ul. 3 Maja,50.013333,22.693056,powiat jarosławski,JAROSLAW
+704,PkJarosWSSEGrunw,PL0156A,Jarosław-Grunwaldzka-WSSE,PkJarosWSSEGrunw,2002-01-01,2009-12-31,background,urban,in-house,podkarpackie,Jarosław,ul. Grunwaldzka 7,50.016389,22.680278,powiat jarosławski,JAROSLAW
+705,PkJasloSikor,PL0518A,"Jaslo, ul. Sikorskiego",,2009-08-01,,background,urban,container,podkarpackie,Jasło,Sikorskiego,49.744886,21.454617,powiat jasielski,JASLO
+706,PkJasloWIOSFabr,PL0412A,Jasło-Fabryczna-WIOS,PkJasloWIOSFabr,2007-09-11,2009-07-31,background,urban,mobile,podkarpackie,Jasło,ul. Fabryczna,49.754444,21.541117,powiat jasielski,JASLO
+707,PkJasloWIOSFlor,PL0157A,Jasło-Floriańska-WIOS,PkJasloWIOSFlor,2003-03-01,2011-12-31,background,urban,in-house,podkarpackie,Jasło,ul. Floriańska 108,49.739167,21.482778,powiat jasielski,JASLO
+708,PkJasloWIOSFlor2,PL0275A,Jasło-Floriańska-WIOS2,PkJasloWIOSFlor2,2006-08-04,2010-12-31,background,urban,container,podkarpackie,Jasło,ul. Floriańska 108,49.739444,21.482222,powiat jasielski,JASLO
+709,PkJasloWIOSMickiew,,Jasło-Mickiewicza-WIOS,PkJasloWIOSMickiew,1993-01-01,2003-12-31,background,urban,in-house,podkarpackie,Jasło,ul. Mickiewicza,49.748056,21.463889,powiat jasielski,JASLO
+710,PkJasloWSSE3Maja,,Jasło-3Maja-WSSE,PkJasloWSSE3Maja,1984-01-01,2003-12-31,background,urban,in-house,podkarpackie,Jasło,ul. 3 Maja 68,49.739444,21.483056,powiat jasielski,JASLO
+711,PkJasloWSSEFloria,,Jasło-Floriańska-WSSE,PkJasloWSSEFloria,1988-01-01,2003-12-31,background,urban,in-house,podkarpackie,Jasło,ul. Floriańska 108,49.7475,21.471667,powiat jasielski,JASLO
+712,PkJasloWSSEKoralew,,Jasło-Koralewskiego-WSSE,PkJasloWSSEKoralew,1997-01-01,2005-08-31,background,urban,in-house,podkarpackie,Jasło,ul. Koralewskiego 13,49.747222,21.471389,powiat jasielski,JASLO
+713,PkJasloWSSESrocz,,Jasło-Sroczyńskiego-WSSE,PkJasloWSSESrocz,1998-01-01,2006-12-31,background,urban,in-house,podkarpackie,Jasło,ul. Sroczyńskiego,49.751944,21.482778,powiat jasielski,JASLO
+714,PkKolbWSSETyszk,,Kobuszowa-Tyszkiew-WSSE,PkKolbWSSETyszk,2000-04-18,2002-12-31,background,urban,in-house,podkarpackie,Kolbuszowa,ul. Tyszkiewiczów 5,50.248056,21.778889000000003,powiat kolbuszowski,KOLBUSZOWA
+715,PkKomanWSSEOsZdr,,Komańcza-OśrodekZdr-WSSE,PkKomanWSSEOsZdr,1993-01-01,2006-12-31,background,nonurban,in-house,podkarpackie,Komańcza,ul. Ośrodek Zdrowia,49.336111,22.068889,powiat sanocki,KOMANCZA
+716,PkKrempnaMPN,PL0622A,"Krempna, Ośrodek edukacyjno-muzealny MPN",,2014-10-06,,background,nonurban,container,podkarpackie,Krempna,,49.511297,21.498606,powiat jasielski,KREMPNA
+717,PkKrempWIOSGrab,,Grab-WIOŚ,PkKrempWIOSGrab,1996-01-01,2004-04-30,background,nonurban,in-house,podkarpackie,Grab,ul. Grab,49.433611,21.445,powiat jasielski,GRAB
+718,PkKrosKletow,PL0413A,"Krosno, ul. Kletówki",,2008-01-01,,background,urban,distributed,podkarpackie,Krosno,Kletówki,49.690169,21.7497,powiat Krosno,KROSNO
+719,PkKrosnoWSSEKisiel,,Krosno-Kisielewskiego-WSSE,PkKrosnoWSSEKisiel,1992-01-01,2004-12-31,background,urban,in-house,podkarpackie,Krosno,ul. Kisielewskiego 12,49.683889,21.755278,powiat Krosno,KROSNO
+720,PkKrosnoWSSEKisielewskiego,PL0257A,Krosno-Kisielewskiego,PkKrosnoWSSEKisielewskiego,2006-01-01,2009-12-31,background,urban,in-house,podkarpackie,Krosno,ul. Kisielewskiego 12,49.683611,21.755556,powiat Krosno,KROSNO
+721,PkKrosnoWSSELewak,PL0159A,Krosno-Lewakowskiego-WSSE,PkKrosnoWSSELewak,1984-01-01,2006-12-31,background,urban,in-house,podkarpackie,Krosno,ul. Lewakowskiego 14,49.693889,21.755278,powiat Krosno,KROSNO
+722,PkKrosnoWSSEStasz,,Krosno-Staszica-WSSE,PkKrosnoWSSEStasz,1984-01-01,2003-12-31,background,urban,in-house,podkarpackie,Krosno,ul. Staszica,49.691667,21.767222,powiat Krosno,KROSNO
+723,PkLatosZdrojMOB,PL0749A,Latoszyn-Zdrój-mobilna,,2020-12-31,2021-12-14,background,nonurban,mobile,podkarpackie,Latoszyn,,50.019053,21.369344,powiat dębicki,LATOSZYN
+724,PkLeskoWSSERynek,PL0160A,Lesko-Rynek-WSSE,PkLeskoWSSERynek,2004-01-01,2009-12-31,background,urban,in-house,podkarpackie,Lesko,ul. Rynek1,49.468889,22.331111,powiat leski,LESKO
+725,PkLubaczWSSEMickiew,,Lubaczów-Mickiewicza-WSSE,PkLubaczWSSEMickiew,1981-01-01,2003-12-31,background,urban,in-house,podkarpackie,Lubaczów,ul. Mickiewicza 45,50.160833,23.120833,powiat lubaczowski,LUBACZOW
+726,PkMielBierna,PL0677A,"Mielec, ul. Biernackiego",,2017-01-01,,background,urban,container,podkarpackie,Mielec,Biernackiego,50.299128,21.440942,powiat mielecki,MIELEC
+727,PkMielPogodn,PL0652A,"Mielec, ul. Pogodna",,2016-01-01,,industrial,urban,distributed,podkarpackie,Mielec,Pogodna 2,50.318036,21.486372,powiat mielecki,MIELEC
+728,PkMielSolski,PL0623A,Mielec-MOSIR-WIOS,PkMielecWIOSSolskiego,2014-10-06,2016-12-31,background,urban,container,podkarpackie,Mielec,ul. Solskiego,50.300761,21.434331,powiat mielecki,MIELEC
+729,PkMielWSSEGrunw,PL0223A,MIelec-Grunwaldzka-WSSE,PkMielWSSEGrunw,2004-01-01,2009-12-31,background,urban,in-house,podkarpackie,Mielec,ul. Grunwaldzka 7,50.296667,21.435833,powiat mielecki,MIELEC
+730,PkMielWSSESklodow,,MIelec-M.C.Skłodowskiej-WSSE,PkMielWSSESklodow,1992-01-01,2004-12-31,background,urban,in-house,podkarpackie,Mielec,ul. M. Curie Skłodowskiej 6,50.295278,21.441667,powiat mielecki,MIELEC
+731,PkMielZaStre,PL0258A,Mielec - Zarząd Strefy,PkMielWIOSZarzStr,2005-08-29,2015-12-31,background,urban,distributed,podkarpackie,Mielec,ul. Zarząd Strefy,50.304008,21.4712,powiat mielecki,MIELEC
+732,PkNiskoSzkla,PL0276A,"Nisko, ul. Szklarniowa",,1989-01-01,,background,urban,container,podkarpackie,Nisko,Szklarniowa,50.529892,22.112467,powiat niżański,NISKO
+733,PkPolanWSSEStPomp,PL0161A,Polańczyk-St.pomp-WSSE,PkPolanWSSEStPomp,1994-01-01,2006-12-31,background,nonurban,in-house,podkarpackie,Polańczyk,ul. stacja pomp wody pitnej,49.37,22.426389,powiat leski,POLANCZYK
+734,PkPolanZdrojMOB,PL0770A,Polanczyk-mobilna,PkPolanZdrojMOB,2020-01-01,2020-12-16,background,nonurban,mobile,podkarpackie,Polańczyk,Zdrojowa,49.374208,22.439453,powiat leski,POLANCZYK
+735,PkPrzemGrunw,PL0594A,"Przemyśl, ul. Grunwaldzka",,2013-01-01,,background,urban,container,podkarpackie,Przemyśl,Grunwaldzka,49.784339,22.756239,powiat Przemyśl,PRZEMYSL
+736,PkPrzemWIOSDolin,,Przemyśl-Dolińskiego-WIOŚ,PkPrzemWIOSDolin,1993-11-03,2002-04-30,background,urban,in-house,podkarpackie,Przemyśl,ul. Dolińskiego 4,49.786667,22.758056,powiat Przemyśl,PRZEMYSL
+737,PkPrzemWIOSPDom,PL0162A,Przemyśl-Pl.Dominikański-WIOS,PkPrzemWIOSPDom,2002-01-01,2011-12-31,background,urban,in-house,podkarpackie,Przemyśl,pl. Dominikański,49.782778,22.766667,powiat Przemyśl,PRZEMYSL
+738,PkPrzemWSSEGlaz,,Przemyśl-Glazera-WSSE,PkPrzemWSSEGlaz,1993-01-01,2003-12-31,background,urban,in-house,podkarpackie,Przemyśl,ul. Glazera 9,49.786667,22.759167,powiat Przemyśl,PRZEMYSL
+739,PkPrzemWSSEMariac,,Przemyśl-Mariacka-WSSE,PkPrzemWSSEMariac,1985-03-13,2005-06-30,background,urban,in-house,podkarpackie,Przemyśl,ul. Mariacka 4,49.778333,22.788611,powiat Przemyśl,PRZEMYSL
+740,PkPrzemyslWIOSMick,PL0414A,Przemyśl-Mickiewicza-WIOS,PkPrzemyslWIOSMick,2007-09-11,2012-12-31,background,urban,mobile,podkarpackie,Przemyśl,ul. Mickiewicza,49.782433000000005,22.782908,powiat Przemyśl,PRZEMYSL
+741,PkPrzewWSSERynek,,Przeworsk-Rynek-WSSE,PkPrzewWSSERynek,1981-01-01,2003-12-31,background,urban,in-house,podkarpackie,Przeworsk,ul. Rynek 1,50.056389,22.478056,powiat przeworski,PRZEWORSK
+742,PkRymZdrPark,PL0678A,"Rymanów Zdrój, ul. Parkowa",,2017-01-01,,background,suburban,container,podkarpackie,Rymanów-Zdrój,Parkowa 5,49.546539,21.851006,powiat krośnieński,RYMANOW-ZDROJ
+743,PkRymZdrWSSEZdr,PL0163A,Rymanów Zdrój - Zdrojowa - WSSE,PkRymZdrWSSEZdr,1986-01-01,2006-12-31,background,urban,in-house,podkarpackie,Rymanów-Zdrój,ul. Zdrojowa 53,49.546944,21.849444,powiat krośnieński,RYMANOW-ZDROJ
+744,PkRzeszPilsu,PL0736A,"Rzeszów, ul. Piłsudskiego",,2019-01-01,,communication,urban,container,podkarpackie,Rzeszów,Piłsudskiego,50.040675,22.004656,powiat Rzeszów,RZESZOW
+745,PkRzeszRejta,PL0495A,"Rzeszów, ul. Rejtana",,2010-02-01,,background,urban,container,podkarpackie,Rzeszów,Rejtana,50.024242,22.010575,powiat Rzeszów,RZESZOW
+746,PkRzeszWIOSLang,,Rzeszów-Langiewicza WIOS,PkRzeszWIOSLang,1993-01-01,2004-12-31,background,urban,passive,podkarpackie,Rzeszów,ul. Langiewicza 26,50.031111,21.985,powiat Rzeszów,RZESZOW
+747,PkRzeszWIOSSzop,PL0224A,Rzeszów-Szopena WIOS,PkRzeszWIOSSzop,2005-01-01,2012-12-31,background,urban,container,podkarpackie,Rzeszów,ul. Szopena,50.034031,22.010733,powiat Rzeszów,RZESZOW
+748,PkRzeszWSSEGrunw,,Rzeszów-Grunwaldzka-WSSE,PkRzeszWSSEGrunw,2001-01-01,2003-12-31,background,urban,in-house,podkarpackie,Rzeszów,ul. Grunwaldzka,50.040278,22.001944,powiat Rzeszów,RZESZOW
+749,PkRzeszWSSEPilsud,PL0225A,Rzeszów-Pilsudskiego-WSSE,PkRzeszWSSEPilsud,2004-01-01,2009-12-31,communication,urban,in-house,podkarpackie,Rzeszów,ul. Piłsudskiego,50.041389,22.001667,powiat Rzeszów,RZESZOW
+750,PkRzeszWSSEPoniat,PL0226A,Rzeszów-Poniatowskiego-WSSE,PkRzeszWSSEPoniat,1989-01-01,2009-12-31,background,urban,in-house,podkarpackie,Rzeszów,ul. Poniatowskiego 4,50.033889,21.996944,powiat Rzeszów,RZESZOW
+751,PkRzeszWSSESkubisz,PL0227A,Rzeszów-Skubisza-WSSE,PkRzeszWSSESkubisz,1989-01-01,2006-12-31,background,urban,in-house,podkarpackie,Rzeszów,ul. Skubisza 9,50.053889,21.981944,powiat Rzeszów,RZESZOW
+752,PkRzeszWSSEWierzb,PL0228A,Rzeszów-Wierzbowa-WSSE,PkRzeszWSSEWierzb,1989-01-01,2009-12-31,background,urban,in-house,podkarpackie,Rzeszów,ul. Wierzbowa 16,50.034167,22.014444,powiat Rzeszów,RZESZOW
+753,PkSanokWSSEJanPawl,PL0229A,Sanok-JanaPawła-WSSE,PkSanokWSSEJanPawl,1984-01-01,2009-12-31,background,urban,in-house,podkarpackie,Sanok,ul. Jana Pawła II 38,49.571111,22.197778,powiat sanocki,SANOK
+754,PkSanokWSSEJezier,PL0230A,Sanok-Jezierskiego-WSSE,PkSanokWSSEJezier,1984-01-01,2009-12-31,background,urban,in-house,podkarpackie,Sanok,ul. Jezierskiego 39,49.550278000000006,22.201111,powiat sanocki,SANOK
+755,PkSanokWSSEMickew,,Sanok-Mickiewicza-WSSE,PkSanokWSSEMickew,1984-01-01,2003-12-31,background,urban,in-house,podkarpackie,Sanok,ul. Mickiewicza,49.560278,22.201944,powiat sanocki,SANOK
+756,PkSanoSadowa,PL0555A,"Sanok, ul. Sadowa",,2012-01-01,,background,urban,distributed,podkarpackie,Sanok,Sadowa,49.571731,22.195892,powiat sanocki,SANOK
+757,PkStWolWoPol,PL0696A,"Stalowa Wola, ul. Wojska Polskiego",,2018-01-01,,background,urban,dust collector,podkarpackie,Stalowa Wola,Wojska Polskiego 9,50.577828,22.054336,powiat stalowowolski,STALOWA WOLA
+758,PkStWolWSSENiezl,PL0231A,StalowaWola-Niezłomnych-WSSE,PkStWolWSSENiezl,1989-01-01,2009-12-31,background,urban,in-house,podkarpackie,Stalowa Wola,ul. NIezłomnych 66,50.570833,22.048611,powiat stalowowolski,STALOWA WOLA
+759,PkTarnDabrow,PL0595A,"Tarnobrzeg, ul. Dąbrowskiej",,2012-04-01,,background,urban,distributed,podkarpackie,Tarnobrzeg,Marii Dąbrowskiej,50.575742,21.688367,powiat Tarnobrzeg,TARNOBRZEG
+760,PkTarnobWIOSSwBarb,PL0232A,Tarnobrzeg-Św Barbary-WIOŚ,PkTarnobWIOSSwBarb,2000-04-01,2011-12-31,background,urban,in-house,podkarpackie,Tarnobrzeg,ul. Św. Barbary 12,50.568889,21.683894,powiat Tarnobrzeg,TARNOBRZEG
+761,PkTarnobWSSE1Maja,PL0233A,Tarnobrzeg-1goMaja-WSSE,PkTarnobWSSE1Maja,1965-01-01,2009-12-31,background,urban,in-house,podkarpackie,Tarnobrzeg,ul. 1 Maja 5,50.569722,21.664444,powiat Tarnobrzeg,TARNOBRZEG
+762,PkTarnobWSSEWarszaw,,Tarnobrzeg-Warszawska-WSSE,PkTarnobWSSEWarszaw,1999-04-06,2003-12-31,background,urban,in-house,podkarpackie,Tarnobrzeg,ul. Warszawska 378,50.636111,21.753889,powiat Tarnobrzeg,TARNOBRZEG
+763,PkTarnobWSSEWiejs,,Tarnobrzeg-Wiejska-WSSE,PkTarnobWSSEWiejs,1999-06-04,2003-12-31,background,urban,in-house,podkarpackie,Tarnobrzeg,ul. Wiejska 4,50.586111,21.686111,powiat Tarnobrzeg,TARNOBRZEG
+764,PkUsDolWSSEKoper,PL0277A,Ustrzyki Dolne-Kopernika-WSSE,PkUsDolWSSEKoper,2007-01-01,2009-12-31,background,urban,in-house,podkarpackie,Ustrzyki Dolne,ul. Kopernika,49.430833,22.590556,powiat bieszczadzki,USTRZYKI DOLNE
+765,PkUstDolWSSEBelz,PL0259A,UstrzykiDln-Bełska-WSSE,PkUstDolWSSEBelz,1996-01-01,2006-12-31,background,urban,in-house,podkarpackie,Ustrzyki Dolne,ul. Bełska 7,49.430556,22.588611,powiat bieszczadzki,USTRZYKI DOLNE
+766,Pm.00.s218m,PL0416A,WSSE Gdynia Środmieście,Pm.00.s218m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Gdynia,ul. Żwirki i Wigury 14,54.515556,18.538889,powiat Gdynia,GDYNIA
+767,Pm.00.s231m,PL0417A,WSSE Sopot,Pm.00.s231m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Sopot,ul. Chrobrego 6/8,54.44,18.568333,powiat Sopot,SOPOT
+768,Pm.00.s234m,PL0418A,WSSE Gdynia Karwiny,Pm.00.s234m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Gdynia,ul. Staffa 10,54.473333,18.498333,powiat Gdynia,GDYNIA
+769,Pm.00.s237m,PL0278A,WIOŚ Gdynia - Piłsudskiego,Pm.00.s237m,2004-08-17,2011-12-31,communication,urban,in-house,pomorskie,Gdynia,ul. Piłsudskiego 52/54,54.508097,18.539853,powiat Gdynia,GDYNIA
+770,Pm.00.s428m,PL0419A,WSSE Gdańsk Wrzeszcz Dębinki,Pm.00.s428m,2003-04-24,2009-12-31,background,urban,in-house,pomorskie,Gdańsk,ul. Dębinki 4,54.365833,18.627778,powiat Gdańsk,GDANSK
+771,Pm.00.s473m,PL0420A,WSSE Gdańsk Nowy Port,Pm.00.s473m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Gdańsk,ul. Na Zaspę 31a,54.402222,18.664167000000003,powiat Gdańsk,GDANSK
+772,Pm.00.s476m,PL0421A,WSSE Gdańsk Wrzeszcz,Pm.00.s476m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Gdańsk,ul. Legionów 11,54.386111,18.612222,powiat Gdańsk,GDANSK
+773,Pm.00.s477m,PL0279A,WSSE Gdańsk Śródmieście,Pm.00.s477m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Gdańsk,ul. Rajska 6,54.355278000000006,18.650556,powiat Gdańsk,GDANSK
+774,Pm.00.s479m,PL0422A,WSSE Gdańsk Morena,Pm.00.s479m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Gdańsk,ul. Jaśkowa Dolina 105,54.358333,18.586111,powiat Gdańsk,GDANSK
+775,Pm.01w.01m,PL0280A,WIOŚ-Gdynia,Pm.01w.01m,2007-02-01,2008-03-31,background,urban,container,pomorskie,Gdynia,ul. Kopernika,54.494444,18.554167,powiat Gdynia,GDYNIA
+776,Pm.02.s631m,PL0423A,WSSE Chojnice,Pm.02.s631m,2004-01-02,2009-12-31,background,urban,in-house,pomorskie,Chojnice,ul. Szpitalna 3,53.695,17.557778,powiat chojnicki,CHOJNICE
+777,Pm.04.s472m,PL0424A,WSSE Pruszcz Gdański,Pm.04.s472m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Pruszcz Gdański,ul. Wojska Polskiego 9,54.259722,18.633611,powiat gdański,PRUSZCZ GDANSKI
+778,Pm.06.s711m,PL0425A,WSSE Kościerzyna,Pm.06.s711m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Kościerzyna,ul. Rynek 9,54.1225,17.978610999999997,powiat kościerski,KOSCIERZYNA
+779,Pm.06.s712m,PL0167A,WIOŚ Kościerzyna - Staszica,Pm.06.s712m,2003-05-26,2011-12-31,background,urban,in-house,pomorskie,Kościerzyna,ul. Staszica 6,54.119167,17.968611,powiat kościerski,KOSCIERZYNA
+780,Pm.07.s005m,PL0426A,WSSE Kwidzyn,Pm.07.s005m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Kwidzyn,ul. Chopina 40,53.733056000000005,18.926111,powiat kwidzyński,KWIDZYN
+781,Pm.08.s076m,PL0427A,WSSE Lębork,Pm.08.s076m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Lębork,ul. Czołgistów 5,54.539167000000006,17.742778,powiat lęborski,LEBORK
+782,Pm.08.s077m,PL0428A,WSSE Łeba,Pm.08.s077m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Łeba,ul. Nadmorska 8,54.764722,17.563889,powiat lęborski,LEBA
+783,Pm.09.s067m,PL0429A,WSSE Malbork,Pm.09.s067m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Malbork,ul. Konopnickiej 6,54.031667000000006,19.034167,powiat malborski,MALBORK
+784,Pm.12.s063m,PL0430A,WSSE Ustka,Pm.12.s063m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Ustka,ul. Marynarki Polskiej 5,54.58805600000001,16.854167,powiat słupski,USTKA
+785,Pm.13.s618m,PL0431A,WSSE Starogard,Pm.13.s618m,2004-01-02,2009-12-31,background,urban,in-house,pomorskie,Starogard Gdański,ul. Rynek - Ratusz Miejski,53.966667,18.534444,powiat starogardzki,STAROGARD GDANSKI
+786,Pm.14.s512m,PL0432A,WSSE Tczew,Pm.14.s512m,2004-01-05,2009-12-31,background,urban,in-house,pomorskie,Tczew,ul. Obrońców Westerplatte 10,54.090278000000005,18.797222,powiat tczewski,TCZEW
+787,Pm.15.s128m,PL0433A,WSSE Wejherowo,Pm.15.s128m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Wejherowo,ul. Obrońców Helu 3,54.608611,18.248056,powiat wejherowski,WEJHEROWO
+788,Pm.63.s073m,PL0434A,WSSE Słupsk,Pm.63.s073m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Słupsk,ul. Szarych Szeregów 15,54.468611,17.036111,powiat Słupsk,SLUPSK
+789,Pm.63.s079m,PL0170A,WSSE Słupsk - Towarowa/Piotra Skargi,Pm.63.s079m,2004-01-01,2009-12-31,background,urban,in-house,pomorskie,Słupsk,ul. Towarowa 1/Piotra Skargi 8,54.46444399999999,17.013056,powiat Słupsk,SLUPSK
+790,Pm.63.wDSMm,PL0172A,WIOŚ DS Słupsk - Kniaziewicza malualny,Pm.63.wDSMm,2001-01-20,2012-12-31,background,urban,container,pomorskie,Słupsk,ul. Kniaziewicza 30,54.463611,17.046667000000003,powiat Słupsk,SLUPSK
+791,Pm.a09a,PL0053A,AM9 Gdynia Redłowo,Pm.a09a,1999-09-01,2009-12-31,background,urban,container,pomorskie,Gdynia,ul. Kopernika,54.483333,18.55,powiat Gdynia,GDYNIA
+792,Pm.aw07m,PL0521A,WIOŚ Tczew - Targowa,Pm.aw07m,2010-01-01,2011-02-28,background,urban,container,pomorskie,Tczew,ul. Targowa,54.082164,18.786156,powiat tczewski,TCZEW
+793,Pm14TCZEw06m,PL0164A,Tczew manualny,Pm14TCZEw06m,2004-08-01,2009-12-31,background,urban,container,pomorskie,Tczew,ul. Jarosława Dąbrowskiego,54.086944,18.797222,powiat tczewski,TCZEW
+794,PmChojnMOB,PL0758A,CHojnice - mobilna,PmChojnMOB,2020-03-20,,background,urban,mobile,pomorskie,Chojnice,Plac Emsdetten,53.696546,17.5645,powiat chojnicki,CHOJNICE
+795,PmChojPlEmsdMOB,PL0758A,"Chojnice, Pl. Emsdetten",,2020-03-20,,background,urban,mobile,pomorskie,Chojnice,plac Emsdetten,53.696546,17.5645,powiat chojnicki,CHOJNICE
+796,PmGac,PL0281A,WIOŚ Gać - Słowiński Park Narodowy,Pm.D,2004-07-01,2015-12-31,background,nonurban,dust collector,pomorskie,Gać,,54.693806,17.458067,powiat słupski,GAC
+797,PmGdaGleboka,PL0166A,WIOŚ Gdańsk - Głęboka,Pm.00.s481m,2004-01-01,2016-12-31,background,urban,dust collector,pomorskie,Gdańsk,ul. Głęboka 11,54.352722,18.673417,powiat Gdańsk,GDANSK
+798,PmGdaGrunwalTMP,PL0775A,"Gdańsk, Al. Grunwaldzka",,2023-01-01,,communication,urban,container,pomorskie,Gdańsk,,54.37805899999999,18.607995000000003,powiat Gdańsk,GDANSK
+799,PmGdaKacze02,PL0046A,AM2 Gdańsk Stogi,Pm.a02a,1996-10-01,2019-12-31,background,urban,container,pomorskie,Gdańsk,ul. Kaczeńce,54.367778,18.701111,powiat Gdańsk,GDANSK
+800,PmGdaLecz08m,PL0522A,WIOŚ Gdańsk - Leczkowa,Pm.aw08m,2008-05-01,,background,urban,dust collector,pomorskie,Gdańsk,ul. Leczkowa,54.380279,18.620274,powiat Gdańsk,GDANSK
+801,PmGdaLeczk08,PL0052A,AM8 Gdańsk Wrzeszcz,Pm.a08a,1998-10-01,,background,urban,container,pomorskie,Gdańsk,ul. Leczkowa,54.380279,18.620274,powiat Gdańsk,GDANSK
+802,PmGdaLeczk81,PL0522A,"Gdańsk, ul. Leczkowa 1",,2008-05-01,2021-12-31,background,urban,dust collector,pomorskie,Gdańsk,ul. Leczkowa,54.380279,18.620274,powiat Gdańsk,GDANSK
+803,PmGdaLeczkow,PL0052A,"Gdańsk, ul. Leczkowa",,1998-10-01,,background,urban,container,pomorskie,Gdańsk,ul. Leczkowa,54.380279,18.620274,powiat Gdańsk,GDANSK
+804,PmGdaOstrz05,PL0049A,AM5 Gdańsk Szadółki,Pm.a05a,1998-05-01,2019-12-31,background,urban,container,pomorskie,Gdańsk,ul. Ostrzycka,54.328336,18.557781,powiat Gdańsk,GDANSK
+805,PmGdaPoWie01,PL0045A,AM1 Gdańsk Śródmieście,Pm.a01a,1996-10-01,,background,urban,container,pomorskie,Gdańsk,ul. Powstańców Warszawskich,54.353336,18.635283,powiat Gdańsk,GDANSK
+806,PmGdaPowWars,PL0045A,"Gdańsk, ul. Powstańców Warszawskich",,1996-10-01,,background,urban,container,pomorskie,Gdańsk,ul. Powstańców Warszawskich,54.353336,18.635283,powiat Gdańsk,GDANSK
+807,PmGdaPowWiel,PL0497A,"Gdańsk, ul. Powstańców Wielkopolskich",,2010-01-01,,background,urban,dust collector,pomorskie,Gdańsk,ul. Powstańców Wielkopolskich,54.398639,18.614333,powiat Gdańsk,GDANSK
+808,PmGdaWyzwo03,PL0047A,AM3 Gdańsk Nowy Port,Pm.a03a,1998-09-01,,background,urban,container,pomorskie,Gdańsk,ul. Wyzwolenia,54.400833,18.657497,powiat Gdańsk,GDANSK
+809,PmGdaWyzwole,PL0047A,"Gdańsk, ul. Wyzwolenia",,1998-09-01,,background,urban,container,pomorskie,Gdańsk,ul. Wyzwolenia,54.400833,18.657497,powiat Gdańsk,GDANSK
+810,PmGdyJozBema,PL0557A,WIOŚ Gdynia - Bema,Pm.00.w237m,2012-01-01,2019-12-31,background,urban,dust collector,pomorskie,Gdynia,ul. Bema,54.50805,18.539831,powiat Gdynia,GDYNIA
+811,PmGdyPoreb04,PL0048A,AM4 Gdynia Pogórze,Pm.a04a,1997-03-01,,background,urban,container,pomorskie,Gdynia,ul. Porębskiego,54.560836,18.493331,powiat Gdynia,GDYNIA
+812,PmGdyPorebsk,PL0048A,"Gdynia, ul. Porębskiego",,1997-03-01,,background,urban,container,pomorskie,Gdynia,ul. Porębskiego,54.560836,18.493331,powiat Gdynia,GDYNIA
+813,PmGdySzaf09N,PL0520A,AM9 Gdynia Dąbrowa,Pm.a09aN,2009-12-01,,background,urban,container,pomorskie,Gdynia,ul. Szafranowa,54.465758,18.464911,powiat Gdynia,GDYNIA
+814,PmGdySzafran,PL0520A,"Gdynia, ul. Szafranowa",,2009-12-01,,background,urban,container,pomorskie,Gdynia,ul. Szafranowa,54.465758,18.464911,powiat Gdynia,GDYNIA
+815,PmGdyWendy10,PL0310A,AM10 Gdynia Śródmieście,Pm.a10a,2000-12-01,2019-12-31,background,urban,container,pomorskie,Gdynia,ul. Wendy,54.525274,18.536382,powiat Gdynia,GDYNIA
+816,PmKartWejher,PL0282A,WIOŚ Kartuzy,Pm05KARTw01m,2003-02-25,2015-12-31,background,urban,in-house,pomorskie,Kartuzy,ul. Wejhera,54.334194,18.199944,powiat kartuski,KARTUZY
+817,PmKosTargo12,PL0558A,AM12 Kościerzyna Targowa,Pm.AM12.a,2012-01-01,,background,urban,container,pomorskie,Kościerzyna,ul. Targowa,54.12069399999999,17.975861,powiat kościerski,KOSCIERZYNA
+818,PmKosTargowa,PL0558A,"Kościerzyna, ul. Targowa",,2012-01-01,,background,urban,container,pomorskie,Kościerzyna,ul. Targowa,54.12069399999999,17.975861,powiat kościerski,KOSCIERZYNA
+819,PmKwiSportow,PL0562A,"Kwidzyn, ul. Sportowa",,2010-06-20,,background,urban,container,pomorskie,Kwidzyn,ul. Sportowa,53.722361,18.936917,powiat kwidzyński,KWIDZYN
+820,PmLebaRabka1,PL0004R,"Łeba, IMGW",,2000-01-01,,background,suburban,in-house,pomorskie,Łeba,Rąbka 1a,54.754139,17.534527999999998,powiat lęborski,LEBA
+821,PmLebaRabkaE,PL0004R,IMGW Łeba - Rąbka,Pm08LEBAiEMEPa,2000-01-01,,background,suburban,in-house,pomorskie,Łeba,Rąbka 1a,54.754139,17.534527999999998,powiat lęborski,LEBA
+822,PmLebMalcz16,PL0560A,AM16 Lębork Malczewskiego,Pm.AM16.a,2012-01-01,,background,urban,container,pomorskie,Lębork,ul. Malczewskiego,54.546167,17.746194,powiat lęborski,LEBORK
+823,PmLebMalczew,PL0560A,"Lębork, ul. Malczewskiego",,2012-01-01,,background,urban,container,pomorskie,Lębork,ul. Malczewskiego,54.546167,17.746194,powiat lęborski,LEBORK
+824,PmLinieKos17,PL0561A,AM17 Liniewko Kościerskie,Pm.AM17.a,2012-01-01,,background,nonurban,container,pomorskie,Liniewko Kościerskie,,54.104111,18.182972,powiat kościerski,LINIEWKO KOSCIERSKIE
+825,PmLinieKosci,PL0561A,Liniewko Kościerskie,,2012-01-01,,background,nonurban,container,pomorskie,Liniewko Kościerskie,,54.104111,18.182972,powiat kościerski,LINIEWKO KOSCIERSKIE
+826,PmMalMicki15,PL0559A,AM15 Malbork Mickiewicza,Pm.AM15.a,2012-01-01,,background,urban,container,pomorskie,Malbork,ul. Mickiewicza,54.031247,19.032899,powiat malborski,MALBORK
+827,PmMalMickiew,PL0559A,"Malbork, ul. Mickiewicza",,2012-01-01,,background,urban,container,pomorskie,Malbork,ul. Mickiewicza,54.031247,19.032899,powiat malborski,MALBORK
+828,PmSlupKniazi,PL0171A,"Słupsk, ul. Kniaziewicza",,2003-01-01,,background,urban,container,pomorskie,Słupsk,ul. Kniaziewicza 30,54.463611,17.046722,powiat Słupsk,SLUPSK
+829,PmSlupOrzesz,PL0519A,WIOŚ Słupsk Orzeszkowej,Pm.63.wDSPm,2011-01-01,2015-12-31,background,urban,dust collector,pomorskie,Słupsk,ul. Orzeszkowej,54.475611,17.030732999999998,powiat Słupsk,SLUPSK
+830,PmSopBiPlowc,PL0790A,"Sopot, ul. Bitwy Pod Płowcami",,2021-03-17,,background,urban,container,pomorskie,Sopot,ul. Bitwy pod Płowcami,54.43451,18.57884,powiat Sopot,SOPOT
+831,PmSopBitPl06,PL0050A,AM6 Sopot,Pm.a06a,1998-07-01,2021-03-23,background,urban,container,pomorskie,Sopot,ul. Bitwy pod Płowcami,54.431667,18.579722,powiat Sopot,SOPOT
+832,PmStaGdaLubi,PL0311A,POLPHARMA Starogard Gdański - Lubichowska,Pm.polpharma.01.a,2007-01-01,2017-12-31,background,urban,container,pomorskie,Starogard Gdański,ul. Lubichowska,53.965664,18.527636,powiat starogardzki,STAROGARD GDANSKI
+833,PmTczeTarg07,PL0051A,AM7 Tczew,Pm.a07a,1998-07-01,2016-12-31,background,urban,container,pomorskie,Tczew,ul. Targowa,54.085836,18.787506,powiat tczewski,TCZEW
+834,PmWejhPlWejh,PL0169A,WIOŚ Wejherowo - Jakuba Wejhera,Pm.15.s129m,2003-07-01,2018-12-31,background,urban,dust collector,pomorskie,Wejherowo,pl. Jakuba Wejhera 8,54.601139,18.239361,powiat wejherowski,WEJHEROWO
+835,PmWladywHallera,PL0168A,WIOŚ Władysławowo - Hallera,Pm11WLADw07m,2004-09-23,2015-12-31,background,urban,dust collector,pomorskie,Władysławowo,ul. Hallera,54.793639,18.409944,powiat pucki,WLADYSLAWOWO
+836,SkBuskoRzew,PL0435A,WSSE Busko Zdrój ul. Rzewuskiego,SkBuskoRzew,1993-01-04,2009-12-31,background,urban,in-house,świętokrzyskie,Busko-Zdrój,ul. Rzewuskiego 2,50.456472,20.719294,powiat buski,BUSKO-ZDROJ
+837,SkBuskoWios,PL0436A,"WIOŚ Busko Zdrój, ul. Rzewuskiego",SkBuskoWios,2008-01-01,2009-10-23,background,urban,in-house,świętokrzyskie,Busko-Zdrój,ul. Rzewuskiego 1,50.456087,20.71942,powiat buski,BUSKO-ZDROJ
+838,SkBuskRokosz,PL0523A,"Busko-Zdrój, ul. Rokosza",,2010-01-01,,background,urban,dust collector,świętokrzyskie,Busko-Zdrój,ul. Rokosza 1,50.453621000000005,20.71564,powiat buski,BUSKO-ZDROJ
+839,SkChecBiaZag,PL0437A,Chęciny ul. Białego Zagłębia,SkChecBiaZag,1995-02-01,2009-11-30,background,suburban,in-house,świętokrzyskie,Chęciny,ul. Białego Zagłębia 1,50.80448,20.469887,powiat kielecki,CHECINY
+840,SkGoluUjWody,PL0771A,"Gołuchów, Ujęcie Wody",,2020-01-01,,background,nonurban,container,świętokrzyskie,Gołuchów,Ujęcie Wody,50.621482,20.614057,powiat pińczowski,GOLUCHOW
+841,SkJedrMieszkMOB,PL0772A,"Jędrzejów, MOBILNA",SkJedrMieszkMOB,2020-01-01,2020-12-30,background,urban,mobile,świętokrzyskie,Jędrzejów,ul. Mieszka I 9,50.643673,20.284885,powiat jędrzejowski,JEDRZEJOW
+842,SkKielGalcz,PL0438A,WSSE Kielce ul. Gałczyńskiego,SkKielGalcz,1985-07-17,2009-12-31,background,urban,in-house,świętokrzyskie,Kielce,ul. Gałczyńskiego 7,50.883611,20.646667,powiat Kielce,KIELCE
+843,SkKielIXWiek,,WSSE Kielce Al. IX Wieków Kielc,SkKielIXWiek,1994-01-03,2004-12-31,background,urban,in-house,świętokrzyskie,Kielce,al. IX Wieków Kielc 3,50.87594,20.629325,powiat Kielce,KIELCE
+844,SkKielJagiel,PL0283A,"Kielce, ul. Jagiellońska",SkKielJagielWios,2010-01-01,2018-05-24,background,urban,container,świętokrzyskie,Kielce,ul. Jagiellońska 68,50.872549,20.604998,powiat Kielce,KIELCE
+845,SkKielJagielWSSE,,WSSE Kielce ul. Jagiellońska,SkKielJagielWSSE,1974-01-14,2009-12-31,background,urban,container,świętokrzyskie,Kielce,ul. Jagiellońska 68,50.872538,20.605046,powiat Kielce,KIELCE
+846,SkKielJurajs,PL0792A,"Kielce, ul. Jurajska",,2021-01-01,,background,urban,container,świętokrzyskie,Kielce,ul. Jurajska 7,50.887606,20.579965,powiat Kielce,KIELCE
+847,SkKielKusoci,PL0482A,"Kielce, ul. Kusocińskiego",,2008-08-11,2021-12-31,background,suburban,dust collector,świętokrzyskie,Kielce,ul. Kusocińskiego 51,50.854218,20.602583,powiat Kielce,KIELCE
+848,SkKielTargow,PL0704A,"Kielce, ul. Targowa",,2018-07-01,,background,urban,container,świętokrzyskie,Kielce,ul. Targowa 3,50.878998,20.633692,powiat Kielce,KIELCE
+849,SkKielTransp,PL0173A,Kielce WIOŚ Al. IX Wieków Kielc,SkKielTransp,2002-04-05,2009-12-31,communication,urban,in-house,świętokrzyskie,Kielce,al. IX Wieków Kielc 3,50.875,20.629167,powiat Kielce,KIELCE
+850,SkKielWarsz1,PL0793A,"Kielce, ul. Warszawska 108",,2021-01-01,,communication,urban,container,świętokrzyskie,Kielce,ul. Warszawska 108,50.886014,20.642858,powiat Kielce,KIELCE
+851,SkKielWarsza,PL0653A,"Kielce, ul. Warszawska 210",,2015-09-29,,background,urban,dust collector,świętokrzyskie,Kielce,ul. Warszawska 210,50.894374,20.657988,powiat Kielce,KIELCE
+852,SkKonsGranatMOB,PL0697A,"Końskie, MOBILNA",SkKonsGranatMOB,2018-01-01,2018-12-31,background,urban,mobile,świętokrzyskie,Końskie,ul. ks. Józefa Granata,51.189524,20.408892,powiat konecki,KONSKIE
+853,SkKonskArmKr,PL0439A,WSSE Końskie ul. Armii Krajowej,SkKonskArmKr,1994-01-05,2009-12-31,background,urban,in-house,świętokrzyskie,Końskie,ul. Armii Krajowej 22,51.197886,20.412946,powiat konecki,KONSKIE
+854,SkMalo11List,PL0596A,"Małogoszcz, ul. 11 Listopada",SkMalogCemen3,2013-01-01,2017-07-12,background,urban,in-house,świętokrzyskie,Małogoszcz,ul. 11 Listopada,50.808305,20.271141,powiat jędrzejowski,MALOGOSZCZ
+855,SkMalogCemen,,Małogoszcz Cementownia,SkMalogCemen,2003-01-01,2009-03-01,background,nonurban,in-house,świętokrzyskie,Małogoszcz,Oczyszczalnia Ścieków Komunalnych,50.827467,20.288276,powiat jędrzejowski,MALOGOSZCZ
+856,SkMalogCemen2,PL0525A,"Małogoszcz, ul. 11 Listopada_cem2",SkMalogCemen2,2010-01-01,2012-12-31,background,urban,in-house,świętokrzyskie,Małogoszcz,ul. 11 Listopada,50.808311,20.271165,powiat jędrzejowski,MALOGOSZCZ
+857,SkMaloSlonec,PL0698A,"Małogoszcz, ul. Słoneczna",SkMaloSlonec,2017-10-01,,background,urban,container,świętokrzyskie,Małogoszcz,ul. Słoneczna 18,50.809563,20.266099,powiat jędrzejowski,MALOGOSZCZ
+858,SKNowinyCemen,PL0284A,Nowiny,SKNowinyCemen,2004-02-11,2009-03-01,industrial,nonurban,container,świętokrzyskie,Sitkówka Nowiny,ul. Przemysłowa 32,50.803894,20.543278,powiat kielecki,SITKOWKA NOWINY
+859,SkNowiParkow,PL0563A,"Nowiny, ul. Parkowa",,2010-01-01,,background,suburban,container,świętokrzyskie,Nowiny,ul. Parkowa,50.823108000000005,20.533506,powiat kielecki,NOWINY
+860,SkOpatPartyz,PL0794A,"Opatów, ul. Partyzantów",,2021-01-01,,background,urban,mobile,świętokrzyskie,Opatów,ul. Partyzantów 13 b,50.798077,21.425467,powiat opatowski,OPATOW
+861,SkOstrOsSlonMOB,PL0724A,"Ostrowiec Świętokrzyski, MOBILNA",SkOstrOsSlonMOB,2020-01-01,2020-12-31,background,urban,mobile,świętokrzyskie,Ostrowiec Świętokrzyski,Osiedle Słoneczne 28,50.946703,21.394492,powiat ostrowiecki,OSTROWIEC SWIETOKRZYSKI
+862,SkOstrowKatD,,Ostrowiec Św. Kąty Denkowskie,SkOstrowKatD,1999-07-01,2005-12-31,industrial,suburban,in-house,świętokrzyskie,Ostrowiec Świętokrzyski,ul. Kąty Denkowskie,50.945917,21.462007,powiat ostrowiecki,OSTROWIEC SWIETOKRZYSKI
+863,SkOstrowOsSl,,WSSE Ostrowiec Świętokrzyski Os. Słoneczne,SkOstrowOsSl,1994-01-03,2007-12-31,background,urban,in-house,świętokrzyskie,Ostrowiec Świętokrzyski,os. Słoneczne 43,50.945938,21.389985,powiat ostrowiecki,OSTROWIEC SWIETOKRZYSKI
+864,SkOstrowSams,PL0285A,Ostrowiec Świętokrzyski ul. Samsonowicza,SkOstrowSams,1999-07-01,2009-02-01,industrial,suburban,in-house,świętokrzyskie,Ostrowiec Świętokrzyski,ul. Samsonowicza 2,50.948629,21.433543,powiat ostrowiecki,OSTROWIEC SWIETOKRZYSKI
+865,SkOstrowWios,,"WIOŚ Ostrowiec Świętokrzyski, os. Słoneczne",SkOstrowWios,2004-12-14,2007-12-31,background,urban,in-house,świętokrzyskie,Ostrowiec Świętokrzyski,os. Słoneczne 43,50.945942,21.390117,powiat ostrowiecki,OSTROWIEC SWIETOKRZYSKI
+866,SkOzarOsWzgo,PL0564A,"Ożarów, os. Wzgórze",,2012-01-01,,background,urban,dust collector,świętokrzyskie,Ożarów,os. Wzgórze 52,50.887132,21.660726,powiat opatowski,OZAROW
+867,SkOzarowMiec,PL0286A,Mieczysławów,SkOzarowMiec,1993-01-01,2011-12-31,background,nonurban,in-house,świętokrzyskie,Mieczysławów,ul. Mieczysławów 14,50.947775,21.729241,powiat opatowski,MIECZYSLAWOW
+868,SkOzarowOsWz,PL0287A,Ożarów Os. Wzgórze,SkOzarowOsWz,1993-01-01,2011-12-31,background,suburban,container,świętokrzyskie,Ożarów,ul. Leśna 26,50.893171,21.655157,powiat opatowski,OZAROW
+869,SkPolaRuszcz,PL0565A,"Połaniec, ul. Ruszczańska",,2012-01-01,,background,urban,container,świętokrzyskie,Połaniec,ul. Ruszczańska 23,50.429014,21.277367,powiat staszowski,POLANIEC
+870,SkSandomMac,PL0440A,WSSE Sandomierz ul. Maciejowskiego,SkSandomMac,2000-01-03,2009-12-31,background,urban,in-house,świętokrzyskie,Sandomierz,ul. Maciejowskiego 17,50.685,21.729167,powiat sandomierski,SANDOMIERZ
+871,SkSandZielnaMOB,PL0795A,"Sandomierz, MOBILNA",,2021-01-01,2021-12-31,background,urban,mobile,świętokrzyskie,Sandomierz,ul. Zielna 7,50.686423,21.7291,powiat sandomierski,SANDOMIERZ
+872,SkSkarZielnaMOB,PL0731A,"Skarżysko-Kamienna, MOBILNA",SkSkarZielnaMOB,2019-01-01,2019-12-31,background,urban,mobile,świętokrzyskie,Skarżysko-Kamienna,ul. Zielna 27,51.1211,20.880631,powiat skarżyski,SKARZYSKO-KAMIENNA
+873,SkSkarzSlow,PL0441A,WSSE Skarżysko-Kamienna ul. Słowackiego,SkSkarzSlow,1994-01-03,2009-12-31,background,urban,in-house,świętokrzyskie,Skarżysko-Kamienna,ul. Słowackiego 25,51.114444,20.866111,powiat skarżyski,SKARZYSKO-KAMIENNA
+874,SkSolecZdroj,PL0680A,Solec-Zdrój,,2017-01-01,,background,suburban,dust collector,świętokrzyskie,Solec Zdrój,,50.358659,20.886184,powiat buski,SOLEC ZDROJ
+875,SkStaracMur,PL0442A,WSSE Starachowice ul. Murarska,SkStaracMur,1994-01-03,2009-12-31,background,urban,in-house,świętokrzyskie,Starachowice,ul. Murarska 14,51.050517,21.092158,powiat starachowicki,STARACHOWICE
+876,SkStaracZlota,,"WIOŚ Starachowice, ul. Złota",SkStaracZlota,2004-12-14,2007-12-31,background,urban,in-house,świętokrzyskie,Starachowice,ul. Złota 6,51.05048,21.084699,powiat starachowicki,STARACHOWICE
+877,SkStaraZlota,PL0566A,"Starachowice, ul. Złota",,2012-01-01,,background,urban,container,świętokrzyskie,Starachowice,ul. Złota,51.050611,21.084175,powiat starachowicki,STARACHOWICE
+878,SkSwietKrzyz,PL0443A,Stacja ZMŚP UJK w Kielcach,SkSwKrzyzZM,2003-01-01,2021-01-01,background,nonurban,container,świętokrzyskie,Święty Krzyż,,50.86225,21.053006,powiat kielecki,SWIETY KRZYZ
+879,SkTrzciOsiek,PL0288A,Trzcianka,SkPolanTrzc,1997-01-01,2016-09-09,background,nonurban,dust collector,świętokrzyskie,Trzcianka,Trzcianka 7,50.486298,21.394103,powiat staszowski,TRZCIANKA
+883,SlBielKossak,PL0234A,"Bielsko-Biała, ul. Kossak-Szczuckiej",,2005-01-01,,background,urban,container,śląskie,Bielsko-Biała,ul. Kossak-Szczuckiej 19,49.813464,19.027318,powiat Bielsko-Biała,BIELSKO-BIALA
+884,SlBielPartyz,PL0705A,"Bielsko-Biała, ul.Partyzantów",,2018-01-01,,communication,urban,container,śląskie,Bielsko-Biała,ul. Partyzantów,49.802075,19.04861,powiat Bielsko-Biała,BIELSKO-BIALA
+885,SlBielSterni,PL0499A,"Bielsko-Biała, ul. Sternicza",,2009-12-30,,background,urban,container,śląskie,Bielsko-Biała,ul. Sternicza 4,49.806389,19.023194,powiat Bielsko-Biała,BIELSKO-BIALA
+886,SlBytomByto_modrz,PL0020A,Bytom_modrz-WIOŚ,SlBytomByto_modrz,1994-01-01,2010-12-31,background,urban,container,śląskie,Bytom,ul. Modrzewskiego 5,50.333333,18.896111,powiat Bytom,BYTOM
+888,SlChorzChor_bator,PL0235A,Chorzów_batory-WIOŚ,SlChorzChor_bator,2005-01-01,2010-12-31,communication,urban,container,śląskie,Chorzów,ul. Trasa A4 Dz.Batory,50.254167,18.936944,powiat Chorzów,CHORZOW
+889,SlCiesChopin,PL0796A,"Cieszyn, ul. Chopina",,2020-12-01,,background,urban,container,śląskie,Cieszyn,ul. Chopina 37,49.755989,18.634075,powiat cieszyński,CIESZYN
+890,SlCiesMickie,PL0236A,"Cieszyn, ul. Mickiewicza 13",SlCieszCies_13mic,2005-01-01,2019-12-31,background,urban,container,śląskie,Cieszyn,ul. Mickiewicza 13,49.738136,18.639069,powiat cieszyński,CIESZYN
+891,SlCieszCies_dojaz,PL0289A,Cieszyn-dojazdowa-WSSE,SlCieszCies_dojaz,2005-01-01,2009-12-31,background,urban,container,śląskie,Cieszyn,ul. Dojazdowa 2,49.751667,18.6275,powiat cieszyński,CIESZYN
+893,SlCzerKopaln,PL0597A,"Czerwionka-Leszczyny, ul. Kopalniana",,2013-12-22,,background,urban,container,śląskie,Czerwionka-Leszczyny,ul. Kopalniana,50.16385,18.659977,powiat rybnicki,CZERWIONKA-LESZCZYNY
+894,SlCzestCzes_arkra,PL0174A,Częstochowa_ak - WIOŚ,SlCzestCzes_arkra,1992-01-01,2009-12-31,communication,urban,container,śląskie,Częstochowa,ul. Armii Krajowej 2,50.817778,19.1175,powiat Częstochowa,CZESTOCHOWA
+898,SlCzestoArmK,PL0526A,"Częstochowa, ul. AK/Jana Pawła II",,2010-01-01,,communication,urban,container,śląskie,Częstochowa,ul. Armii Krajowej 2,50.817217,19.118997,powiat Częstochowa,CZESTOCHOWA
+899,SlCzestoBacz,PL0184A,"Częstochowa, ul. Baczyńskiego",,1992-01-01,,background,urban,container,śląskie,Częstochowa,ul. Baczyńskiego 2,50.836389,19.130111,powiat Częstochowa,CZESTOCHOWA
+900,SlCzestoZana,PL0498A,"Częstochowa, ul. Zana",,2010-01-01,,background,urban,container,śląskie,Częstochowa,ul. Zana 6,50.801918,19.106961,powiat Częstochowa,CZESTOCHOWA
+901,SlDabro1000L,PL0237A,"Dąbrowa Górnicza, ul. Tysiąclecia 25a",SlDabroDabr_1000L,2005-01-01,,background,urban,container,śląskie,Dąbrowa Górnicza,ul. 1000-lecia 25 a,50.329111,19.231222,powiat Dąbrowa Górnicza,DABROWA GORNICZA
+904,SlDabroTysia,PL0237A,"Dąbrowa Górnicza, ul. Tysiąclecia",,2005-01-01,,background,urban,container,śląskie,Dąbrowa Górnicza,ul. Tysiąclecia 25 a,50.329111,19.231222,powiat Dąbrowa Górnicza,DABROWA GORNICZA
+905,SlGliwicMewy,PL0238A,"Gliwice, ul. Mewy",,2005-01-01,,background,urban,container,śląskie,Gliwice,ul. Mewy 34,50.279481,18.655736,powiat Gliwice,GLIWICE
+907,SlGoczaUzdroMOB,PL0742A,"Goczałkowice Zdrój, ul. Parkowa",,2019-04-22,,background,suburban,mobile,śląskie,Goczałkowice-Zdrój,ul. Parkowa,49.93785,18.975594,powiat pszczyński,GOCZALKOWICE-ZDROJ
+908,SlGodGliniki,PL0527A,"Godów, ul. Gliniki",,2009-09-07,,background,nonurban,container,śląskie,Godów,ul. Gliniki,49.921875,18.471278,powiat wodzisławski,GODOW
+909,SlJastrJast_harce,PL0444A,Jastrzębie_harcer-WSSE,SlJastrJast_harce,1992-01-01,2009-12-31,background,urban,container,śląskie,Jastrzębie-Zdrój,ul. Harcerska 14b,49.952222,18.610278,powiat Jastrzębie-Zdrój,JASTRZEBIE-ZDROJ
+910,SlJaworJawo_poczt,PL0445A,Jaworzno_pocztowa-WSSE,SlJaworJawo_poczt,2005-01-01,2009-12-31,background,urban,container,śląskie,Jaworzno,ul. Pocztowa 7,50.202222,19.277222,powiat Jaworzno,JAWORZNO
+911,SlKatoKossut,PL0008A,"Katowice, ul. Kossutha",,1992-01-01,,background,urban,container,śląskie,Katowice,ul. Kossutha 6,50.264611,18.975028,powiat Katowice,KATOWICE
+912,SlKatoPlebA4,PL0567A,"Katowice, ul. Plebiscytowa/A4",,2011-01-01,,communication,urban,container,śląskie,Katowice,Al. Górnośląska,50.246795,19.019469,powiat Katowice,KATOWICE
+913,SlKatowKato_racib,PL0022A,Katowice_raciborska-WSSE,SlKatowKato_racib,2005-01-01,2009-12-31,background,urban,container,śląskie,Katowice,ul. Raciborska 39,50.255278,19.004167,powiat Katowice,KATOWICE
+916,SlKnurJedNar,PL0483A,"Knurów, ul. Jedności Narodowej",,2009-04-29,,background,urban,container,śląskie,Knurów,ul. Jedności Narodowej 5,50.233167,18.655722,powiat gliwicki,KNUROW
+919,SlLublPiasko,PL0290A,"Lubliniec, ul. Piaskowa",SlLubliLubl_piask,2005-01-01,2018-12-31,background,urban,container,śląskie,Lubliniec,ul. Piaskowa 56,50.658357,18.69622,powiat lubliniecki,LUBLINIEC
+920,SlLublSzymal,PL0707A,"Lubliniec, ul. ks. Szymały",,2018-09-01,,background,urban,container,śląskie,Lubliniec,ul. Ks. Płk. Jana Szymały 3,50.675693,18.682065,powiat lubliniecki,LUBLINIEC
+921,SlMiastMias_norwi,PL0447A,Miasteczko ŚL._norwida-WSSE,SlMiastMias_norwi,2005-01-01,2009-12-31,background,urban,container,śląskie,Miasteczko Śląskie,ul. Norwida,50.489722,18.918333,powiat tarnogórski,MIASTECZKO SLASKIE
+925,SlMyszMiedzi,PL0484A,"Myszków, ul. Miedziana",,2008-01-01,,background,urban,container,śląskie,Myszków,ul. Miedziana 3,50.579733,19.3267,powiat myszkowski,MYSZKOW
+928,SlPszczBoged,PL0528A,"Pszczyna, ul. Bogedaina",,2009-12-30,,background,urban,container,śląskie,Pszczyna,ul. Bogedaina,49.972177,18.947218,powiat pszczyński,PSZCZYNA
+929,SlRaciborzWPMOB,PL0759A,"Racibórz, Wojska Polskiego",,2019-06-01,,background,urban,mobile,śląskie,Racibórz,ul. Wojska Polskiego 8,50.091142,18.216261,powiat raciborski,RACIBORZ
+931,SlRacibRaci_studz,PL0291A,Racibórz_studzienna-WIOŚ,SlRacibRaci_studz,2005-01-01,2010-12-31,background,urban,container,śląskie,Racibórz,ul. Studzienna St. IMGW,50.060833,18.191111,powiat raciborski,RACIBORZ
+933,SlRudasRuda_1maja,,RudaŚl_1maja_WIOŚ,SlRudasRuda_1maja,1992-01-01,2013-12-31,background,urban,NO DATA,śląskie,Ruda Śląska,ul. 1 Maja 318,50.271944,18.863056,powiat Ruda Śląska,RUDA SLASKA
+934,SlRybniBorki,PL0239A,"Rybnik, ul. Borki",,2005-01-01,,background,urban,container,śląskie,Rybnik,ul. Borki 37 d,50.111181,18.516139000000003,powiat Rybnik,RYBNIK
+936,SlRybniRybn_szafr,PL0448A,Rybnik_szafr-WSSE,SlRybniRybn_szafr,1992-01-01,2009-12-31,background,urban,container,śląskie,Rybnik,ul. Szafranka 7,50.095556,18.5475,powiat Rybnik,RYBNIK
+937,SlSosnoLubel,PL0529A,"Sosnowiec, ul. Lubelska",,2010-04-01,,background,urban,container,śląskie,Sosnowiec,ul. Lubelska 51,50.285956,19.184399,powiat Sosnowiec,SOSNOWIEC
+938,SlSosnoSosn_narut,PL0041A,Sosnowiec_narut-WIOŚ/WSSE,SlSosnoSosn_narut,1992-01-01,2008-02-29,background,urban,container,śląskie,Sosnowiec,ul. Narutowicza,50.273889,19.146956,powiat Sosnowiec,SOSNOWIEC
+939,SlTarnoLitew,PL0530A,"Tarnowskie Góry, ul. Litewska",,2010-01-01,,background,urban,container,śląskie,Tarnowskie Góry,ul. Litewska 6,50.444736,18.829639,powiat tarnogórski,TARNOWSKIE GORY
+940,SlTychyTolst,PL0240A,"Tychy, ul. Tołstoja",,2005-01-01,,background,urban,container,śląskie,Tychy,ul. Tołstoja 1,50.099903000000005,18.990236,powiat Tychy,TYCHY
+941,SlUstroCies_sanat,PL0029A,Ustroń_sanat-WIOŚ,SlUstroCies_sanat,1996-03-01,2009-12-31,background,urban,in-house,śląskie,Ustroń,ul. Sanatoryjna 1,49.724722,18.825,powiat cieszyński,USTRON
+942,SlUstronSana,PL0568A,"Ustroń, ul. Sanatoryjna",,2012-01-01,,background,suburban,container,śląskie,Ustroń,ul. Sanatoryjna 7,49.719731,18.826722,powiat cieszyński,USTRON
+943,SlWodzGalczy,PL0241A,"Wodzisław Śląski, ul. Gałczyńskiego",,2005-01-01,,background,urban,container,śląskie,Wodzisław Śląski,ul. Gałczyńskiego 1,50.007629,18.455548,powiat wodzisławski,WODZISLAW SLASKI
+944,SlWodziWodz_bogum,PL0292A,Wodzisław_boguminska-WSSE,SlWodziWodz_bogum,1992-01-01,2009-12-31,background,urban,container,śląskie,Wodzisław Śląski,ul. Bogumińska 3,50.000556,18.458333,powiat wodzisławski,WODZISLAW SLASKI
+948,SlZabSkloCur,PL0242A,"Zabrze, ul. M. Curie-Skłodowskiej",,2001-01-01,,background,urban,container,śląskie,Zabrze,ul. M. Skłodowskiej-Curie 34,50.3165,18.772375,powiat Zabrze,ZABRZE
+949,SlZawGalczyn,PL0746A,"Zawiercie, ul. K.I.Gałczyńskiego",,2019-08-12,,background,urban,container,śląskie,Zawiercie,ul. K.I.Gałczyńskiego 3,50.493045,19.439012,powiat zawierciański,ZAWIERCIE
+952,SlZawSkloCur,PL0293A,"Zawiercie, ul. M. Skłodowskiej-Curie 16",SlZawieZawi_zawie,2006-07-01,2018-12-31,background,urban,container,śląskie,Zawiercie,ul. Skłodowskiej-Curie 16,50.47954,19.43301,powiat zawierciański,ZAWIERCIE
+953,SlZlotPotLes,PL0243A,"Złoty Potok, Leśniczówka",,2005-01-01,,background,nonurban,container,śląskie,Złoty Potok,Leśniczówka Kamienna Góra,50.710889,19.458797,powiat częstochowski,ZLOTY POTOK
+954,SlZorymZory_wojsk,PL0449A,Żory_wojska-WSSE,SlZorymZory_wojsk,2005-01-01,2009-12-31,background,urban,container,śląskie,Żory,ul. Wojska Polskiego 25,50.045278,18.684444,powiat Żory,ZORY
+955,SlZorySikor2,PL0684A,"Żory, Os. Gen. Władysława Sikorskiego",,2017-01-01,,background,urban,container,śląskie,Żory,ul. Sikorskiego 52,50.029416,18.689527,powiat Żory,ZORY
+956,SlZorySikors,PL0489A,"Żory, Os. Gen. Władysława Sikorskiego 52",SlZoryzZory_sikor,2008-08-19,2016-12-31,background,urban,container,śląskie,Żory,ul. Sikorskiego 52,50.028681,18.691222,powiat Żory,ZORY
+957,SlZywieKoper,PL0294A,"Żywiec, ul. Kopernika",,2005-01-01,,background,urban,container,śląskie,Żywiec,ul. Kopernika 83 a,49.671602,19.234446,powiat żywiecki,ZYWIEC
+958,SlZywieSlowa,PL0450A,"Żywiec, ul.Słowackiego 2",SlZywieZywi_slowa,2005-01-01,2014-12-31,background,urban,container,śląskie,Żywiec,ul. Słowackiego 2,49.687897,19.205877,powiat żywiecki,ZYWIEC
+960,WmBartoWSSE_Boh_War,PL0451A,Bartoszyce-PSSE,WmBartoWSSE_Boh_War,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Bartoszyce,ul. Bohaterów Warszawy,54.252222,20.810278,powiat bartoszycki,BARTOSZYCE
+961,WmBiskupMickMOB,PL0755A,WIOŚ Biskupiec-Mobilna,,2020-01-01,2021-12-31,background,urban,mobile,warmińsko-mazurskie,Biskupiec,Mickiewicza 8,53.860702,20.957892,powiat olsztyński,BISKUPIEC
+962,WmDzialdWSSE_Biedraw,PL0452A,Dzialdowo-PSSE,WmDzialdWSSE_Biedraw,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Działdowo,pl. Biedrawy,53.232778,20.177778,powiat działdowski,DZIALDOWO
+963,WmElbBazynsk,PL0295A,"Elbląg, ul. Bażyńskiego",,2005-06-15,,background,urban,container,warmińsko-mazurskie,Elbląg,ul. Bażyńskiego 6,54.167847,19.410942,powiat Elbląg,ELBLAG
+964,WmElblagWSSE_Hetma,PL0453A,Elblag - GSSE - Hetmanska,WmElblagWSSE_Hetma,2003-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Elbląg,ul. Hetmanska,54.185278,19.405556,powiat Elbląg,ELBLAG
+965,WmElblagWSSE_Kalen,PL0454A,Elblag - GSSE - Kalenkiewicza,WmElblagWSSE_Kalen,2003-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Elbląg,ul. Kalenkiewicza,54.154722,19.406944,powiat Elbląg,ELBLAG
+966,WmElblagWSSE_Krole,PL0455A,Elblag - GSSE - Królewiecka,WmElblagWSSE_Krole,2004-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Elbląg,ul. Królewiecka,54.17916700000001,19.430556,powiat Elbląg,ELBLAG
+967,WmElblagWSSE_Zajchow,PL0456A,Elblag - GSSE - Zajchowskiego,WmElblagWSSE_Zajchow,2003-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Elbląg,ul. Zajchowskiego,54.164722,19.415833,powiat Elbląg,ELBLAG
+968,WmElk_WSSE_Toru,PL0457A,Elk-PSSE-Torunska,WmElk_WSSE_Toru,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Ełk,ul. Toruńska 6A/1,53.831389,22.350278,powiat ełcki,ELK
+969,WmElkStadion,PL0681A,"Ełk, ul. Piłsudskiego",,2017-01-01,,background,urban,container,warmińsko-mazurskie,Ełk,ul. Piłsudskiego 27,53.828389,22.348338,powiat ełcki,ELK
+970,WmElkWIOS_PM10,,Ełk - ul. Toruńska - WIOŚ PM10,WmElkWIOS_PM10,2005-03-01,2008-02-29,background,urban,in-house,warmińsko-mazurskie,Ełk,ul. Toruńska 8 A,53.831389,22.350278,powiat ełcki,ELK
+971,WmGizyckWIOS_Wodoc,PL0485A,WIOŚ Giżycko ul.Wodociągowa,WmGizyckWIOS_Wodoc,2009-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Giżycko,ul. Wodociągowa,54.0425,21.781389,powiat giżycki,GIZYCKO
+972,WmGizyckWSSE_Suwals,PL0458A,Gizycko-PSSE-Suwalska,WmGizyckWSSE_Suwals,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Giżycko,ul. Suwalska 3,54.036389,21.786389,powiat giżycki,GIZYCKO
+973,WmGlitajn,PL0654A,WIOŚ Glitajny,WmGlitajn,2015-04-07,2021-02-22,industrial,suburban,dust collector,warmińsko-mazurskie,Glitajny,,54.184728,21.152914000000003,powiat kętrzyński,GLITAJNY
+974,WmGoldJacwie,PL0312A,"Gołdap, ul. Jaćwieska",,2005-06-07,,background,urban,container,warmińsko-mazurskie,Gołdap,ul. Jaćwieska 17,54.305908,22.307681,powiat gołdapski,GOLDAP
+975,WmGoldUzdrowMOB,PL0750A,WIOŚ Gołdap-Uzdrowisko,WmGoldUzdrowMOB,2019-01-01,2019-12-31,background,urban,mobile,warmińsko-mazurskie,Gołdap,Promenada Zdrojowa 20,54.328176,22.332173,powiat gołdapski,GOLDAP
+976,WmIlawAnders,PL0598A,"Iława, ul.Andersa",,2013-01-01,,background,urban,dust collector,warmińsko-mazurskie,Iława,Andersa 8a,53.587873,19.564908,powiat iławski,ILAWA
+977,WmIlawaWSSE_Anders,PL0459A,Ilawa-PSSE-Andersa,WmIlawaWSSE_Anders,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Iława,ul. Andersa 8,53.586944,19.583333,powiat iławski,ILAWA
+978,WmKetrzWSSE_Pilsud,PL0460A,Ketrzyn-PSSE-Piłsudskiego,WmKetrzWSSE_Pilsud,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Kętrzyn,pl. Piłsudskiego,54.07833299999999,21.371944,powiat kętrzyński,KETRZYN
+979,WmKorszeR,PL0655A,WIOŚ Korsze,WmKorszeR,2014-09-04,2017-03-30,background,urban,dust collector,warmińsko-mazurskie,Korsze,Reymonta 2,54.170325,21.13505,powiat kętrzyński,KORSZE
+980,WmMragowWSSE_Krolew,,Mragowo-WSSE-Krolewiecka,WmMragowWSSE_Krolew,2003-01-03,2004-12-31,background,urban,in-house,warmińsko-mazurskie,Mrągowo,ul. Królewiecka 60b,53.874444,21.303611,powiat mrągowski,MRAGOWO
+981,WmMragParkow,PL0296A,WIOŚ Mrągowo ul. Parkowa,WmMragowWIOS_Parkowa,2005-08-01,2016-12-31,background,urban,container,warmińsko-mazurskie,Mrągowo,ul. Parkowa,53.866133,21.296122,powiat mrągowski,MRAGOWO
+982,WmNiTraugutt,PL0531A,"Nidzica, ul.Traugutta",,2009-03-27,,background,urban,dust collector,warmińsko-mazurskie,Nidzica,ul. Traugutta,53.361112,20.422046,powiat nidzicki,NIDZICA
+983,WmOlsPuszkin,PL0175A,"Olsztyn, ul. Puszkina",,2004-06-01,,background,urban,container,warmińsko-mazurskie,Olsztyn,ul. Puszkina 16,53.789233,20.486075,powiat Olsztyn,OLSZTYN
+984,WmOlsztyWSSE_Niepodl,PL0461A,Olsztyn - WSSE - Niepodległości,WmOlsztyWSSE_Niepodl,2003-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Olsztyn,ul. Niepodległości,53.770833,20.49,powiat Olsztyn,OLSZTYN
+985,WmOlsztyWSSE_Zolnier,PL0297A,Olsztyn - WSEE Żołnierska,WmOlsztyWSSE_Zolnier,2003-01-01,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Olsztyn,ul. Żołnierska,53.770833,20.49,powiat Olsztyn,OLSZTYN
+986,WmOstrChrobr,PL0176A,WIOŚ Ostróda ul. Chrobrego,WmOstrodWIOS_Chrobre,2004-06-01,2016-12-31,background,urban,container,warmińsko-mazurskie,Ostróda,ul. Chrobrego 3,53.692469,19.969778,powiat ostródzki,OSTRODA
+987,WmOstrodWSSE_Czarnec,PL0462A,Ostroda-PSSE-Czarneckiego,WmOstrodWSSE_Czarnec,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Ostróda,ul. Czarneckiego,53.696111,19.963333,powiat ostródzki,OSTRODA
+988,WmOstrPilsud,PL0682A,"Ostróda, ul. Piłsudskiego",,2017-01-01,,background,urban,container,warmińsko-mazurskie,Ostróda,Piłsudskiego 4,53.694587,19.969041,powiat ostródzki,OSTRODA
+989,WmPuszczaBor,PL0005R,"Diabla Góra, Puszcza Borecka",,1994-01-01,,background,nonurban,distributed,warmińsko-mazurskie,Diabla Góra,Diabla Góra,54.124819,22.038056,powiat giżycki,DIABLA GORA
+990,WmSzczytWSSE_Sklodow,PL0463A,Szczytno-PSSE-Skłodowskiej,WmSzczytWSSE_Sklodow,2003-01-03,2009-12-31,background,urban,in-house,warmińsko-mazurskie,Szczytno,ul. Curie Skłodowskiej,53.565278,20.988889,powiat szczycieński,SZCZYTNO
+991,WpBoroDrapal,PL0573A,"Borówiec, ul. Drapałka",,2011-01-01,,background,nonurban,container,wielkopolskie,Borówiec,ul. Drapałka 4,52.276794,17.074114,powiat poznański,BOROWIEC
+993,WpGniePaczko,PL0569A,"Gniezno, ul. Paczkowskiego",,2011-01-01,,background,urban,dust collector,wielkopolskie,Gniezno,ul. Paczkowskiego,52.539861,17.611960999999997,powiat gnieźnieński,GNIEZNO
+995,WpGnieznoPM10,PL0177A,"Gniezno, ul Jana Pawła II 2PM10",WpGnieznoPM10,2004-04-01,2011-05-31,background,urban,NO DATA,wielkopolskie,Gniezno,ul. Jana Pawła II 2,52.536111,17.605278,powiat gnieźnieński,GNIEZNO
+998,WpKaliSawick,PL0503A,"Kalisz, ul. Wyszyńskiego",,2010-01-01,,background,urban,container,wielkopolskie,Kalisz,ul. Wyszyńskiego,51.748103,18.04931,powiat Kalisz,KALISZ
+1001,WpKaliszMajkow,PL0464A,"Kalisz, ul. Tuwima 4",WpKaliszMajkow,2003-04-25,2009-12-31,background,urban,in-house,wielkopolskie,Kalisz,ul. Tuwima 4,51.775,18.080556,powiat Kalisz,KALISZ
+1002,WpKaliszPM10,PL0178A,"Kalisz, ul. Nowy Świat 2aPM10",WpKaliszPM10,2007-01-01,2009-12-31,background,urban,NO DATA,wielkopolskie,Kalisz,ul. Nowy Świat 2a,51.757222,18.086667,powiat Kalisz,KALISZ
+1008,WpKoniWyszyn,PL0031A,"Konin, ul. Wyszyńskiego",,2003-03-03,,background,urban,container,wielkopolskie,Konin,ul. Wyszyńskiego 3,52.225633,18.269036,powiat Konin,KONIN
+1010,WpKozieosLes,PL0700A,"Koziegłowy, os.Leśne",,2018-01-01,,background,urban,container,wielkopolskie,Koziegłowy,osiedle Leśne 22,52.44933100000001,16.999682999999997,powiat poznański,KOZIEGLOWY
+1012,WpLeszKiepur,PL0570A,"Leszno, ul. Kiepury",,2011-11-01,,background,urban,dust collector,wielkopolskie,Leszno,ul. Kiepury,51.840461,16.605044,powiat Leszno,LESZNO
+1013,WpLeszno411000,PL0465A,"Leszno, ul Paderewskiego 8",WpLeszno411000,2003-01-01,2011-10-31,background,urban,container,wielkopolskie,Leszno,ul. Paderewskiego,51.847778000000005,16.574722,powiat Leszno,LESZNO
+1015,WpLesznoOkrezna,,"Leszno, ul. Okrężna",WpLesznoOkrezna,2005-01-01,2005-12-31,background,urban,in-house,wielkopolskie,Leszno,ul. Okrężna,51.492653,16.345727,powiat lubiński,LESZNO
+1017,WpMosinaCzer,PL0798A,"Mosina, ul. Czereśniowa",,2020-11-16,,background,urban,container,wielkopolskie,Mosina,ul. Czereśniowa,52.241136,16.864936,powiat poznański,MOSINA
+1018,WpNoTomSzpit,PL0571A,"Nowy Tomyśl, ul. Sienkiewicza",,2012-01-01,,background,urban,dust collector,wielkopolskie,Nowy Tomyśl,ul. Szpitalna,52.316728000000005,16.141903,powiat nowotomyski,NOWY TOMYSL
+1023,WpOpatowek,,Opatówek,WpOpatowek,2005-01-01,2005-12-31,background,urban,in-house,wielkopolskie,Opatówek,,51.442521,18.125621,powiat ostrzeszowski,OPATOWEK
+1025,WpOstWieWyso,PL0179A,"Ostrów Wielkopolski, ul. Wysocka",,2004-09-03,,background,urban,dust collector,wielkopolskie,Ostrów Wielkopolski,ul. Wysocka 57,51.637575,17.823156,powiat ostrowski,OSTROW WIELKOPOLSKI
+1026,WpPiaskiKrzy,PL0247A,"Piaski, Krzyżówka",,2005-01-01,,background,nonurban,container,wielkopolskie,Krzyżówka,Piaski 10,52.501389,17.773464,powiat gnieźnieński,KRZYZOWKA
+1028,WpPilaKusoci,PL0468A,"Pila, ul. Kusocińskiego",,2003-01-01,,background,urban,container,wielkopolskie,Piła,ul. Kusocińskiego,53.154408,16.759572,powiat pilski,PILA
+1029,WpPleszAlMic,PL0624A,"Pleszew, Al. Mickiewicza",,2014-11-24,,background,urban,dust collector,wielkopolskie,Pleszew,al. Mickiewicza,51.884922,17.791106,powiat pleszewski,PLESZEW
+1037,WpPoznanPM10szpital,PL0180A,"Poznan, ul. 28czerwca1956",WpPoznanPM10szpital,2004-04-01,2009-12-31,background,urban,NO DATA,wielkopolskie,Poznań,ul. 28 Czerwca 1956 135/147,52.389444,16.920833,powiat Poznań,POZNAN
+1038,WpPoznChwial,PL0572A,"Poznan, ul. Chwialkowskiego",WpPoznanPOSIRPM10/11,2012-01-01,,background,urban,dust collector,wielkopolskie,Poznań,ul. Chwiałkowskiego,52.392967,16.928428,powiat Poznań,POZNAN
+1039,WpPoznDabrow,PL0245A,"Poznań, ul. Dąbrowskiego",,2005-01-01,,background,urban,container,wielkopolskie,Poznań,ul. Dąbrowskiego 169,52.420319,16.877289,powiat Poznań,POZNAN
+1040,WpPoznPolank,PL0244A,"Poznań, ul. Polanka",,2005-01-01,2022-07-29,background,urban,container,wielkopolskie,Poznań,ul. Polanka,52.398175,16.959519,powiat Poznań,POZNAN
+1041,WpPoznRatajeMOB,PL0713A,Poznań - RatajeMOB,WpPoznRatajeMOB,2019-01-01,2021-02-28,background,urban,mobile,wielkopolskie,Poznań,Żelazna,52.391728,16.998578,powiat Poznań,POZNAN
+1042,WpPoznSpycha,PL0572A,"Poznań, ul. Spychalskiego",,2012-01-01,,background,urban,dust collector,wielkopolskie,Poznań,ul. Spychalskiego,52.392967,16.928428,powiat Poznań,POZNAN
+1043,WpPoznSzyman,PL0181A,"Poznań, ul. Szymanowskiego",,2004-04-01,,background,urban,dust collector,wielkopolskie,Poznań,ul. Szymanowskiego 17,52.459192,16.9062,powiat Poznań,POZNAN
+1046,WpSwarzedz63224,,"Swarzędz, ul. A.Mickiewicza 1",WpSwarzedz63224,2003-01-01,2005-12-31,background,urban,in-house,wielkopolskie,Swarzędz,ul. A.Mickiewicza,52.244133000000005,17.044071,powiat poznański,SWARZEDZ
+1047,WpSzamotKollMOB,PL0801A,"Szamotuły, ul. Kołłątaja",,2021-03-01,,background,urban,mobile,wielkopolskie,Szamotuły,ul. Kołłątaja,52.612277,16.58815,powiat szamotulski,SZAMOTULY
+1049,WpTarPodZach,PL0532A,"Tarnowo Podgórne, ul. Zachodnia",,2010-01-01,2022-08-10,background,suburban,dust collector,wielkopolskie,Tarnowo Podgórne,ul. Zachodnia,52.467407,16.645903,powiat poznański,TARNOWO PODGORNE
+1052,WpWagrowLipo,PL0533A,"Wągrowiec, ul. Lipowa",,2010-01-01,,background,urban,dust collector,wielkopolskie,Wągrowiec,ul. Lipowa,52.815539,17.208060999999997,powiat wągrowiecki,WAGROWIEC
+1053,WpWKP003,PL0246A,WKPMscigniew,WpWKP003,2005-01-01,2010-10-31,background,nonurban,container,wielkopolskie,Mścigniew,,51.894722,16.296944,powiat leszczyński,MSCIGNIEW
+1055,WpWKP009,,WKPPiotrkowice09,WpWKP009,2009-01-01,2014-01-01,background,nonurban,container,wielkopolskie,Piotrkowice,,52.353806,18.345576,powiat koniński,PIOTRKOWICE
+1056,WpWKP010,,WpWKPAdamów10,WpWKP010,2009-01-01,2014-12-18,background,nonurban,container,wielkopolskie,Adamów,,52.153849,18.362573,powiat koniński,ADAMOW
+1058,ZpGolGoleniowWSSE,,Goleniów,ZpGolGoleniowWSSE,1992-01-01,2005-01-01,background,urban,in-house,zachodniopomorskie,Goleniów,ul. Pocztowa 36,53.5635,14.833255,powiat goleniowski,GOLENIOW
+1059,ZpGryfGryfinoDO,PL0469A,Gryfino,ZpGryfGryfinoDO,2004-01-01,2012-01-01,background,urban,container,zachodniopomorskie,Gryfino,ul. Słowackiego,53.248333,14.493610999999998,powiat gryfiński,GRYFINO
+1060,ZpGryficeWSSE,,Gryfice,ZpGryficeWSSE,1992-01-01,2003-12-31,background,urban,in-house,zachodniopomorskie,Gryfice,ul. 11 Listopada,53.91257,15.1929,powiat gryficki,GRYFICE
+1061,ZpGryfinoWSSE,,Gryfino_Flisacza,ZpGryfinoWSSE,1992-01-01,2003-12-31,background,urban,in-house,zachodniopomorskie,Gryfino,ul. Flisacza 6,53.26189599999999,14.493203,powiat gryfiński,GRYFINO
+1062,ZpGryfMarwiceDO,PL0314A,Marwice,ZpGryfMarwiceDO,2008-01-01,2012-01-01,background,nonurban,container,zachodniopomorskie,Marwice,,53.165,14.413889,powiat gryfiński,MARWICE
+1063,ZpGryfStokiDO,PL0470A,Stoki,ZpGryfStokiDO,2004-01-01,2012-01-01,background,nonurban,container,zachodniopomorskie,Stoki,,52.946944,14.342222,powiat gryfiński,STOKI
+1064,ZpKamKamienPWSSE,PL0471A,Kamień Pomorski,ZpKamKamienPWSSE,1992-01-01,2010-01-01,background,urban,in-house,zachodniopomorskie,Kamień Pomorski,ul. Wolińska 7,53.96189,14.77514,powiat kamieński,KAMIEN POMORSKI
+1065,ZpKolKasprowMOB,PL0802A,Kołobrzeg_KasprowiczaMOB,,2021-01-12,2021-12-21,background,urban,mobile,zachodniopomorskie,Kołobrzeg,ul. Jana Kasprowicza,54.182603,15.579935999999998,powiat kołobrzeski,KOLOBRZEG
+1066,ZpKolKolobrzegWSSE,PL0472A,KołobrzegWSSE,ZpKolKolobrzegWSSE,2004-02-24,2010-01-01,background,urban,in-house,zachodniopomorskie,Kołobrzeg,ul. Zdrojowa 3,54.183299,15.568399,powiat kołobrzeski,KOLOBRZEG
+1067,ZpKolobrzegWSSE_1,,KołobrzegWSSE_1,ZpKolobrzegWSSE_1,1992-01-01,2003-09-18,background,urban,in-house,zachodniopomorskie,Kołobrzeg,ul. Rodziewiczówny 13a,54.184861,15.562999,powiat kołobrzeski,KOLOBRZEG
+1068,ZpKolobrzegWSSE_2,,KołobrzegWar,ZpKolobrzegWSSE_2,1992-01-01,2003-12-31,background,urban,in-house,zachodniopomorskie,Kołobrzeg,ul. Waryńskiego,54.180105000000005,15.572321,powiat kołobrzeski,KOLOBRZEG
+1069,ZpKolZolkiew,PL0702A,"Kołobrzeg, ul. Żółkiewskiego",,2018-01-01,,background,urban,dust collector,zachodniopomorskie,Kołobrzeg,ul. Żółkiewskiego,54.179324,15.596342000000002,powiat kołobrzeski,KOLOBRZEG
+1070,ZpKoszalinWSSE,PL0299A,Koszalin_Żwirowa,ZpKoszalinWSSE,2004-01-01,2010-01-01,background,urban,in-house,zachodniopomorskie,Koszalin,ul. Zwycięstwa 136,54.19025799999999,16.196066000000002,powiat Koszalin,KOSZALIN
+1071,ZpKoszArKraj,PL0298A,"Koszalin, ul. Armii Krajowej",,2006-10-05,,communication,urban,container,zachodniopomorskie,Koszalin,ul. Armii Krajowej,54.193986,16.172544,powiat Koszalin,KOSZALIN
+1072,ZpKoszChopin,PL0756A,"Koszalin, ul. Chopina",,2019-01-01,,background,urban,container,zachodniopomorskie,Koszalin,ul. Chopina 42,54.194114,16.211672,powiat Koszalin,KOSZALIN
+1073,ZpKoszSpasow,PL0500A,"Koszalin, ul. Spasowskiego",,2009-12-22,,background,urban,dust collector,zachodniopomorskie,Koszalin,ul. Spasowskiego 2f,54.207151,16.193236,powiat Koszalin,KOSZALIN
+1074,ZpKoszWSSEMors,,KoszalinMorska,ZpKoszWSSEMors,1992-01-01,2004-01-01,background,urban,in-house,zachodniopomorskie,Koszalin,ul. Morska 43,54.199585,16.162706,powiat Koszalin,KOSZALIN
+1075,ZpKoszWSSEMtCas,,KoszalinMonteCasino,ZpKoszWSSEMtCas,1992-01-01,2003-10-31,background,urban,in-house,zachodniopomorskie,Koszalin,ul. Monte Casino 9,54.197191,16.188195,powiat Koszalin,KOSZALIN
+1076,ZpMysDebnoWSSE,,Dębno,ZpMysDebnoWSSE,1992-01-01,2007-01-01,background,urban,in-house,zachodniopomorskie,Dębno,ul. Gorzowska 3,52.740653,14.713149,powiat myśliborski,DEBNO
+1077,ZpMyslMWSSE,,Myślibórz_Rynek,ZpMyslMWSSE,1992-01-01,2003-12-31,background,urban,in-house,zachodniopomorskie,Myślibórz,ul. Rynek im. Jana Pawła II 1,52.924613,14.865751,powiat myśliborski,MYSLIBORZ
+1078,ZpMyslZaBram,PL0534A,"Myślibórz, ul. Za Bramką",,2010-04-20,,background,urban,dust collector,zachodniopomorskie,Myślibórz,ul. Za Bramką 8,52.926283,14.862809,powiat myśliborski,MYSLIBORZ
+1079,ZpMysMysliborzWSSE,,Myślibórz,ZpMysMysliborzWSSE,2004-01-01,2007-01-01,communication,urban,in-house,zachodniopomorskie,Myślibórz,ul. Piłsudskiego 12,52.916003,14.857194,powiat myśliborski,MYSLIBORZ
+1080,ZpPolczSolanMOB,PL0774A,Uzdrowisko_Połczyn-Zdrój,ZpPolczSolanMOB,2020-01-07,2020-12-31,background,urban,mobile,zachodniopomorskie,Połczyn-Zdrój,ul. Solankowa 8,53.755652000000005,16.089278,powiat świdwiński,POLCZYN-ZDROJ
+1081,ZpPolczynZdrWSSE,,Połczyn,ZpPolczynZdrWSSE,1992-01-01,2003-09-27,background,urban,in-house,zachodniopomorskie,Połczyn-Zdrój,ul. Solankowa,53.766389,16.0975,powiat świdwiński,POLCZYN-ZDROJ
+1082,ZpPolPoliceWSSE,,Police,ZpPolPoliceWSSE,1992-01-01,2007-01-01,background,urban,in-house,zachodniopomorskie,Police,ul. Siedlecka 2,53.546878,14.561364,powiat policki,POLICE
+1083,ZpStarLipnikDO,PL0473A,Lipnik,ZpStarLipnikDO,2004-01-01,2012-01-01,background,nonurban,container,zachodniopomorskie,Lipnik,,53.341667,14.963889000000002,powiat stargardzki,LIPNIK
+1084,ZpStarStargardWSSE,PL0474A,Stargard Szczeciński,ZpStarStargardWSSE,1992-01-01,2010-01-01,communication,urban,in-house,zachodniopomorskie,Stargard Szczeciński,ul. Czarnieckiego 34,53.337415,15.039209,powiat stargardzki,STARGARD SZCZECINSKI
+1085,ZpSwinoujscieWSSE,PL0475A,Świnoujście,ZpSwinoujscieWSSE,1992-01-01,2009-06-29,background,urban,container,zachodniopomorskie,Świnoujście,ul. Żeromskiego 27,53.921851,14.23995,powiat Świnoujście,SWINOUJSCIE
+1086,ZpSzcStorkowoDO,PL0313A,Storkowo,ZpSzcStorkowoDO,2008-01-01,2012-01-01,background,nonurban,container,zachodniopomorskie,Storkowo,ul. Storkowo,53.779722,16.497222,powiat szczecinecki,STORKOWO
+1087,ZpSzcSzczecinek009,PL0536A,Szczecinek_Artyleryjska,ZpSzcSzczecinek009,2010-01-01,2015-01-01,background,urban,dust collector,zachodniopomorskie,Szczecinek,ul. Artyleryjska 9,53.701978,16.707069,powiat szczecinecki,SZCZECINEK
+1088,ZpSzcSzczecinekPSSE,PL0300A,Szczecinek_PSSE,ZpSzcSzczecinekPSSE,2007-01-01,2010-01-01,background,urban,container,zachodniopomorskie,Szczecinek,ul. Artyleryjska 9,53.701978,16.706069,powiat szczecinecki,SZCZECINEK
+1089,ZpSzcSzczecinekWSSE,,Szczecinek,ZpSzcSzczecinekWSSE,1992-01-01,2005-01-01,background,urban,in-house,zachodniopomorskie,Szczecinek,ul. 28 Lutego,53.700083,16.701065,powiat szczecinecki,SZCZECINEK
+1090,ZpSzczAndr01,PL0248A,Szczecin_Andrzejewskiego,ZpSzczecin001,2004-12-31,,background,urban,container,zachodniopomorskie,Szczecin,ul. Andrzejewskiego 23,53.380975,14.663347,powiat Szczecin,SZCZECIN
+1091,ZpSzczAndrze,PL0248A,"Szczecin, ul. Andrzejewskiego",,2004-12-31,,background,urban,container,zachodniopomorskie,Szczecin,ul. Andrzejewskiego 23,53.380975,14.663347,powiat Szczecin,SZCZECIN
+1092,ZpSzczBudzWosMOB,PL0715A,Szczecin_Budzysza Wosia,ZpSzczBudzWosMOB,2019-03-04,2020-01-02,background,urban,mobile,zachodniopomorskie,Szczecin,Budzysza Wosia,53.446761,14.507294,powiat Szczecin,SZCZECIN
+1093,ZpSzczec1Maj,PL0535A,"Szczecinek, ul. 1 Maja",,2009-12-11,,background,urban,dust collector,zachodniopomorskie,Szczecinek,ul. 1 Maja 22,53.712114,16.692517000000002,powiat szczecinecki,SZCZECINEK
+1094,ZpSzczecinDO,PL0486A,Szczecin_Żółkiewskiego,ZpSzczecinDO,2009-01-01,2012-01-01,communication,urban,container,zachodniopomorskie,Szczecin,ul. Żółkiewskiego 12a,53.428815,14.532333,powiat Szczecin,SZCZECIN
+1095,ZpSzczecinLukasza,,Szczecin_Łukasza,ZpSzczecinLukasza,2002-12-31,2005-01-01,background,urban,container,zachodniopomorskie,Szczecin,ul. Św. Łukasza 7,53.443477,14.552232,powiat Szczecin,SZCZECIN
+1096,ZpSzczecinWSSE,PL0183A,Szczecin_WojskaPolskiego,ZpSzczecinWSSE,1992-01-01,2010-01-01,background,urban,container,zachodniopomorskie,Szczecin,ul. Wincentego Pola 6,53.45078,14.514745,powiat Szczecin,SZCZECIN
+1097,ZpSzczecPrze,PL0574A,"Szczecinek, ul. Przemysłowa",,2011-01-01,,industrial,urban,container,zachodniopomorskie,Szczecinek,ul. Przemysłowa 5,53.698902,16.704556,powiat szczecinecki,SZCZECINEK
+1098,ZpSzczLacz04,PL0251A,Szczecin_Łączna,ZpSzczecin004,2004-12-31,2018-12-31,background,suburban,container,zachodniopomorskie,Szczecin,ul. Łączna,53.470889,14.55625,powiat Szczecin,SZCZECIN
+1099,ZpSzczPils02,PL0249A,Szczecin_Piłsudskiego,ZpSzczecin002,2004-12-31,,communication,urban,container,zachodniopomorskie,Szczecin,ul. Piłsudskiego 1,53.432169,14.5539,powiat Szczecin,SZCZECIN
+1100,ZpSzczPilsud,PL0249A,"Szczecin, ul. Piłsudskiego",,2004-12-31,,communication,urban,container,zachodniopomorskie,Szczecin,ul. Piłsudskiego 1,53.432169,14.5539,powiat Szczecin,SZCZECIN
+1101,ZpSzczWSSEEnerg,,Energetyków,ZpSzczWSSEEnerg,1992-01-01,2003-12-31,communication,urban,in-house,zachodniopomorskie,Szczecin,ul. Energetyków 2,53.420475,14.561934,powiat Szczecin,SZCZECIN
+1102,ZpSzczWSSESped6,,Spedytorska,ZpSzczWSSESped6,1992-01-01,2004-01-01,background,urban,container,zachodniopomorskie,Szczecin,ul. Spedytorska 6,53.415043,14.555347,powiat Szczecin,SZCZECIN
+1103,ZpWalWalczWSSE,,Wałcz,ZpWalWalczWSSE,1992-01-01,2005-01-01,background,urban,in-house,zachodniopomorskie,Wałcz,ul. Bydgoska 86,53.263667000000005,16.492596,powiat wałecki,WALCZ
+1104,ZpWiduBulRyb,PL0182A,Widuchowa,,2003-01-01,,background,nonurban,container,zachodniopomorskie,Widuchowa,ul. Bulwary Rybackie 1,53.122325,14.382245,powiat gryfiński,WIDUCHOWA

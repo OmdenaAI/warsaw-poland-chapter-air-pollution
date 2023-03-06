@@ -1,0 +1,45 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  PP1,Sea level pressure at 12 UT                                                                                                                           ,0.1 hPa        
+  PP2,Mean sea level pressure, 0-0 UT                                                                                                                       ,0.1 hPa        
+  PP3,Mean sea level pressure calculated as weighted average of observations at 00, 06, 12 and 18 UT (4 values)                                             ,0.1 hPa        
+  PP4,Sea level pressure at 06 UT                                                                                                                           ,0.1 hPa        
+  PP5,Sea level pressure, mean of 13, 20 UT previous day and 7 UT current day (shifted 1 day back by ECA staff)                                             ,0.1 hPa        
+  PP7,Mean sea level pressure calculated as weighted average of observations at 00, 07, 13 and 18 UT (4 values)                                             ,0.1 hPa        
+  PP8,Mean sea level pressure unknown interval                                                                                                              ,0.1 hPa        
+  PP9,Sea level pressure, mean of 06, 13 and 20 UTC of the current day                                                                                      ,0.1 hPa        
+ PP10,Sea level pressure, mean of 7:30, 14:30 and 21:30 CET                                                                                                 ,0.1 hPa        
+ PP11,Sea level pressure, mean 18-18 UT                                                                                                                     ,0.1 hPa        
+ PP12,Sea level pressure, mean of 8:00 and 13:00 local time                                                                                                 ,0.1 hPa        
+ PP13,Mean sea level pressure, 21-21 UTC (8 values)                                                                                                         ,0.1 hPa        
+ PP14,Mean sea level pressure, 23-22 UTC (24 values)                                                                                                        ,0.1 hPa        
+ PP15,Mean sea level pressure, mean of 7, 13, 20 UT current day                                                                                             ,0.1 hPa        
+ PP16,Mean sea level pressure, mean of daily minimum and maximum pressure                                                                                   ,0.1 hPa        
+ PP17,Mean sea level pressure, average of 7, 14 and 19 UT                                                                                                   ,0.1 hPa        
+ PP18,Mean sea level pressure, average of 6, 12 and 18 UT                                                                                                   ,0.1 hPa        
+ PP19,Mean sea level pressure calculated as average of 8 observations                                                                                       ,0.1 hPa        
+ PP20,Mean sea level pressure, mean of 7, 14, 21 UT current day                                                                                             ,0.1 hPa        
+ PP21,Mean sea level pressure calculated as average of observations at 07, 13 and 18 UT (3 values)                                                          ,0.1 hPa        
+ PP22,Sea level pressure at 9 AM LT                                                                                                                         ,0.1 hPa        
+ PP23,Mean sea level pressure, 0-0 UTC (8 values)                                                                                                           ,0.1 hPa        
+ PP24,Mean sea level pressure, mean of 9, 15, 21 LT                                                                                                         ,0.1 hPa        
+ PP25,Mean sea level pressure, mean of 8, 14, 19 LT                                                                                                         ,0.1 hPa        
+ PP26,Mean sea level pressure, mean of 21, 03, 09 and 15UTC                                                                                                 ,0.1 hPa        
+ PP27,Mean sea level pressure, mean of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                                 ,0.1 hPa        
+ PP28,Mean sea level pressure, average of 7, 14 and 19 CET                                                                                                  ,0.1 hPa        
+ PP29,Mean sea level pressure 0 - 0 local time (with changes to winter and summer time)                                                                     ,0.1 hPa        
+ PP30,Mean sea level pressure  0 - 0 UT average from 96 15 min. values                                                                                      ,0.1 hPa        

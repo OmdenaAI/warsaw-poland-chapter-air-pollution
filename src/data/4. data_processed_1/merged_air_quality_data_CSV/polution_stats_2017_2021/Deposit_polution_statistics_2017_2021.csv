@@ -1,0 +1,166 @@
+Year,Voivodeship,Zone code,Zone name,Station code,Indicator,Averaging Time,Mean [µg/m2/day],Min [µg/m2/day],Max [µg/m2/day],Number of measurements,Completeness [%]
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,As(cdepoz),1m,2.117855069,0.212354666,3.167546096,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,As(cdepoz),2t,0.579212235,0.00031,3.02857,169,46.3
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,As(cdepoz),1m,0.526369863,0.143,1.305,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaA(cdepoz),1m,0.014061163,0.00058339,0.045948573,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaA(cdepoz),2t,0.012344195,0.00091,0.04053,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaA(cdepoz),1m,0.02051632,0.002,0.11,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaP(cdepoz),1m,0.035136056,0.003510396,0.091974688,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaP(cdepoz),2t,0.012198557,0.00091,0.04074,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaP(cdepoz),1m,0.021326861,0.004,0.108,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BbF(cdepoz),1m,0.058119549,0.00163662,0.130553943,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BbF(cdepoz),2t,0.014656577,0.00144,0.04746,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BbF(cdepoz),1m,0.032468493,0.005,0.148,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BjF(cdepoz),1m,0.030970957,0.002994736,0.065061915,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BjF(cdepoz),2t,0.007135537,0.00031,0.01923,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BjF(cdepoz),1m,0.027138686,0.004,0.111,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BkF(cdepoz),1m,0.049069503,0.002669062,0.254730236,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BkF(cdepoz),2t,0.007627081,0.00079,0.02583,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BkF(cdepoz),1m,0.015844371,0.002,0.063,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(cdepoz),1m,0.188266811,0.034031095,0.460425253,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(cdepoz),2t,0.039831294,0.00031,0.36343,169,46.3
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(cdepoz),1m,0.085479452,0.011,0.483,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,DBahA(cdepoz),1m,0.014525324,0.003422556,0.027699343,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,DBahA(cdepoz),2t,0.000924799,3e-05,0.00234,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,DBahA(cdepoz),1m,0.004309623,0,0.015,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(cdepoz),1m,0.007847619,0,0.023768451,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(cdepoz),2t,0.050112387,0.0013,0.1341,154,42.19
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(cdepoz),1m,0.012272997,0.003,0.023,337,92.32
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,IP(cdepoz),1m,0.049927082,0.001940187,0.107327786,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,IP(cdepoz),2t,0.011419966,0.00061,0.03362,163,44.65
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,IP(cdepoz),1m,0.031006623,0.004,0.131,365,100
+2017,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ni(cdepoz),1m,1.350220296,0.214154282,3.494959489,365,100
+2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ni(cdepoz),2t,0.465638529,0.00122,2.1257,169,46.3
+2017,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ni(cdepoz),1m,0.973801187,0.167,2.038,337,92.32
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,As(cdepoz),1m,1.032042456,0.372556965,2.207445531,365,100
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,As(cdepoz),2t,0.40773015,0.0004,2.1143,200,54.79
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,As(cdepoz),1m,0.369748135,0.16627,0.936706,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaA(cdepoz),1m,0.008608025,0.000120351,0.032690668,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaA(cdepoz),2t,0.019599763,0.001714,0.1118,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaA(cdepoz),1m,0.006712038,0.000903,0.03299,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaP(cdepoz),1m,0.019661207,0.002795901,0.062745627,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaP(cdepoz),2t,0.020785189,0.001486,0.126612,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaP(cdepoz),1m,0.007455096,0.001504,0.022778,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BbF(cdepoz),1m,0.028067616,0.002698303,0.071475191,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BbF(cdepoz),2t,0.026108521,0.00235,0.150778,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BbF(cdepoz),1m,0.015165231,0.004133,0.063747,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BjF(cdepoz),1m,0.015415034,0.000548265,0.048013189,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BjF(cdepoz),2t,0.014930124,0.001223,0.092219,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BjF(cdepoz),1m,0.010019462,0.000954,0.049346,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BkF(cdepoz),1m,0.013260856,0.001236244,0.032911408,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BkF(cdepoz),2t,0.012849533,0.001008,0.073555,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BkF(cdepoz),1m,0.006267808,0.001615,0.026009,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(cdepoz),1m,0.17316754,0.011454596,0.505214188,365,100
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(cdepoz),2t,0.040654,0.0062,0.1057,200,54.79
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(cdepoz),1m,0.048818558,0.017238,0.22481,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,DBahA(cdepoz),1m,0.005866803,0.000436321,0.012925906,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,DBahA(cdepoz),2t,0.001586225,2.5e-05,0.00814,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,DBahA(cdepoz),1m,0.001420308,0.000318,0.007181,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(cdepoz),1m,0.006377819,0,0.012451345,365,100
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(cdepoz),2t,0.02828871,0.0011,0.0846,186,50.95
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(cdepoz),1m,0.003340654,0.001043,0.011954,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,IP(cdepoz),1m,0.027424691,0.003829294,0.061211371,302,82.73
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,IP(cdepoz),2t,0.020403953,0.001977,0.129248,169,46.3
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,IP(cdepoz),1m,0.012742577,0.002936,0.056686,364,99.72
+2018,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ni(cdepoz),1m,1.548485687,0.075636943,7.773376681,365,100
+2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ni(cdepoz),2t,0.6683704,0.06082,4.2286,200,54.79
+2018,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ni(cdepoz),1m,0.672851083,0.172381,1.49873,336,92.05
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,As(cdepoz),1m,1.222582281,0.163976516,4.682877029,331,90.68
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,As(cdepoz),2t,0.403577143,0.145,0.9929,197,53.97
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,As(cdepoz),1m,0.416776247,0.078571429,0.720552379,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaA(cdepoz),1m,0.016310504,0.002266919,0.032690668,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaA(cdepoz),2t,0.014959639,0.001568,0.109823,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaA(cdepoz),1m,0.010283159,0.000848571,0.037190607,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaP(cdepoz),1m,0.021316948,0.002126839,0.062745627,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaP(cdepoz),2t,0.013654512,0.001456,0.089159,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaP(cdepoz),1m,0.010550518,0.001529243,0.033166569,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BbF(cdepoz),1m,0.026803554,0.002843923,0.057631563,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BbF(cdepoz),2t,0.021353373,0.002928,0.144807,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BbF(cdepoz),1m,0.031419783,0.002568402,0.206679928,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BjF(cdepoz),1m,0.02646736,0.001909387,0.057114944,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BjF(cdepoz),2t,0.010429127,0.001377,0.074093,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BjF(cdepoz),1m,0.019052763,0.002028402,0.111603085,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BkF(cdepoz),1m,0.012215272,0.001586738,0.024596603,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BkF(cdepoz),2t,0.010208789,0.00104,0.0682,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BkF(cdepoz),1m,0.011269408,0.001170757,0.059353256,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(cdepoz),1m,0.140908418,0.044141395,0.389754983,331,90.68
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(cdepoz),2t,0.038272872,0.0105,0.1198,210,57.53
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(cdepoz),1m,0.021937711,0.014785714,0.037119365,335,91.78
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,DBahA(cdepoz),1m,0.003951921,0.000570615,0.011801685,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,DBahA(cdepoz),2t,0.000920831,7.3e-05,0.005539,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,DBahA(cdepoz),1m,0.002794852,0.000285881,0.013342524,328,89.86
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(cdepoz),1m,0.005166014,0.000841396,0.015325817,331,90.68
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(cdepoz),2t,0.03598046,0.0107,0.1208,210,57.53
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(cdepoz),1m,0.002871609,0.000254286,0.009116889,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,IP(cdepoz),1m,0.016417925,0.001196156,0.0562547,311,85.2
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,IP(cdepoz),2t,0.018137608,0.00101,0.145102,166,45.47
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,IP(cdepoz),1m,0.022951172,0.001946722,0.145037549,363,99.45
+2019,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ni(cdepoz),1m,1.971375845,0.183207026,7.773376681,331,90.68
+2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ni(cdepoz),2t,0.855000532,0.3429,1.9857,210,57.53
+2019,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ni(cdepoz),1m,0.813568825,0.140238094,2.085947729,335,91.78
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,As(cdepoz),1m,2.285625419,0.180153,5.181851,365,99.72
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,BaA(cdepoz),1m,0.017125525,0.002435,0.05756,303,82.78
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,BaP(cdepoz),1m,0.009674885,0.000434,0.025051,365,99.72
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,BbF(cdepoz),1m,0.013777899,0.00047,0.04045,365,99.72
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,BjF(cdepoz),1m,0.011239729,0.001841,0.020602,273,74.59
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,BkF(cdepoz),1m,0.00931459,0.001333,0.020602,332,90.71
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Cd(cdepoz),1m,0.081062764,0.009627,0.290074,365,99.72
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,DBahA(cdepoz),1m,0.005425054,0.000216,0.026633,336,91.8
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Hg(cdepoz),1m,0.004274285,0.000151,0.009516,365,99.72
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,IP(cdepoz),1m,0.008582121,0.001519,0.023549,365,99.72
+2020,dolnośląskie,PL0205,strefa dolnośląska_2,DsOsieczow21,Ni(cdepoz),1m,2.384464156,0.164488,8.634172,365,99.72
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,As(cdepoz),1m,0.31041081,0.096296296,0.571774194,336,91.8
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaA(cdepoz),1m,0.008773258,0.00026987,0.022248616,336,91.8
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaP(cdepoz),1m,0.004431152,0.000359826,0.015861,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BbF(cdepoz),1m,0.007219413,0.000652185,0.024997,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BjF(cdepoz),1m,0.003005444,0.000179913,0.010076,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BkF(cdepoz),1m,0.003435793,0.000258625,0.010558,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(cdepoz),1m,0.031658259,0.007458333,0.061751613,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,DBahA(cdepoz),1m,0.000603214,2.2489e-05,0.001482,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(cdepoz),1m,0.020807915,0.003620741,0.045989286,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,IP(cdepoz),1m,0.00463529,0.000224891,0.015717,247,67.48
+2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ni(cdepoz),1m,0.633789717,0.192592593,1.143548387,247,67.48
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,As(cdepoz),1m,0.409709967,0.092342857,0.843214286,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaA(cdepoz),1m,0.019986276,0.003017037,0.062973,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaP(cdepoz),1m,0.034398068,0.003019226,0.140718,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BbF(cdepoz),1m,0.036304546,0.005892334,0.116385,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BjF(cdepoz),1m,0.019203646,0.00194055,0.064505,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BkF(cdepoz),1m,0.013565694,0.002531071,0.04264,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(cdepoz),1m,0.042980746,0.009428571,0.100857143,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,DBahA(cdepoz),1m,0.003923475,0.000485966,0.015374,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(cdepoz),1m,0.016692672,0.004057114,0.026982857,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,IP(cdepoz),1m,0.029822634,0.003177175,0.093707,366,100
+2020,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ni(cdepoz),1m,0.788348167,0.056571429,1.508571429,366,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,As(cdepoz),1m,0.407330348,0.105995,1.276146,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaA(cdepoz),1m,0.015904287,0.000435733,0.055460782,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BaP(cdepoz),1m,0.023724321,0.000875262,0.121262806,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BbF(cdepoz),1m,0.031861122,0.000178254,0.093648998,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BjF(cdepoz),1m,0.019146168,0.000176934,0.085945782,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,BkF(cdepoz),1m,0.013253838,1.4479e-05,0.042259216,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Cd(cdepoz),1m,0.074643427,0.019119,0.226652,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,DBahA(cdepoz),1m,0.004543653,1.4479e-05,0.022841416,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Hg(cdepoz),1m,0.023300455,0.000251,0.103726,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,IP(cdepoz),1m,0.025330049,0.00016241,0.102337069,365,100
+2021,dolnośląskie,PL0204,strefa dolnośląska,DsOsieczow21,Ni(cdepoz),1m,4.461637668,0.412454,14.136156,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,As(cdepoz),1m,0.259276929,0.14137931,0.568965517,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaA(cdepoz),1m,0.006280027,0.0014448,0.017696645,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BaP(cdepoz),1m,0.005866189,0.0007052,0.017363613,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BbF(cdepoz),1m,0.00891811,0.000841667,0.026010968,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BjF(cdepoz),1m,0.004892364,0.000799259,0.013603111,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,BkF(cdepoz),1m,0.004577715,0.0009116,0.011437935,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Cd(cdepoz),1m,0.028663121,0.007068966,0.056129032,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,DBahA(cdepoz),1m,0.000569063,0.000129,0.001937926,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Hg(cdepoz),1m,0.009525126,0.003084,0.018999697,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,IP(cdepoz),1m,0.006056931,0.000944839,0.016697548,365,100
+2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,Ni(cdepoz),1m,0.626652403,0.282758621,1.771866667,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,As(cdepoz),1m,0.364964118,0.026317429,0.759949177,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaA(cdepoz),1m,0.021130583,0.003919863,0.06297318,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BaP(cdepoz),1m,0.026943954,0.00187397,0.057021412,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BbF(cdepoz),1m,0.036440754,0.00546942,0.090221503,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BjF(cdepoz),1m,0.016795968,0.003582001,0.050713922,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,BkF(cdepoz),1m,0.01450758,0.002195392,0.03387366,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Cd(cdepoz),1m,0.056032061,0.001315871,0.133677775,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,DBahA(cdepoz),1m,0.003452977,0.000418598,0.009921599,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Hg(cdepoz),1m,0.007853967,0.000169071,0.031037943,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,IP(cdepoz),1m,0.033627445,0.003791294,0.086904078,365,100
+2021,warmińsko-mazurskie,PL2803,strefa warmińsko-mazurska,WmPuszczaBor,Ni(cdepoz),1m,0.373652855,0.039476143,0.87871425,365,100

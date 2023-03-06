@@ -1,0 +1,135 @@
+STAID,STANAME,CN,LAT,LON,HGHT,county,state,Voivodeship
+24860,PSZCZYNA                                ,PL,50.0,18.91666667,261,powiat pszczyński,województwo śląskie,Silesian
+24876,JABLONKA                                ,PL,49.46666667,19.7,671,powiat nowotarski,województwo małopolskie,Lesser Poland
+24880,GUBALOWKA                               ,PL,49.3,19.93333333,856,powiat tatrzański,województwo małopolskie,Lesser Poland
+24881,WITOW                                   ,PL,49.33333333,19.83333333,844,powiat tatrzański,województwo małopolskie,Lesser Poland
+24885,LAZY                                    ,PL,49.96666667,20.5,251,powiat bocheński,województwo małopolskie,Lesser Poland
+24889,LIMANOWA                                ,PL,49.68333333,20.43333333,587,powiat limanowski,województwo małopolskie,Lesser Poland
+24891,LACKO                                   ,PL,49.55944444,20.43944444,516,powiat nowosądecki,województwo małopolskie,Lesser Poland
+24894,PIWNICZNA                               ,PL,49.43333333,20.7,684,powiat nowosądecki,województwo małopolskie,Lesser Poland
+24896,KRYNICA                                 ,PL,49.41666667,20.96666667,702,powiat nowosądecki,województwo małopolskie,Lesser Poland
+24897,BUKOWINA TATRZANSKA                     ,PL,49.35,20.11666667,848,powiat tatrzański,województwo małopolskie,Lesser Poland
+24902,PIWNICZNA                               ,PL,49.42527778,20.72305556,684,powiat nowosądecki,województwo małopolskie,Lesser Poland
+24903,PORONIN                                 ,PL,49.33027778,20.035,848,powiat tatrzański,województwo małopolskie,Lesser Poland
+24904,MSZANA DOLNA                            ,PL,49.66361111,20.05444444,537,powiat limanowski,województwo małopolskie,Lesser Poland
+24907,KRYNICA-GORA PARKOWA                    ,PL,49.41666667,20.96666667,702,powiat nowosądecki,województwo małopolskie,Lesser Poland
+24908,MSZANA DOLNA                            ,PL,49.66666667,20.08333333,537,powiat limanowski,województwo małopolskie,Lesser Poland
+24909,ZBYSZYCE                                ,PL,49.7,20.66666667,302,powiat nowosądecki,województwo małopolskie,Lesser Poland
+24911,BOCHNIA                                 ,PL,49.98333333,20.4,255,powiat bocheński,województwo małopolskie,Lesser Poland
+24918,DYNOW                                   ,PL,49.83333333,22.23333333,284,powiat rzeszowski,województwo podkarpackie,Lesser Poland
+24921,SOLINA-JAWOR                            ,PL,49.4,22.46666667,441,powiat leski,województwo podkarpackie,Lesser Poland
+24922,KOMANCZA                                ,PL,49.33333333,22.06666667,569,powiat sanocki,województwo podkarpackie,Lesser Poland
+24932,KARPACZ                                 ,PL,50.78333333,15.78333333,958,powiat karkonoski,województwo dolnośląskie,Lesser Poland
+24952,KOCHCICE                                ,PL,50.71666667,18.68333333,257,powiat lubliniecki,województwo śląskie,Silesian
+24956,DRONIOWICE                              ,PL,50.69611111,18.80888889,284,powiat lubliniecki,województwo śląskie,Silesian
+24958,LUBLINIEC                               ,PL,50.68333333,18.7,266,powiat lubliniecki,województwo śląskie,Silesian
+24972,BORUSOWA                                ,PL,50.28333333,20.8,176,powiat dąbrowski,województwo małopolskie,Lesser Poland
+24974,WIELICZKA                               ,PL,50.0,20.05,218,powiat wielicki,województwo małopolskie,Lesser Poland
+24977,STASZOW                                 ,PL,50.6,21.18333333,249,powiat staszowski,województwo świętokrzyskie,
+24978,CHORZELOW                               ,PL,50.35,21.45,161,powiat mielecki,województwo podkarpackie,Lesser Poland
+24991,NOWY LUBLINIEC                          ,PL,50.26666667,23.1,231,powiat lubaczowski,województwo podkarpackie,Lesser Poland
+24992,CIESZANOW                               ,PL,50.23361111,23.11805556,231,powiat lubaczowski,województwo podkarpackie,Lesser Poland
+24993,LUBACZOW                                ,PL,50.15,23.13333333,227,powiat lubaczowski,województwo podkarpackie,Lesser Poland
+25004,ZYBISZOW                                ,PL,51.06666667,16.91666667,121,powiat wrocławski,województwo dolnośląskie,Lesser Poland
+25012,PUCZNIEW                                ,PL,51.78333333,19.08333333,148,powiat pabianicki,województwo łódzkie,Lower Silesian 
+25015,SKIERNIEWICE                            ,PL,51.96666667,20.16666667,130,Powiat skierniewicki,województwo łódzkie,Lower Silesian 
+25018,JARCZEW                                 ,PL,51.81666667,21.98333333,181,powiat łukowski,województwo lubelskie,Lublin
+25031,GORZYN                                  ,PL,52.56666667,15.9,79,powiat międzychodzki,województwo wielkopolskie,Greater Poland
+25038,WIELICHOWO                              ,PL,52.11666667,16.35,72,powiat grodziski,województwo wielkopolskie,Greater Poland
+25044,KOLUDA WIELKA                           ,PL,52.73333333,18.15,76,powiat inowrocławski,województwo kujawsko-pomorskie,Kuyavian-Pomeranian
+25052,LEGIONOWO                               ,PL,52.4,20.96666667,71,powiat legionowski,województwo mazowieckie,Masovian
+25053,WARSZAWA-BIELANY                        ,PL,52.28333333,20.96666667,91,Warszawa,województwo mazowieckie,Masovian
+25054,WARSZAWA-FILTRY                         ,PL,52.21944444,20.99916667,91,Warszawa,województwo mazowieckie,Masovian
+25060,PULTUSK                                 ,PL,52.06777778,21.00166667,109,powiat piaseczyński,województwo mazowieckie,Masovian
+25064,SZEPIETOWO                              ,PL,52.85,22.55,152,powiat wysokomazowiecki,województwo podlaskie,Podlaskie
+25066,BIALOWIEZA                              ,PL,52.7,23.85,170,powiat hajnowski,województwo podlaskie,Podlaskie
+25076,NOWA WIES UJSKA                         ,PL,53.03333333,16.75,74,powiat pilski,województwo wielkopolskie,Greater Poland
+25095,BIEBRZA-PIENCZYKOWEK                    ,PL,53.65,22.6,128,powiat grajewski,województwo podlaskie,Podlaskie
+25101,ROZANYSTOK                              ,PL,53.63333333,23.4,152,powiat sokólski,województwo podlaskie,Podlaskie
+25115,GDANSK-REBIECHOWO                       ,PL,54.38333333,18.46666667,145,Gdańsk County,województwo pomorskie,Pomeranian
+25116,GDANSK-SWIBNO                           ,PL,54.33333333,18.93333333,0,Gdańsk County,województwo pomorskie,Pomeranian
+25122,LIDZBARK WARMINSKI                      ,PL,54.13333333,20.6,99,powiat lidzbarski,województwo warmińsko-mazurskie,Warmian-Masurian
+25125,OLECKO                                  ,PL,54.05,22.48333333,173,powiat olecki,województwo warmińsko-mazurskie,Warmian-Masurian
+25126,KASPROWY WIERCH                         ,PL,49.2325,19.98194444,1348,powiat tatrzański,województwo małopolskie,Lesser Poland
+25128,JELENIA GORA                            ,PL,50.90027778,15.78888889,427,Jelenia Góra County,województwo dolnośląskie,Lesser Poland
+25129,SNIEZKA                                 ,PL,50.73611111,15.73944444,958,powiat karkonoski,województwo dolnośląskie,Lesser Poland
+25130,OPOLE                                   ,PL,50.62694444,17.96888889,163,Chełm County,województwo opolskie,Opolskie
+25131,CZOSTOCHOWA                             ,PL,50.8125,19.0925,266,Częstochowa,województwo śląskie,Silesian
+25132,KATOWICE-MUCHOWIEC                      ,PL,50.24055556,19.03277778,281,Katowice,województwo śląskie,Silesian
+25133,KRAKOW-BALICE                           ,PL,50.08027778,19.80194444,234,powiat krakowski,województwo małopolskie,Lesser Poland
+25134,TARNOW                                  ,PL,50.03,20.98444444,207,Powiat dąbrowski,województwo małopolskie,Lesser Poland
+25135,SANDOMIERZ                              ,PL,50.69666667,21.71583333,143,powiat sandomierski,województwo świętokrzyskie,
+25136,ZAMOSC                                  ,PL,50.69777778,23.20638889,258,powiat zamojski,województwo lubelskie,Lublin
+25138,LEGNICA                                 ,PL,51.1925,16.2075,134,powiat legnicki,województwo dolnośląskie,Lesser Poland
+25139,LUBLIN-RADAWIEC                         ,PL,51.21694444,22.39361111,228,powiat lubelski,województwo lubelskie,Lublin
+25140,KOLO                                    ,PL,52.20027778,18.66138889,113,powiat kolski,województwo wielkopolskie,Greater Poland
+25141,PLOCK                                   ,PL,52.58833333,19.72583333,87,powiat płocki,województwo mazowieckie,Masovian
+25142,RESKO-SMOLSKO                           ,PL,53.77166667,15.41472222,66,powiat łobeski,województwo zachodniopomorskie,West Pomeranian 
+25145,MIKOLAJKI                               ,PL,53.78944444,21.58861111,144,powiat mrągowski,województwo warmińsko-mazurskie,Warmian-Masurian
+25147,KOLOBRZEG-DZWIRZYNO                     ,PL,54.15833333,15.38888889,1,powiat kołobrzeski,województwo zachodniopomorskie,West Pomeranian 
+25148,USTKA                                   ,PL,54.58833333,16.85416667,18,powiat słupski,województwo pomorskie,Pomeranian
+25149,LEBORK                                  ,PL,54.55305556,17.72361111,45,powiat lęborski,województwo pomorskie,Pomeranian
+25150,GDANSK-REBIECHOWO_OLD                   ,PL,54.38333333,18.46666667,145,Gdańsk County,województwo pomorskie,Pomeranian
+25151,ELBLAG-MILEJEWO                         ,PL,54.22305556,19.54361111,151,powiat elbląski,województwo warmińsko-mazurskie,Warmian-Masurian
+25152,WARSZAWA-OBSERWATORIUM II               ,PL,52.21666667,21.03333333,110,Warszawa,województwo mazowieckie,Masovian
+2022,KOSZALIN                                ,PL,54.20444444,16.15527778,33,Koszalin,województwo zachodniopomorskie,West Pomeranian 
+8943,PILA                                    ,PL,53.13,16.75,72,powiat pilski,województwo wielkopolskie,Greater Poland
+2023,KETRZYN                                 ,PL,54.07,21.37,108,powiat kętrzyński,województwo warmińsko-mazurskie,Warmian-Masurian
+8959,KOZIENCE                                ,PL,51.56472222,21.54277778,123,powiat kozienicki,województwo mazowieckie,Masovian
+25156,KROSNO                                  ,PL,49.70694444,21.76916667,326,Powiat krośnieński,województwo podkarpackie,Lesser Poland
+9161,KROSCIENKO                              ,PL,49.45,20.43,452,powiat nowotarski,województwo małopolskie,Lesser Poland
+8969,KROSNO                                  ,PL,49.72,21.77,326,powiat krośnieński,województwo podkarpackie,Lesser Poland
+9113,KRAKOW OBS. ASTRONOMICZNE               ,PL,50.07,19.97,206,Kraków,województwo małopolskie,Lesser Poland
+1207,PULAWY                                  ,PL,51.41666667,21.96666667,142,powiat puławski,województwo lubelskie,Lublin
+9040,WARSZAWA OBS.ASTR.                      ,PL,52.22,21.03,110,Warszawa,województwo mazowieckie,Masovian
+930,BIELSKO-BIALA                           ,PL,49.80722222,19.00027778,396,Bielsko-Biała County,województwo śląskie,Silesian
+1383,ZAKOPANE                                ,PL,49.3,19.95,857,powiat tatrzański,województwo małopolskie,Lesser Poland
+932,NOWY SACZ                               ,PL,49.62722222,20.68861111,292,Powiat skierniewicki,województwo małopolskie,Lesser Poland
+933,LESKO                                   ,PL,49.46638889,22.34166667,420,powiat leski,województwo podkarpackie,Lesser Poland
+2036,KLODZKO                                 ,PL,50.43694444,16.61416667,356,powiat kłodzki,województwo dolnośląskie,Lesser Poland
+928,RACIBORZ                                ,PL,50.06111111,18.19083333,206,powiat raciborski,województwo śląskie,Silesian
+2038,KIELCE                                  ,PL,50.81055556,20.69222222,260,powiat kielecki,województwo świętokrzyskie,
+207,RZESZOW JASIONKA                        ,PL,50.11083333,22.04222222,206,powiat rzeszowski,województwo podkarpackie,Lesser Poland
+2031,ZIELONA GORA                            ,PL,51.93,15.52472222,192,Zielona Góra,województwo lubuskie,Lubuskie
+923,LESZNO                                  ,PL,51.83555556,16.53472222,91,powiat leszczyński,województwo wielkopolskie,Greater Poland
+210,WROCLAW                                 ,PL,51.10333333,16.9,120,Powiat wrocławski,województwo dolnośląskie,Lesser Poland
+2032,KALISZ                                  ,PL,51.73,18.08,140,Kalisz,województwo wielkopolskie,Greater Poland
+924,WIELUN                                  ,PL,51.21027778,18.55666667,199,powiat wieluński,województwo łódzkie,Lower Silesian 
+2033,LODZ                                    ,PL,51.73,19.4,187,Kłodzko County,województwo łódzkie,Lower Silesian 
+926,SULEJOW                                 ,PL,51.35333333,19.86638889,188,powiat piotrkowski,województwo łódzkie,Lower Silesian 
+927,WLODAWA                                 ,PL,51.55333333,23.52944444,177,powiat włodawski,województwo lubelskie,Lublin
+779,SLUBICE                                 ,PL,52.34861111,14.61972222,53,powiat słubicki,województwo lubuskie,Lubuskie
+2029,GORZOW WLKP                             ,PL,52.74111111,15.27722222,71,Gorzów Wielkopolski,województwo lubuskie,Lubuskie
+206,POZNAN                                  ,PL,52.19972222,18.66027778,115,powiat kolski,województwo wielkopolskie,Greater Poland
+209,WARSZAWA-OKECIE                         ,PL,52.16277778,20.96111111,107,Warszawa,województwo mazowieckie,Masovian
+333,SIEDLCE                                 ,PL,52.18111111,22.24472222,152,Powiat siedlecki,województwo mazowieckie,Masovian
+922,TERESPOL                                ,PL,52.07861111,23.62194444,133,powiat bialski,województwo lubelskie,Lublin
+696,SWINOUJSCIE                             ,PL,53.92333333,14.24222222,5,Świnoujście,województwo zachodniopomorskie,West Pomeranian 
+208,SZCZECIN                                ,PL,53.39527778,14.62277778,1,Powiat policki,województwo zachodniopomorskie,West Pomeranian 
+2026,CHOJNICE                                ,PL,53.71527778,17.5325,164,powiat chojnicki,województwo pomorskie,Pomeranian
+2027,TORUN                                   ,PL,53.04194444,18.59555556,69,Torun County,województwo kujawsko-pomorskie,Kuyavian-Pomeranian
+2028,MLAWA                                   ,PL,53.10416667,20.36111111,147,powiat mławski,województwo mazowieckie,Masovian
+752,OLSZTYN                                 ,PL,53.76861111,20.42138889,133,Powiat częstochowski,województwo warmińsko-mazurskie,Warmian-Masurian
+204,BIALYSTOK                               ,PL,53.10722222,23.16222222,148,Białystok,województwo podlaskie,Podlaskie
+332,LEBA                                    ,PL,54.75361111,17.53472222,2,powiat lęborski,województwo pomorskie,Pomeranian
+205,HEL                                     ,PL,54.60361111,18.81194444,1,powiat pucki,województwo pomorskie,Pomeranian
+396,ELBLAG                                  ,PL,54.22333333,19.54361111,189,powiat elbląski,województwo warmińsko-mazurskie,Warmian-Masurian
+2021,KOLOBRZEG                               ,PL,54.18,15.58,3,powiat kołobrzeski,województwo zachodniopomorskie,West Pomeranian 
+8945,MIKOLAJKI                               ,PL,53.78,21.58,127,powiat mrągowski,województwo warmińsko-mazurskie,Warmian-Masurian
+4108,FRANKFURT/ODER                          ,DE,52.36527778,14.53777778,48,Powiat słubicki,Brandenburg,Brandenburg
+2024,SUWALKI                                 ,PL,54.13083333,22.94888889,184,Powiat suwalski,województwo podlaskie,Podlaskie
+2037,KATOWICE                                ,PL,50.24055556,19.03277778,278,Katowice,województwo śląskie,Silesian
+929,KRAKOW                                  ,PL,50.07777778,19.795,237,powiat krakowski,województwo małopolskie,Lesser Poland
+25055,WARSZAWA-BABICE                         ,PL,52.26694444,20.90583333,91,Warszawa,województwo mazowieckie,Masovian
+23808,BABICE                                  ,PL,52.26777778,20.91083333,107,Warszawa,województwo mazowieckie,Masovian
+23829,LUBLINEK                                ,PL,51.71694444,19.4,184,Kłodzko County,województwo łódzkie,Lower Silesian 
+23864,KOLO                                    ,PL,52.2,18.66694444,117,powiat kolski,województwo wielkopolskie,Greater Poland
+8935,LEBORK                                  ,PL,54.55,17.75,38,powiat lęborski,województwo pomorskie,Pomeranian
+8934,USTKA                                   ,PL,54.58,16.87,6,powiat słupski,województwo pomorskie,Pomeranian
+8980,GDANSK-SWIBNO                           ,PL,54.33,18.93,7,Gdańsk County,województwo pomorskie,Pomeranian
+8941,RESKO                                   ,PL,53.77,15.42,52,powiat łobeski,województwo zachodniopomorskie,West Pomeranian 
+8942,SZCZECINEK                              ,PL,53.72,16.68,137,powiat szczecinecki,województwo zachodniopomorskie,West Pomeranian 
+8947,GOZOW WLKP.                             ,PL,52.75,15.28,72,Gorzów Wielkopolski,województwo lubuskie,Lubuskie
+2035,SNIEZKA                                 ,PL,50.73,15.73,1603,Královéhradecký kraj,Severovýchod,Severovýchod
+8962,OPOLE                                   ,PL,50.63,17.97,165,Chełm County,województwo opolskie,Opolskie
+25143,SZCZECINEK                              ,PL,53.71472222,16.74666667,138,powiat szczecinecki,województwo zachodniopomorskie,West Pomeranian 

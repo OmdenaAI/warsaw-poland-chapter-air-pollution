@@ -1,0 +1,130 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 30-12-2022
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  204,BIALYSTOK                               ,PL,+53:06:26,+023:09:44, 148
+  205,HEL                                     ,PL,+54:36:13,+018:48:43,   1
+  206,POZNAN                                  ,PL,+52:11:59,+018:39:37, 115
+  207,RZESZOW JASIONKA                        ,PL,+50:06:39,+022:02:32, 206
+  208,SZCZECIN                                ,PL,+53:23:43,+014:37:22,   1
+  209,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107
+  210,WROCLAW                                 ,PL,+51:06:12,+016:54:00, 120
+ 2022,KOSZALIN                                ,PL,+54:12:16,+016:09:19,  33
+  332,LEBA                                    ,PL,+54:45:13,+017:32:05,   2
+  396,ELBLAG                                  ,PL,+54:13:24,+019:32:37, 189
+ 2024,SUWALKI                                 ,PL,+54:07:51,+022:56:56, 184
+  696,SWINOUJSCIE                             ,PL,+53:55:24,+014:14:32,   5
+ 2026,CHOJNICE                                ,PL,+53:42:55,+017:31:57, 164
+ 2027,TORUN                                   ,PL,+53:02:31,+018:35:44,  69
+ 2028,MLAWA                                   ,PL,+53:06:15,+020:21:40, 147
+  752,OLSZTYN                                 ,PL,+53:46:07,+020:25:17, 133
+ 2029,GORZOW WLKP                             ,PL,+52:44:28,+015:16:38,  71
+  779,SLUBICE                                 ,PL,+52:20:55,+014:37:11,  53
+  333,SIEDLCE                                 ,PL,+52:10:52,+022:14:41, 152
+  922,TERESPOL                                ,PL,+52:04:43,+023:37:19, 133
+ 2031,ZIELONA GORA                            ,PL,+51:55:48,+015:31:29, 192
+  923,LESZNO                                  ,PL,+51:50:08,+016:32:05,  91
+  924,WIELUN                                  ,PL,+51:12:37,+018:33:24, 199
+  926,SULEJOW                                 ,PL,+51:21:12,+019:51:59, 188
+  927,WLODAWA                                 ,PL,+51:33:12,+023:31:46, 177
+ 2036,KLODZKO                                 ,PL,+50:26:13,+016:36:51, 356
+  928,RACIBORZ                                ,PL,+50:03:40,+018:11:27, 206
+ 2037,KATOWICE                                ,PL,+50:14:26,+019:01:58, 278
+ 2038,KIELCE                                  ,PL,+50:48:38,+020:41:32, 260
+  930,BIELSKO-BIALA                           ,PL,+49:48:26,+019:00:01, 396
+  932,NOWY SACZ                               ,PL,+49:37:38,+020:41:19, 292
+  933,LESKO                                   ,PL,+49:27:59,+022:20:30, 420
+  929,KRAKOW                                  ,PL,+50:04:40,+019:47:42, 237
+24860,PSZCZYNA                                ,PL,+50:00:00,+018:55:00, 261
+24876,JABLONKA                                ,PL,+49:28:00,+019:42:00, 671
+24880,GUBALOWKA                               ,PL,+49:18:00,+019:56:00, 856
+24881,WITOW                                   ,PL,+49:20:00,+019:50:00, 844
+24885,LAZY                                    ,PL,+49:58:00,+020:30:00, 251
+24889,LIMANOWA                                ,PL,+49:41:00,+020:26:00, 587
+24891,LACKO                                   ,PL,+49:33:34,+020:26:22, 516
+24894,PIWNICZNA                               ,PL,+49:26:00,+020:42:00, 684
+24896,KRYNICA                                 ,PL,+49:25:00,+020:58:00, 702
+24897,BUKOWINA TATRZANSKA                     ,PL,+49:21:00,+020:07:00, 848
+24902,PIWNICZNA                               ,PL,+49:25:31,+020:43:23, 684
+24903,PORONIN                                 ,PL,+49:19:49,+020:02:06, 848
+24904,MSZANA DOLNA                            ,PL,+49:39:49,+020:03:16, 537
+24907,KRYNICA-GORA PARKOWA                    ,PL,+49:25:00,+020:58:00, 702
+24908,MSZANA DOLNA                            ,PL,+49:40:00,+020:05:00, 537
+24909,ZBYSZYCE                                ,PL,+49:42:00,+020:40:00, 302
+24911,BOCHNIA                                 ,PL,+49:59:00,+020:24:00, 255
+24918,DYNOW                                   ,PL,+49:50:00,+022:14:00, 284
+24921,SOLINA-JAWOR                            ,PL,+49:24:00,+022:28:00, 441
+24922,KOMANCZA                                ,PL,+49:20:00,+022:04:00, 569
+24932,KARPACZ                                 ,PL,+50:47:00,+015:47:00, 958
+24952,KOCHCICE                                ,PL,+50:43:00,+018:41:00, 257
+24956,DRONIOWICE                              ,PL,+50:41:46,+018:48:32, 284
+24958,LUBLINIEC                               ,PL,+50:41:00,+018:42:00, 266
+24972,BORUSOWA                                ,PL,+50:17:00,+020:48:00, 176
+24977,STASZOW                                 ,PL,+50:36:00,+021:11:00, 249
+24978,CHORZELOW                               ,PL,+50:21:00,+021:27:00, 161
+24991,NOWY LUBLINIEC                          ,PL,+50:16:00,+023:06:00, 231
+24992,CIESZANOW                               ,PL,+50:14:01,+023:07:05, 231
+24993,LUBACZOW                                ,PL,+50:09:00,+023:08:00, 227
+25004,ZYBISZOW                                ,PL,+51:04:00,+016:55:00, 121
+25012,PUCZNIEW                                ,PL,+51:47:00,+019:05:00, 148
+25015,SKIERNIEWICE                            ,PL,+51:58:00,+020:10:00, 130
+25018,JARCZEW                                 ,PL,+51:49:00,+021:59:00, 181
+25031,GORZYN                                  ,PL,+52:34:00,+015:54:00,  79
+25038,WIELICHOWO                              ,PL,+52:07:00,+016:21:00,  72
+25044,KOLUDA WIELKA                           ,PL,+52:44:00,+018:09:00,  76
+25052,LEGIONOWO                               ,PL,+52:24:00,+020:58:00,  71
+25053,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91
+25054,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91
+25055,WARSZAWA-BABICE                         ,PL,+52:16:01,+020:54:21,  91
+25060,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109
+25064,SZEPIETOWO                              ,PL,+52:51:00,+022:33:00, 152
+25066,BIALOWIEZA                              ,PL,+52:42:00,+023:51:00, 170
+25076,NOWA WIES UJSKA                         ,PL,+53:02:00,+016:45:00,  74
+25095,BIEBRZA-PIENCZYKOWEK                    ,PL,+53:39:00,+022:36:00, 128
+25101,ROZANYSTOK                              ,PL,+53:38:00,+023:24:00, 152
+25115,GDANSK-REBIECHOWO                       ,PL,+54:23:00,+018:28:00, 145
+25116,GDANSK-SWIBNO                           ,PL,+54:20:00,+018:56:00,   0
+25122,LIDZBARK WARMINSKI                      ,PL,+54:08:00,+020:36:00,  99
+25125,OLECKO                                  ,PL,+54:03:00,+022:29:00, 173
+25126,KASPROWY WIERCH                         ,PL,+49:13:57,+019:58:55,1348
+25128,JELENIA GORA                            ,PL,+50:54:01,+015:47:20, 427
+25129,SNIEZKA                                 ,PL,+50:44:10,+015:44:22, 958
+25130,OPOLE                                   ,PL,+50:37:37,+017:58:08, 163
+25131,CZOSTOCHOWA                             ,PL,+50:48:45,+019:05:33, 266
+25132,KATOWICE-MUCHOWIEC                      ,PL,+50:14:26,+019:01:58, 281
+25133,KRAKOW-BALICE                           ,PL,+50:04:49,+019:48:07, 234
+25134,TARNOW                                  ,PL,+50:01:48,+020:59:04, 207
+25135,SANDOMIERZ                              ,PL,+50:41:48,+021:42:57, 143
+25136,ZAMOSC                                  ,PL,+50:41:52,+023:12:23, 258
+25138,LEGNICA                                 ,PL,+51:11:33,+016:12:27, 134
+25139,LUBLIN-RADAWIEC                         ,PL,+51:13:01,+022:23:37, 228
+25140,KOLO                                    ,PL,+52:12:01,+018:39:41, 113
+25141,PLOCK                                   ,PL,+52:35:18,+019:43:33,  87
+25142,RESKO-SMOLSKO                           ,PL,+53:46:18,+015:24:53,  66
+25145,MIKOLAJKI                               ,PL,+53:47:22,+021:35:19, 144
+25147,KOLOBRZEG-DZWIRZYNO                     ,PL,+54:09:30,+015:23:20,   1
+25148,USTKA                                   ,PL,+54:35:18,+016:51:15,  18
+25149,LEBORK                                  ,PL,+54:33:11,+017:43:25,  45
+25150,GDANSK-REBIECHOWO_OLD                   ,PL,+54:23:00,+018:28:00, 145
+25151,ELBLAG-MILEJEWO                         ,PL,+54:13:23,+019:32:37, 151
+25152,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110
+ 8943,PILA                                    ,PL,+53:07:48,+016:45:00,  72
+ 2023,KETRZYN                                 ,PL,+54:04:12,+021:22:12, 108
+ 8959,KOZIENCE                                ,PL,+51:33:53,+021:32:34, 123
+ 9161,KROSCIENKO                              ,PL,+49:27:00,+020:25:48, 452
+ 2032,KALISZ                                  ,PL,+51:43:48,+018:04:48, 140
