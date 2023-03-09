@@ -1,7 +1,0 @@
-Year,Voivodeship,Zone code,Zone name,Station code,Indicator,Averaging Time,Mean [µg/m3],Min [µg/m3],Max [µg/m3],Number of measurements,Completeness [%],Summer/Winter Number
-2017,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,formaldehyd,24g,3.138980638,0.4,11.42003197,89,24.38,1.02
-2018,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,formaldehyd,24g,2.561033985,0.4,16.55081329,103,28.21,1.02
-2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,formaldehyd,1g,2.677070707,0,72.06,1947,22.22,0
-2019,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,formaldehyd,24g,3.794375469,0.4,13.04136253,47,12.87,0.88
-2020,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,formaldehyd,1g,1.563221977,0,38,5433,61.85,1.69
-2021,kujawsko-pomorskie,PL0404,strefa kujawsko - pomorska,KpZielBoryTu,formaldehyd,1g,1.835999695,0,59.99577465,3878,44.26,1.19
