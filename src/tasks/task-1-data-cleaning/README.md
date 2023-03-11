@@ -8,7 +8,7 @@ The initial datasets (https://github.com/OmdenaAI/warsaw-poland-chapter-air-poll
 
 * static_annual_data (https://github.com/OmdenaAI/warsaw-poland-chapter-air-pollution/tree/main/src/data/1.%20data_raw/static_annual_data)
 
-Other datasets 
+
 
 
 
