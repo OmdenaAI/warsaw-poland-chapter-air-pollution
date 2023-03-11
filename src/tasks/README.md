@@ -9,7 +9,7 @@ Note : Please Follow the below guidelines to create task folders
 
 ### Task Table
 
-| Task No| Task Name | Details |
+| Task No| Task Name | Clean and combine data files from the provided sources and obtain three tabular datasets for (i) pollutant data, (ii) weather data, and (iii) general regional data. |
 |-|-|-|
 |1| Data Cleaning | to be filled out |
 |2| Data Preprocessing | to be filled out |
