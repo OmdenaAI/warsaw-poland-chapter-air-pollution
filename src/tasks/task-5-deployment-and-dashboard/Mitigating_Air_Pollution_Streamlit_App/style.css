@@ -1,0 +1,65 @@
+/* Code refernce from https://codepen.io/himalayasingh/pen/bxoBZZ  */
+
+.items{
+  text-align:center;
+  margin:10px auto;
+}
+.items figure{
+  margin:0px 20px;
+  display:inline-block;
+  text-decoration:none;
+  color:black;
+}
+figure img{
+  margin-bottom: -15px;
+}
+
+.CAQIimage .caption {
+  float: left;
+}
+
+#profile-upper {
+  position: relative;
+}
+
+#profile-d {
+  position: absolute;
+  left: 30px;
+  bottom: 0px;
+  right: 0px;
+  height: 180px;
+  z-index: 2;
+}
+#profile-banner-image {
+  height: 360px;
+  overflow: hidden;
+  z-index: 1;
+}
+#profile-banner-image img {
+  width: 100%;
+  margin-top: -20%;
+}
+
+#profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 3px;
+  margin-top: 10px;
+  border-radius: 10%;
+  overflow: hidden;
+  box-shadow: 0 0 0 5px #fff;
+}
+
+#profile-pic img {
+  width: 100%;
+  height: 100%;
+}
+
+#u-name {
+  position: absolute;
+  top: 25px;
+  left: 208px;
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+}
