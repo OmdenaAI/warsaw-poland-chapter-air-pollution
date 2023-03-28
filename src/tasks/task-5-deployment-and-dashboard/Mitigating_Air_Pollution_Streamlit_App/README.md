@@ -13,7 +13,7 @@ $ pip install streamlit
 $ pip install --upgrade streamlit
 ```
 
-## To run the streamlit app run the command 'streamlit run filenametorun' in the terminal in the project directory
+## To run the streamlit app run the command `streamlit run filenametorun` in the terminal in the project directory
 
 ```bash
 \Mitigating_Air_Pollution>streamlit run Project_Information.py
