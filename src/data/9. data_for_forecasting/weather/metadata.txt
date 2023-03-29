@@ -1,0 +1,21 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 29-03-2023
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+
+----------------------------------------------------------------
+209,WARSZAWA-OKECIE,POLAND,+52:09:46,+020:57:40,107 m 
+----------------------------------------------------------------
+* Land use:
+Airport area. 1-story building + tower (H=32m) 60m S. 3-story building + tower (H=40m) 100m SW. SW to N to SE airport. 200m SE to SSW bushes + trees (H<=25m). 110m and 140m SE 1-story buildings. City center, airport buildings at 1.5-3km.
+* Soil type:
+Transformed, podsol, russet
+* Surface coverage:
+Grass
+* History:
+
+

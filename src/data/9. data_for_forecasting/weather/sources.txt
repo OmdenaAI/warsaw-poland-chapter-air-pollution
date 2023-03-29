@@ -1,0 +1,184 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 29-03-2023
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 12 SOUID  : Source identifier
+ 14- 53 SOUNAME: Source name
+ 55- 56 CN     : Country code (ISO3116 country codes)
+ 58- 66 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 68- 77 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 79- 82 HGTH   : Station elevation in meters
+ 84- 87 ELEI   : Element identifier (see website at Daily Data > Data dictionary > Elements)
+ 89- 96 BEGIN  : Begin date YYYYMMDD
+ 98-105 END    : End date YYYYMMDD
+107-111 PARID  : Participant identifier
+113-163 PARNAME: Participant name
+
+STAID, SOUID,SOUNAME                                 ,CN,      LAT,       LON,HGHT,ELEI,   BEGIN,     END,PARID,PARNAME
+
+  209,239103,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, CC3,20040101,20221231,   26,Miroslaw Mietus                                   
+  209,240279,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, CC3,20020701,20221231,   26,Miroslaw Mietus                                   
+  209,240716,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, CC3,19510101,20020630,   26,Miroslaw Mietus                                   
+  209,240737,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, CC3,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, CC7,19800101,20200229,     ,                    
+25054,239103,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, CC3,20040101,20221231,   26,Miroslaw Mietus                                   
+25054,240279,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, CC3,20020701,20221231,   26,Miroslaw Mietus                                   
+25054,240716,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, CC3,19510101,20020630,   26,Miroslaw Mietus                                   
+25054,240737,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, CC3,19510101,20230131,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, CC7,19800101,20200229,     ,                    
+25060,239175,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, CC3,19510101,20221231,   26,Miroslaw Mietus                                   
+25060,240737,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, CC3,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, CC7,19800101,20200229,     ,                    
+25152,239103,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, CC3,20040101,20221231,   26,Miroslaw Mietus                                   
+25152,240279,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, CC3,20020701,20221231,   26,Miroslaw Mietus                                   
+25152,240716,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, CC3,19510101,20020630,   26,Miroslaw Mietus                                   
+25152,240737,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, CC3,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, CC7,19800101,20200229,     ,                    
+ 9040,239103,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, CC3,20040101,20221231,   26,Miroslaw Mietus                                   
+ 9040,240279,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, CC3,20020701,20221231,   26,Miroslaw Mietus                                   
+ 9040,240716,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, CC3,19510101,20020630,   26,Miroslaw Mietus                                   
+ 9040,240737,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, CC3,19510101,20230131,   26,Miroslaw Mietus                                   
+ 9040,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, CC7,19800101,20200229,     ,                    
+  209,190978,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, QQ5,19640101,20191229,   72,Anatoly V. Tsvetkov                               
+  209,240821,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, QQ6,19820510,20230131,   26,Miroslaw Mietus                                   
+  209,239173,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, HU2,19510101,20211231,   26,Miroslaw Mietus                                   
+  209,240277,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, HU2,20001101,20030522,   26,Miroslaw Mietus                                   
+  209,240632,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, HU2,19510101,20020630,   26,Miroslaw Mietus                                   
+  209,240653,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, HU2,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,239173,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, HU2,19510101,20211231,   26,Miroslaw Mietus                                   
+25060,240653,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, HU2,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,239089,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91, HU2,19510101,20221231,   26,Miroslaw Mietus                                   
+25152,240277,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, HU2,20001101,20030522,   26,Miroslaw Mietus                                   
+25152,240632,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, HU2,19510101,20020630,   26,Miroslaw Mietus                                   
+25152,240653,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, HU2,19510101,20230131,   26,Miroslaw Mietus                                   
+ 9040,239089,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91, HU2,19510101,20221231,   26,Miroslaw Mietus                                   
+ 9040,240277,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, HU2,20001101,20030522,   26,Miroslaw Mietus                                   
+ 9040,240632,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, HU2,19510101,20020630,   26,Miroslaw Mietus                                   
+ 9040,240653,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, HU2,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,100658,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TX2,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,239096,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TX2,20040101,20221231,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TX7,19820112,20200229,     ,                    
+25054,100658,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TX2,19510101,20230131,   26,Miroslaw Mietus                                   
+25054,239096,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TX2,20040101,20221231,   26,Miroslaw Mietus                                   
+25054,240272,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, TX2,20001101,20221231,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TX7,19820112,20200229,     ,                    
+25060,100658,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TX2,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,239168,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, TX2,19510101,20221231,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TX7,19820112,20200229,     ,                    
+25152,100658,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TX2,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,239096,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TX2,20040101,20221231,   26,Miroslaw Mietus                                   
+25152,240272,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, TX2,20001101,20221231,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TX7,19820112,20200229,     ,                    
+  209,100657,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TG7,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TG5,19820113,20200229,     ,                    
+25054,100657,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TG7,19510101,20230131,   26,Miroslaw Mietus                                   
+25054,239098,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TG7,20040101,20221231,   26,Miroslaw Mietus                                   
+25054,240274,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, TG7,20001101,20221231,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TG5,19820113,20200229,     ,                    
+25060,100657,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TG7,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,239170,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, TG7,19510101,20221231,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TG5,19820113,20200229,     ,                    
+25152,100657,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TG7,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,239098,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TG7,20040101,20221231,   26,Miroslaw Mietus                                   
+25152,240274,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, TG7,20001101,20221231,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TG5,19820113,20200229,     ,                    
+  209,100656,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TN2,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,239097,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TN2,20040101,20221231,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TN6,19820113,20200229,     ,                    
+25054,100656,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TN2,19510101,20230131,   26,Miroslaw Mietus                                   
+25054,239097,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TN2,20040101,20221231,   26,Miroslaw Mietus                                   
+25054,240273,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, TN2,20001101,20221231,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TN6,19820113,20200229,     ,                    
+25060,100656,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TN2,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,239169,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, TN2,19510101,20221231,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TN6,19820113,20200229,     ,                    
+25152,100656,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, TN2,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,239097,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, TN2,20040101,20221231,   26,Miroslaw Mietus                                   
+25152,240273,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, TN2,20001101,20221231,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, TN6,19820113,20200229,     ,                    
+  209,100659,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, RR9,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,239171,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, RR9,19510101,20221231,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, RR8,19820108,20200229,     ,                    
+25054,100659,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, RR9,19510101,20230131,   26,Miroslaw Mietus                                   
+25054,239087,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91, RR9,19510101,20221231,   26,Miroslaw Mietus                                   
+25054,239099,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, RR9,20040101,20221231,   26,Miroslaw Mietus                                   
+25054,240275,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, RR9,20001101,20030930,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, RR8,19820108,20200229,     ,                    
+25060,100659,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, RR9,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,239171,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, RR9,19510101,20221231,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, RR8,19820108,20200229,     ,                    
+25152,100659,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, RR9,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,239087,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91, RR9,19510101,20221231,   26,Miroslaw Mietus                                   
+25152,239099,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, RR9,20040101,20221231,   26,Miroslaw Mietus                                   
+25152,240275,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, RR9,20001101,20030930,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, RR8,19820108,20200229,     ,                    
+  209,107348,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, PP2,19660102,20230131,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106,PP11,19800101,20200229,     ,                    
+  209,239100,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, SD2,20040101,20221231,   26,Miroslaw Mietus                                   
+  209,240611,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, SD2,19510101,20230131,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, SD1,19800101,20200229,     ,                    
+25054,239100,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, SD2,20040101,20221231,   26,Miroslaw Mietus                                   
+25054,240276,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, SD2,20020501,20221231,   26,Miroslaw Mietus                                   
+25054,240590,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, SD2,19510101,20020630,   26,Miroslaw Mietus                                   
+25054,240611,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, SD2,19510101,20230131,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, SD1,19800101,20200229,     ,                    
+25060,239172,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109, SD2,19510101,20221231,   26,Miroslaw Mietus                                   
+25060,240611,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, SD2,19510101,20230131,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, SD1,19800101,20200229,     ,                    
+25152,239100,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, SD2,20040101,20221231,   26,Miroslaw Mietus                                   
+25152,240276,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, SD2,20020501,20221231,   26,Miroslaw Mietus                                   
+25152,240590,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, SD2,19510101,20020630,   26,Miroslaw Mietus                                   
+25152,240611,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, SD2,19510101,20230131,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, SD1,19800101,20200229,     ,                    
+ 9040,239100,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91, SD2,20040101,20221231,   26,Miroslaw Mietus                                   
+ 9040,240276,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110, SD2,20020501,20221231,   26,Miroslaw Mietus                                   
+ 9040,240590,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110, SD2,19510101,20020630,   26,Miroslaw Mietus                                   
+ 9040,240611,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, SD2,19510101,20230131,   26,Miroslaw Mietus                                   
+ 9040,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, SD1,19800101,20200229,     ,                    
+  209,240779,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107, SS3,19820510,20230131,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, SS4,19930325,20200229,     ,                    
+  209,222810,BABICE                                  ,PL,+52:16:04,+020:54:39, 107,FG17,20040907,20211123,   83,GSOD                                              
+  209,239102,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91,FG17,20131123,20221225,   26,Miroslaw Mietus                                   
+  209,239174,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109,FG17,19510424,20221124,   26,Miroslaw Mietus                                   
+  209,240278,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110,FG17,20220101,20221231,   26,Miroslaw Mietus                                   
+  209,240674,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110,FG17,19510124,19980927,   26,Miroslaw Mietus                                   
+  209,240695,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107,FG17,19510326,20211229,   26,Miroslaw Mietus                                   
+  209,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, FG5,19800101,20200229,     ,                    
+23808,222810,BABICE                                  ,PL,+52:16:04,+020:54:39, 107,FG17,20040907,20211123,   83,GSOD                                              
+23808,239090,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91,FG17,19510326,20220726,   26,Miroslaw Mietus                                   
+23808,239102,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91,FG17,20131123,20221225,   26,Miroslaw Mietus                                   
+23808,240278,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110,FG17,20220101,20221231,   26,Miroslaw Mietus                                   
+23808,240674,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110,FG17,19510124,19980927,   26,Miroslaw Mietus                                   
+23808,240695,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107,FG17,19510326,20211229,   26,Miroslaw Mietus                                   
+23808,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, FG5,19800101,20200229,     ,                    
+25054,222810,BABICE                                  ,PL,+52:16:04,+020:54:39, 107,FG17,20040907,20211123,   83,GSOD                                              
+25054,239090,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91,FG17,19510326,20220726,   26,Miroslaw Mietus                                   
+25054,239102,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91,FG17,20131123,20221225,   26,Miroslaw Mietus                                   
+25054,240278,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110,FG17,20220101,20221231,   26,Miroslaw Mietus                                   
+25054,240674,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110,FG17,19510124,19980927,   26,Miroslaw Mietus                                   
+25054,240695,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107,FG17,19510326,20211229,   26,Miroslaw Mietus                                   
+25054,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, FG5,19800101,20200229,     ,                    
+25060,239174,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109,FG17,19510424,20221124,   26,Miroslaw Mietus                                   
+25060,240695,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107,FG17,19510326,20211229,   26,Miroslaw Mietus                                   
+25060,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, FG5,19800101,20200229,     ,                    
+25152,222810,BABICE                                  ,PL,+52:16:04,+020:54:39, 107,FG17,20040907,20211123,   83,GSOD                                              
+25152,239090,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91,FG17,19510326,20220726,   26,Miroslaw Mietus                                   
+25152,239102,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91,FG17,20131123,20221225,   26,Miroslaw Mietus                                   
+25152,240278,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110,FG17,20220101,20221231,   26,Miroslaw Mietus                                   
+25152,240674,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110,FG17,19510124,19980927,   26,Miroslaw Mietus                                   
+25152,240695,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107,FG17,19510326,20211229,   26,Miroslaw Mietus                                   
+25152,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, FG5,19800101,20200229,     ,                    
+ 9040,222810,BABICE                                  ,PL,+52:16:04,+020:54:39, 107,FG17,20040907,20211123,   83,GSOD                                              
+ 9040,239090,WARSZAWA-BIELANY                        ,PL,+52:17:00,+020:58:00,  91,FG17,19510326,20220726,   26,Miroslaw Mietus                                   
+ 9040,239102,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91,FG17,20131123,20221225,   26,Miroslaw Mietus                                   
+ 9040,240278,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110,FG17,20220101,20221231,   26,Miroslaw Mietus                                   
+ 9040,240674,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110,FG17,19510124,19980927,   26,Miroslaw Mietus                                   
+ 9040,240695,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107,FG17,19510326,20211229,   26,Miroslaw Mietus                                   
+ 9040,912375,WARSZAWA-OKECIE                         ,PL,+52:10:00,+020:58:00, 106, FG5,19800101,20200229,     ,                    

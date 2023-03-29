@@ -1,0 +1,25 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 29-03-2023
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT (MISSING VALUE CODE IS -9999):
+
+ 01- 05 STAID  : Station identifier
+ 07- 46 STANAME: Station name
+ 48- 49 CN     : Country code (ISO3116 country codes)
+ 51- 59 LAT    : Latitude in degrees:minutes:seconds (+: North, -: South)
+ 61- 70 LON    : Longitude in degrees:minutes:seconds (+: East, -: West)
+ 72- 75 HGTH   : Station elevation in meters
+
+STAID,STANAME                                 ,CN,      LAT,       LON,HGHT
+
+  209,WARSZAWA-OKECIE                         ,PL,+52:09:46,+020:57:40, 107
+25054,WARSZAWA-FILTRY                         ,PL,+52:13:10,+020:59:57,  91
+25060,PULTUSK                                 ,PL,+52:04:04,+021:00:06, 109
+25152,WARSZAWA-OBSERWATORIUM II               ,PL,+52:13:00,+021:02:00, 110
+ 9040,WARSZAWA OBS.ASTR.                      ,PL,+52:13:12,+021:01:48, 110
+23808,BABICE                                  ,PL,+52:16:04,+020:54:39, 107

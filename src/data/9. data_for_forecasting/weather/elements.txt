@@ -1,0 +1,246 @@
+EUROPEAN CLIMATE ASSESSMENT & DATASET (ECA&D), file created on 29-03-2023
+THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+
+Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface
+air temperature and precipitation series for the European Climate Assessment.
+Int. J. of Climatol., 22, 1441-1453.
+Data and metadata available at http://www.ecad.eu
+
+FILE FORMAT:
+
+  01- 05 ELEID: Element identifier
+  07- 156 DESC: Description
+ 158- 172 UNIT: Unit
+
+ELEID,DESC                                                                                                                                                  ,UNIT
+
+  TX1,Maximum temperature unknown interval                                                                                                                  ,0.1 &#176;C    
+  TX2,Maximum temperature 18-18 UT                                                                                                                          ,0.1 &#176;C    
+  TX3,Maximum temperature 0-0 UT                                                                                                                            ,0.1 &#176;C    
+  TX5,Maximum temperature morning previous day 06,07,08 until morning today (shifted 1 day back by ECA staff)                                               ,0.1 &#176;C    
+  TX6,Maximum temperature morning today 06,07,08 until morning next day                                                                                     ,0.1 &#176;C    
+  TX7,Maximum temperature between 06 and 18 UT today                                                                                                        ,0.1 &#176;C    
+  TX8,Maximum temperature 21-21 CET                                                                                                                         ,0.1 &#176;C    
+  TX9,Maximum temperature morning previous day 09 h GMT until morning today (shifted 1 day back by ECA staff)                                               ,0.1 &#176;C    
+ TX10,Maximum temperature from 21:30 previous day until 21:30 CET                                                                                           ,0.1 &#176;C    
+ TX11,Maximum temperature morning today 9 UTC until morning next day                                                                                        ,0.1 &#176;C    
+ TX12,Maximum temperature 19-19 UTC                                                                                                                         ,0.1 &#176;C    
+ TX13,Maximum temperature within 00-24, 12-12 or 06-06                                                                                                      ,0.1 &#176;C    
+ TX14,Maximum temperature 0-0 LT based on hourly intervals                                                                                                  ,0.1 &#176;C    
+ TX15,Maximum temperature 17-17 CET                                                                                                                         ,0.1 &#176;C    
+ TX16,Maximum temperature 22-22 or 23-23 UT                                                                                                                 ,0.1 &#176;C    
+ TX17,Maximum temperature 18-18 CET                                                                                                                         ,0.1 &#176;C    
+ TX18,Maximum temperature 15-15 UTC                                                                                                                         ,0.1 &#176;C    
+ TX19,Maximum temperature 22-21 UT                                                                                                                          ,0.1 &#176;C    
+ TX20,Maximum temperature 19-19 CET                                                                                                                         ,0.1 &#176;C    
+ TX21,Maximum temperature  0-0 UT aggregated from 5,10,15 or 30 minut values                                                                                ,0.1 &#176;C    
+  TN1,Minimum temperature unknown interval                                                                                                                  ,0.1 &#176;C    
+  TN2,Minimum temperature 18-18 UT                                                                                                                          ,0.1 &#176;C    
+  TN3,Minimum temperature 0-0 UT                                                                                                                            ,0.1 &#176;C    
+  TN5,Minimum temperature morning previous day 06,07,08 until morning day                                                                                   ,0.1 &#176;C    
+  TN6,Minimum temperature between 18 UT previous day and 06 UT today                                                                                        ,0.1 &#176;C    
+  TN8,Minimum temperature 21-21 CET                                                                                                                         ,0.1 &#176;C    
+  TN9,Minimum temperature morning previous day 09 h GMT until morning today                                                                                 ,0.1 &#176;C    
+ TN10,Minimum temperature from 21:30 previous day until 21:30 CET                                                                                           ,0.1 &#176;C    
+ TN11,Minimum temperature 19-19 UTC                                                                                                                         ,0.1 &#176;C    
+ TN12,Minimum temperature within 00-24, 12-12 or 18-18                                                                                                      ,0.1 &#176;C    
+ TN13,Minimum temperature 0-0 LT based on hourly intervals                                                                                                  ,0.1 &#176;C    
+ TN14,Minimum temperature 17-17 CET                                                                                                                         ,0.1 &#176;C    
+ TN15,Minimum temperature 22-22 or 23-23 UT                                                                                                                 ,0.1 &#176;C    
+ TN16,Minimum temperature 15-15 UTC                                                                                                                         ,0.1 &#176;C    
+ TN17,Minimum temperature 22-21 UT                                                                                                                          ,0.1 &#176;C    
+ TN18,Minimum temperature 19-19 CET                                                                                                                         ,0.1 &#176;C    
+ TN19,Minimum temperature 0-0 UT aggregated from 5,10,15 or 30  minut values                                                                                ,0.1 &#176;C    
+  TG1,Mean temperature unknown interval                                                                                                                     ,0.1 &#176;C    
+  TG3,Mean temperature 0-0 UT                                                                                                                               ,0.1 &#176;C    
+  TG5,Mean temperature calculated as average of TN and TX                                                                                                   ,0.1 &#176;C    
+  TG6,Mean temperature calculated as weighted average of TN, TX and observations at 06, 12 and 18 UT (5 values)                                             ,0.1 &#176;C    
+  TG7,Mean temperature calculated as average of 3 or more observations each day                                                                             ,0.1 &#176;C    
+  TG8,Mean temperature calculated as weighted average of 06, 13 and 20 (twice) UTC                                                                          ,0.1 &#176;C    
+  TG9,Mean temperature 06-06 UTC                                                                                                                            ,0.1 &#176;C    
+ TG10,Mean temperature calculated as weighted average of 07:30, 14:30 and 21:30 (twice) CET                                                                 ,0.1 &#176;C    
+ TG11,Mean temperature 18-18 UT                                                                                                                             ,0.1 &#176;C    
+ TG12,Mean temperature calculated as average of 00, 06, 12, 18 UTC                                                                                          ,0.1 &#176;C    
+ TG13,Mean temperature calculated as average of 01, 07, 13 and 19 UT                                                                                        ,0.1 &#176;C    
+ TG14,Mean temperature calculated as average of 07, 14, 21, 21 CET                                                                                          ,0.1 &#176;C    
+ TG15,Mean temperature calculated as average of 8 observations                                                                                              ,0.1 &#176;C    
+ TG16,Mean temperature calculated as average of 07, 14, 21 CET                                                                                              ,0.1 &#176;C    
+ TG17,Mean temperature calculated as average of 09 LT, 21 LT, Tmax and Tmin                                                                                 ,0.1 &#176;C    
+ TG18,Mean temperature calculated as average of 08 LT, 19 LT, Tmax and Tmin                                                                                 ,0.1 &#176;C    
+ TG19,Mean temperature calculated as average of 21, 03, 09 and 15UTC                                                                                        ,0.1 &#176;C    
+ TG20,Mean temperature calculated as average of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                        ,0.1 &#176;C    
+ TG21,Mean temperature calculated as average of 24 hourly values (0 - 0 UTC)                                                                                ,0.1 &#176;C    
+ TG22,Mean temperature calculated as average of 24 hourly values 23-22 UT                                                                                   ,0.1 &#176;C    
+ TG23,Mean temperature 0 - 0 local time (with changes to winter and summer time)                                                                            ,0.1 &#176;C    
+ TG24,Mean temperature 0-0 UT average from 5,10,15 or 30 minut values                                                                                       ,0.1 &#176;C    
+  SS1,Daily sunshine                                                                                                                                        ,0.1 Hours      
+  SS2,Daily sunshine, unknown interval                                                                                                                      ,0.1 Hours      
+  SS3,Daily sunshine, 0-0 UT                                                                                                                                ,0.1 Hours      
+  SS4,Daily sunshine 18-18 UT                                                                                                                               ,0.1 Hours      
+  SS5,Daily sunshine 21-21 CET                                                                                                                              ,0.1 Hours      
+  SS6,Daily sunshine 0 - 0 local time (with changes to winter and summer time)                                                                              ,0.1 Hours      
+  SD1,Mean daily snow depth, 0-0 UT                                                                                                                         ,1 cm           
+  SD2,Mean daily snow depth, unknown interval                                                                                                               ,1 cm           
+  SD3,Snow depth at 6,7,8 am (local time)                                                                                                                   ,1 cm           
+  SD4,Snow depth at 07:30 CET                                                                                                                               ,1 cm           
+  SD5,Snow depth at 6 UTC                                                                                                                                   ,1 cm           
+  SD6,Snow depth at 12 UTC                                                                                                                                  ,1 cm           
+  SD7,Snow depth at 05:40 UTC                                                                                                                               ,1 cm           
+  SD8,Snow depth at 9 UTC                                                                                                                                   ,1 cm           
+  SD9,Mean daily snow depth, 22 UT-21 UT (24 values)                                                                                                        ,1 cm           
+ SD10,Snow depth at 07:00 CET                                                                                                                               ,1 cm           
+ SD11,Mean snow depth 6 - 6 UTC next day                                                                                                                    ,1 cm           
+ SD12, Average Snow depth 0 - 0 UT                                                                                                                          , cm            
+  RR1,Precipitation amount unknown interval                                                                                                                 ,0.1 mm         
+  RR2,Precipitation amount morning previous day 06,07,08,09 until morning today (shifted 1 day back by ECA staff)                                           ,0.1 mm         
+  RR3,Precipitation amount morning today 06,07,08 until morning next day                                                                                    ,0.1 mm         
+  RR4,Sum of 12-hourly precipitation of observations at 06 and 18 UT (2 values). Date of 18 UT                                                              ,0.1 mm         
+  RR5,Precipitation amount morning today 07:30 CET until morning next day                                                                                   ,0.1 mm         
+  RR6,Precipitation amount 18-18 UT (sum of 4 values)                                                                                                       ,0.1 mm         
+  RR7,Precipitation amount 0 - 0 UT                                                                                                                         ,0.1 mm         
+  RR8,Sum of 12-hourly precipitation of observations at 18 UT today and 6 UT tomorrow (2 values)                                                            ,0.1 mm         
+  RR9,Precipitation amount morning today 06:00 UTC until morning next day                                                                                   ,0.1 mm         
+ RR10,Precipitation amount within 00-24, 07-07 or 08-08                                                                                                     ,0.1 mm         
+ RR11,Precipitation amount morning today 05:40 UTC until morning following day                                                                              ,0.1 mm         
+ RR12,Precipitation amount 12 UT yesterday until 12 UT today                                                                                                ,0.1 mm         
+ RR13,Precipitation amount 22-22 or 23-23 UT                                                                                                                ,0.1 mm         
+ RR14,Precipitation amount 18 UT yesterday until 18 UT today                                                                                                ,0.1 mm         
+ RR15,Precipitation amount 21 UT yesterday until 21 UT today                                                                                                ,0.1 mm         
+ RR16,Precipitation amount 15 UTC yesterday until 15 UTC today                                                                                              ,0.1 mm         
+ RR17,Precipitation amount from 24 hourly values, 22-21 UT                                                                                                  ,0.1 mm         
+ RR18,Precipitation amount morning today 07:00 CET until morning next day                                                                                   ,0.1 mm         
+ RR19,Precipitation amount 0 - 0 local time (with changes to winter and summer time)                                                                        ,0.1 mm         
+ RR20,Precipitation amount from 12:00 pm to 12:00 pm next day in UTC                                                                                        ,0.1 mm         
+ RR21,Precipitation 0 - 0 UT sum from 5,10,15 or 30 minut values                                                                                            ,0.1 mm         
+ RHX3,Maximum hourly precipitation, 0-0 UT                                                                                                                  ,0.1 mm         
+ RHX1,Maximum hourly precipitation morning today 06,07,08 until morning next day                                                                            ,0.1 mm         
+ RHX2,Maximum hourly precipitation 0-0 UTC                                                                                                                  ,0.1 mm         
+ RHX3,Maximum hourly precipitation  0 - 0 UT                                                                                                                ,0.1 mm         
+  QQ2,Global radiation amount 0 - 0 UTC                                                                                                                     ,W/m2           
+  QQ3,Mean of 24 hourly global radiation measurements                                                                                                       ,W/m2           
+  QQ4,Mean of 1440 one-minute global radiation measurements                                                                                                 ,W/m2           
+  QQ5,24-hour average of global radiation                                                                                                                   ,W/m2           
+  QQ1,Global radiation amount 0 - 0 UTC                                                                                                                     ,W/m2           
+  QQ6,Global radiation amount 0 - 0 UTC derived from sunshine duration                                                                                      ,W/m2           
+  QQ7,Mean global radiation 0 - 0 local time (with changes to winter and summer time)                                                                       ,W/m2           
+  PP1,Sea level pressure at 12 UT                                                                                                                           ,0.1 hPa        
+  PP2,Mean sea level pressure, 0-0 UT                                                                                                                       ,0.1 hPa        
+  PP3,Mean sea level pressure calculated as weighted average of observations at 00, 06, 12 and 18 UT (4 values)                                             ,0.1 hPa        
+  PP4,Sea level pressure at 06 UT                                                                                                                           ,0.1 hPa        
+  PP5,Sea level pressure, mean of 13, 20 UT previous day and 7 UT current day (shifted 1 day back by ECA staff)                                             ,0.1 hPa        
+  PP7,Mean sea level pressure calculated as weighted average of observations at 00, 07, 13 and 18 UT (4 values)                                             ,0.1 hPa        
+  PP8,Mean sea level pressure unknown interval                                                                                                              ,0.1 hPa        
+  PP9,Sea level pressure, mean of 06, 13 and 20 UTC of the current day                                                                                      ,0.1 hPa        
+ PP10,Sea level pressure, mean of 7:30, 14:30 and 21:30 CET                                                                                                 ,0.1 hPa        
+ PP11,Sea level pressure, mean 18-18 UT                                                                                                                     ,0.1 hPa        
+ PP12,Sea level pressure, mean of 8:00 and 13:00 local time                                                                                                 ,0.1 hPa        
+ PP13,Mean sea level pressure, 21-21 UTC (8 values)                                                                                                         ,0.1 hPa        
+ PP14,Mean sea level pressure, 23-22 UTC (24 values)                                                                                                        ,0.1 hPa        
+ PP15,Mean sea level pressure, mean of 7, 13, 20 UT current day                                                                                             ,0.1 hPa        
+ PP16,Mean sea level pressure, mean of daily minimum and maximum pressure                                                                                   ,0.1 hPa        
+ PP17,Mean sea level pressure, average of 7, 14 and 19 UT                                                                                                   ,0.1 hPa        
+ PP18,Mean sea level pressure, average of 6, 12 and 18 UT                                                                                                   ,0.1 hPa        
+ PP19,Mean sea level pressure calculated as average of 8 observations                                                                                       ,0.1 hPa        
+ PP20,Mean sea level pressure, mean of 7, 14, 21 UT current day                                                                                             ,0.1 hPa        
+ PP21,Mean sea level pressure calculated as average of observations at 07, 13 and 18 UT (3 values)                                                          ,0.1 hPa        
+ PP22,Sea level pressure at 9 AM LT                                                                                                                         ,0.1 hPa        
+ PP23,Mean sea level pressure, 0-0 UTC (8 values)                                                                                                           ,0.1 hPa        
+ PP24,Mean sea level pressure, mean of 9, 15, 21 LT                                                                                                         ,0.1 hPa        
+ PP25,Mean sea level pressure, mean of 8, 14, 19 LT                                                                                                         ,0.1 hPa        
+ PP26,Mean sea level pressure, mean of 21, 03, 09 and 15UTC                                                                                                 ,0.1 hPa        
+ PP27,Mean sea level pressure, mean of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                                 ,0.1 hPa        
+ PP28,Mean sea level pressure, average of 7, 14 and 19 CET                                                                                                  ,0.1 hPa        
+ PP29,Mean sea level pressure 0 - 0 local time (with changes to winter and summer time)                                                                     ,0.1 hPa        
+ PP30,Mean sea level pressure  0 - 0 UT average from 5,10,15 or 30 minut values                                                                             ,0.1 hPa        
+ IWV1,Integrated Water Vapour daily mean                                                                                                                    ,0.01 kg/m2     
+  HU1,Relative humidity, mean of 0,7,13 18 UT current day                                                                                                   ,1 %            
+  HU2,Relative humidity, unknown interval                                                                                                                   ,1 %            
+  HU3,Mean relative humidity, 0-0 UT                                                                                                                        ,1 %            
+  HU4,Relative humidity, average of 07:30, 14:30 and 21:30 CET                                                                                              ,1 %            
+  HU5,Relative humidity, mean of 7, 14 and 21 UTC                                                                                                           ,1 %            
+  HU6,Relative humidity, mean 18-18 UT                                                                                                                      ,1 %            
+  HU7,Relative humidity, mean of 7, 14 and 21 CET                                                                                                           ,1 %            
+  HU8,Relative humidity, 23-22 UTC (24 values)                                                                                                              ,1 %            
+  HU9,Relative humidity, mean of 7, 14 and 19 UT                                                                                                            ,1 %            
+ HU10,Relative humidity at 9.00 AM                                                                                                                          ,1 %            
+ HU11,Relative humidity at 21.00                                                                                                                            ,1 %            
+ HU12,Relative humidity at 9 AM LT calculated from dewpoint and air temperature                                                                             ,1 %            
+ HU13,Mean relative humidity, 0-0 UTC (8 values)                                                                                                            ,1 %            
+ HU14,Relative humidity, mean of 9, 15, 21 LT                                                                                                               ,1 %            
+ HU15,Relative humidity, mean of 8, 14, 19 LT                                                                                                               ,1 %            
+ HU16,Relative humidity, mean of 21, 03, 09 and 15UTC                                                                                                       ,1 %            
+ HU17,Relative humidity, mean of 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                                       ,1 %            
+ HU18,Relative humidity, mean of 7, 14 and 19 CET                                                                                                           ,1 %            
+ HU19,Mean relative humidity 0 - 0 local time (with changes to winter and summer time)                                                                      ,1 %            
+ HU20,Mean relative humidity 0 - 0  UT  average from 5,10,15 or 30  minut values                                                                            ,0.1 mm         
+  FX1,Maximum 3 second wind gust, 0-0 UT                                                                                                                    ,0.1 m/s        
+  FX2,Maximum 2 second wind gust, 0-0 UT                                                                                                                    ,0.1 m/s        
+  FX3,Maximum 10 second wind gust, 18-18 UT                                                                                                                 ,0.1 m/s        
+  FX4,Maximum value of wind gust speeds 18 - 18 UT                                                                                                          ,0.1 m/s        
+  FX5,Maximum 3 second wind gust, 18-18 UT                                                                                                                  ,0.1 m/s        
+  FX6,Average wind gust from 23 UT previous day - 22 UT today (24 values)                                                                                   ,0.1 m/s        
+  FX7,Maximum value of 15-min wind speed measurements, 0-0 LT                                                                                               ,0.1 m/s        
+  FX8,Maximum 3 second wind gust, 9-9 LT                                                                                                                    ,0.1 m/s        
+  FX9,Maximum 3 second wind gust, 15-15 UTC                                                                                                                 ,0.1 m/s        
+ FX10,Maximum wind gust 22 UT - 21 UT                                                                                                                       ,0.1 m/s        
+ FX11,Maximum wind gust 0-0 CET                                                                                                                             ,0.1 m/s        
+ FX12,Maximum 3 second wind gust 0 - 0 local time (with changes to winter and summer time)                                                                  ,0.1 m/s        
+ FX13,Maximum value of  5,10,15 or 30 minut wind speed measurements, 0-0 UT                                                                                 ,0.1 m/s        
+ FX14,Maximum value of 1 second wind gust, 0-24CET                                                                                                          ,0.1 m/s        
+  FG1,Average wind speed of 24 hourly measurements of 10-min average (0-0 UT)                                                                               ,0.1 m/s        
+  FG2,Average wind speed of measurements at 06, 12, 18, (00) UTC                                                                                            ,0.1 m/s        
+  FG3,Average wind speed of 3 measurements at 06.30, 13.30 and 20.30 UTC                                                                                    ,0.1 m/s        
+  FG4,Average wind speed, mean of 7, 14 and 21 CET                                                                                                          ,0.1 m/s        
+  FG5,Average wind speed 18 - 18 UT, 8 3-hourly observations                                                                                                ,0.1 m/s        
+  FG6,Average wind speed, mean of 4 10-min averages of 00, 07, 13 and 18 UT                                                                                 ,0.1 m/s        
+  FG7,Average wind speed of 24 hourly measurements (6 10-min average per hour) 0-0 UT                                                                       ,0.1 m/s        
+  FG8,Average 10-minute wind speed from 23 UT previous day - 22 UT today (24 values)                                                                        ,0.1 m/s        
+  FG9,Average from 07h to 07h through a mechanical counter                                                                                                  ,0.1 m/s        
+ FG10,Average wind speed of 24 hourly measurements of 15-min average (0-0 LT)                                                                               ,0.1 m/s        
+ FG11,wind speed at 9 AM LT                                                                                                                                 ,0.1 m/s        
+ FG12,Average wind speed of 8 measurements of 10-min average (0-0 UT)                                                                                       ,0.1 m/s        
+ FG13,Average wind speed, mean of 9, 15 and 21 LT                                                                                                           ,0.1 m/s        
+ FG14,Average wind speed, mean of 8, 14 and 19 LT                                                                                                           ,0.1 m/s        
+ FG15,Average wind speed of measurements at 21, 03, 09 and 15UTC                                                                                            ,0.1 m/s        
+ FG16,Average wind speed of measurements at 18, 21, 00, 03, 06, 09, 12 and 15UTC                                                                            ,0.1 m/s        
+ FG17,Average wind speed unknown interval                                                                                                                   ,0.1 m/s        
+ FG18,Average wind speed, mean of 7, 14 and 19 CET                                                                                                          ,0.1 m/s        
+ FG19,Average wind speed 0 - 0 local time (with changes to winter and summer time)                                                                          ,0.1 m/s        
+ FG20,Average wind speed 0 - 0 UT  average from 5,10,15 or 30 minut values                                                                                  ,0.1 m/sec      
+  DD1,Average vectorial wind direction calculated from 3 measurements at 06, 12 and 18 UTC.                                                                 ,degrees        
+  DD2,Wind direction at time of maximum gust                                                                                                                ,degrees        
+  DD3,Average vectorial wind-speed-weighted wind direction calculated from 3 measurements at 06.30, 13.30 and 20.30 UTC                                     ,degrees        
+  DD4,Wind direction at 12 UTC                                                                                                                              ,degrees        
+  DD5,Average wind direction, mean of 00, 07, 13 and 18UT                                                                                                   ,degrees        
+  DD6,Average vectorial 10-minutes wind direction, 0 - 0 UTC                                                                                                ,degrees        
+  DD7,Average vectorial 2-minute wind direction from 23 UT previous day - 22 UT today (24 values)                                                           ,degrees        
+  DD8,Wind direction at 14 LT                                                                                                                               ,degrees        
+  DD9,Wind direction at 9 AM LT                                                                                                                             ,degrees        
+ DD10,Wind direction at 15 LT                                                                                                                               ,degrees        
+ DD11,Mean wind direction 0 - 0 local time (with changes to winter and summer time)                                                                         ,degrees        
+ DD12,Mean wind direction 0 - 0 UT                                                                                                                          ,degrees        
+ DD13,Average wind direction, unknown interval                                                                                                              ,degrees        
+ DD14,Prevailing wind direction, 0-24CET                                                                                                                    ,degrees        
+  CC1,Mean daily cloud cover, 0-0 UT                                                                                                                        ,oktas          
+  CC2,Mean daily cloud cover, mean of 7, 13, 18 UT current day                                                                                              ,oktas          
+  CC3,Mean daily cloud cover, unknown interval                                                                                                              ,oktas          
+  CC4,Mean daily cloud cover, mean of 7, 13, 20 UT current day                                                                                              ,oktas          
+  CC5,Mean daily cloud cover, average of 07:30, 14:30 and 21:30 CET                                                                                         ,oktas          
+  CC6,Mean daily cloud cover, mean of 7, 14 and 21 UTC                                                                                                      ,oktas          
+  CC7,Mean daily cloud cover, 18-18 UT                                                                                                                      ,oktas          
+  CC8,Mean daily cloud cover, average of 00, 13 and 18 UT                                                                                                   ,oktas          
+  CC9,Mean daily cloud cover, average of 0, 6, 12 and 18 UTC                                                                                                ,oktas          
+ CC10,Mean daily cloud cover, 23-23 UTC (24 values)                                                                                                         ,oktas          
+ CC11,Mean daily cloud cover, average of 3-hourly values, 0-0 UTC                                                                                           ,oktas          
+ CC12,Mean daily cloud cover, average of 7, 14 and 19 UT                                                                                                    ,oktas          
+ CC13,Mean daily cloud cover, average of 6, 12 and 18 UTC                                                                                                   ,oktas          
+ CC14,Mean daily cloud cover, mean of 7, 14, 21 CET                                                                                                         ,oktas          
+ CC15,Mean daily cloud cover, mean of 8, 14 CET                                                                                                             ,oktas          
+ CC16,Mean daily cloud cover, mean of 9, 15 CET                                                                                                             ,oktas          
+ CC17,Mean daily cloud cover, average of 3,6,9,12,15,18,21,24 UT                                                                                            ,oktas          
+ CC18,Mean daily cloud cover, average of 9, 15, 21 LT                                                                                                       ,oktas          
+ CC19,Mean daily cloud cover, average of 8, 14, 19 LT                                                                                                       ,oktas          
+ CC20,Cloud cover measured at 9 AM LT                                                                                                                       ,oktas          
+ CC21,Mean daily cloud cover, 00-21 LT (8 values)                                                                                                           ,oktas          
+ CC22,Mean daily cloud cover, 21 UT-18 UT (8 values)                                                                                                        ,oktas          
+ CC23,Mean daily cloud cover, average of 7, 14 and 19 CET                                                                                                   ,oktas          
