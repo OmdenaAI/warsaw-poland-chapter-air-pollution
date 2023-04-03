@@ -75,7 +75,7 @@ HomePage_ProjectLeads='''
 |--|--|--|
 | Data Cleaning | Kojo Kesse, Vidushi Khanna |  |
 | Data-Preprocessing | Catalina, Chidansh M |  |
-| Exploratory Data Analysis (EDA) | Yahya Farooqui |  |
+| Exploratory Data Analysis (EDA) | Joseph Antony |  |
 | Modeling | shubhankar sharma, sagar |  | 
 | Deployment | Vinod |  | 
 '''
