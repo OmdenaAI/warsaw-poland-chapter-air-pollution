@@ -7,7 +7,7 @@
 $ pip install streamlit
 ```
 
-## Once Streamlit is installaed. 
+## Once Streamlit is installed. 
 
 ```bash
 $ pip install --upgrade streamlit
