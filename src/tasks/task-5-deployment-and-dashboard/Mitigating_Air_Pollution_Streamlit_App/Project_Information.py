@@ -71,13 +71,13 @@ HomePage_ChapterLead='''
 
 HomePage_ProjectLeads='''
 
-| Process Name | Lead Name | Co-Leads |
-|--|--|--|
-| Data Cleaning | Kojo Kesse, Vidushi Khanna |  |
-| Data-Preprocessing | Catalina, Chidansh M |  |
-| Exploratory Data Analysis (EDA) | Joseph Antony |  |
-| Modeling | shubhankar sharma, sagar |  | 
-| Deployment | Vinod |  | 
+| Process Name | Lead Name | 
+|--|--|
+| Data Cleaning | Kojo Kesse, Vidushi Khanna |  
+| Data-Preprocessing | Catalina, Chidansh M |  
+| Exploratory Data Analysis (EDA) | Joseph Antony |  
+| Modeling | Shubhankar Sharma, Sagar |  
+| Deployment | Vinod | 
 '''
 
 HomePage_Content_Header=f"""
