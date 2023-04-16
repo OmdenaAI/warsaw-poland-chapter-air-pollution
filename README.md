@@ -1,95 +1,71 @@
 # Mitigating Air Pollution in Poland Through Machine Learning
 
-## Problem Statement
+## Project summary
 
-### Background
+The aim of this project was to investigate the primary factors responsible for air pollution in Poland and develop an effective tool to predict air quality. To achieve this, three datasets were utilized: daily air quality data, daily weather data, and Static annual data from the Polish Central Statistical Office, all from 2017 to 2021. The annual data provided information on various features related to human acitivities, such as area by land use, crop production, emission of particulates and pollutant gases, forest area and fires, population density, production of electricity, vehicle types, and air pollution reduction systems. To achieve the project's objectives, a methodology was adopted, which involved translating and cleaning the data, combining data from different years and pollutants, followed by data analysis and machine learning. The cleaned datasets were analyzed to identify the key factors contributing to air pollution in Poland.
 
-According to the Air Quality in Europe 2022 report by the European Environment Agency (EEA), air pollution is the largest environmental health risk in Europe and significantly impacts the health of the European population. There are several types of compounds considered as air pollutants. On the one hand, there is particulate matter (PM) of different sizes (PM2.5, PM10) consisting of solid and liquid particles suspended in air. On the other hand, also common gases, such as nitrogen dioxide (NO2), carbon dioxide (CO2), or ozone (O3), contribute to air pollution. The different pollutant quantities can further be combined into a single air quality index, such as the common air quality index (CAQI) used in the European Union.
+The results revealed that the concentration of pollutants varies during different times of the year. PM10 and PM2.5 are primarily emitted from sources such as solid fuel combustion, road traffic, dust from construction sites, and agricultural activities. Industrial plants such as coking plants, steel mills, and coal-fired power plants are also significant sources of air pollution in many places in Poland. NO2 is primarily emitted from combustion processes in energy production, manufacturing industry, and road transport, with diesel engines being a significant contributor to nitrogen oxide emissions. O3 is a secondary pollutant formed by the influence of solar radiation on a combination of airborne pollutants, including NOx and VOCs.
 
-### Problem
+To standardize the measurement of air quality and communicate it to the public, the Common Air Quality Index (CAQI) was used. It considers various pollutants, including PM10, PM2.5, O$_3$, NO$_2$, and SO$_2$, and assigns a value to indicate the level of air pollution. The CAQI levels are higher during weekdays and lower during weekends, potentially indicating that weekly pollutant concentrations depend on human activities.
 
-Air pollution is a particular problem in Poland. The annual EEA reports on air quality show that Poland is among the countries with the worst air quality in Europe. Bad air quality affects people’s lives and constitutes a considerable health risk. Therefore, mitigating air pollution could improve quality of life and lead to an overall healthier society. At the same time, this would reduce costs for the Polish health care system.
+The dataset was preprocessed, and two datasets were created for training classification and regression models. Various techniques, including feature engineering, feature selection, cross-validation, and hyperparameter optimization, were utilized. A range of models were trained and tested to predict CAQI classes and indexes, and their performance was evaluated using metrics such as F1 score and RMSE. Finally, an XGBoost regressor model was used to forecast future CAQI levels of Warsaw, and the model’s short-term forecasts was really close to the actual CAQI levels for the forecasting period.
 
-An important step towards mitigation is the identification of main factors and causes of air pollution specific to Poland. By using local time-series data on air pollutants together with other relevant country-specific data, an AI assisted approach could yield valuable insights in this matter. In particular, a machine-learning model for air quality prediction could give policy makers a simple but powerful tool to help tackle the issue of air pollution in Poland.
+Daily monitoring and recording of the various features that affect air quality in Poland can play a significant role in identifying the overall air quality levels. By analyzing and interpreting such data, policymakers and stakeholders can gain valuable insights into the trends and patterns of air pollution in the region. This information can help them identify areas of concern and take appropriate actions to mitigate the impact of air pollution on public health and the environment. Overall, a data-driven approach to air quality monitoring and policymaking can contribute significantly to creating a healthier and sustainable environment in Poland.
 
-### Project Goals
+More details of this project can be found in the `project report` inside the `report` folder.
 
-* Identification of main factors contributing to air pollution in Poland
-* Prototype a simple machine-learning model to predict air quality (classification or regression model, conventional or deep learning model)
-* Open source GitHub repository
+
+## Data Sources
+
+We used publicly available data sources:
+
+* **Local time-resolved (daily) air quality data**: from Chief Inspectorate for Environmental Protection (https://powietrze.gios.gov.pl/pjp/archives) - in Polish
+
+* **Local time-resolved (daily) weather data:** from European Climate Assessment and Dataset (ECAD) project (https://www.ecad.eu/) - in English
+
+* **Local annual data of contributing factors:** from GUS - BDL (https://bdl.stat.gov.pl/bdl/start) - in English
+
 
 ## Task overview
 
+This project was divided into different tasks:
+
 * **Task 1 - Data Cleaning:**
-    * Clean and combine data files from the provided sources
-    * obtain three tabular datasets for (i) pollutant data, (ii) weather data, and (iii) general regional data
+    * Cleaning data files from the data sources
+    * Obtaining combined tabular datasets for (i) pollutant data, (ii) weather data, and (iii) general statistical data
 
 
 * **Task 2 - Data Preprocessing:**
-    * Merge locations of measurement stations for pollutants and weather appropriately
-    * Combine them with the general regional data
-    * Obtain a single tabular data file that can be used for EDA and modelling
+    * Merging locations of measurement stations for pollutants and weather appropriately
+    * Combining them with the general statistical data
+    * Obtaining a single tabular data file that can be used for EDA and modelling
     
-
+    
 * **Task 3 - EDA:**
+    * Filling missing values
     * Data visualization and time-series analysis
-    * pin down main causes and possible hotspots of air pollution
+    * Pinning down main causes and possible hotspots of air pollution
 
 
 * **Task 4 - Modelling:**
-    * Develop a machine-learning model (conventional or deep learning) to predict air quality based on the given features
-    * Can be either a classification model (good or bad air quality) or a regression model
-    * Use the trained model to analyze feature importance to identify main factors contributing to air pollution in Poland
+    * Developing a machine-learning model to predict air quality based on the given features
+    * Both classification models (air quality categories) and a regression models
+    * Using the trained models to analyze feature importance to identify main factors contributing to air pollution in Poland
 
-
-## Contribution Guidelines
-- Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
-- If you're creating a task, go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
-    - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
-    - Create a README.md with a table containing information table about all contributions for the task.
-- If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
-- Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
-- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
-
-## Project Structure
+## Repository Structure
 
     ├── LICENSE
-    ├── README.md          <- The top-level README for developers/collaborators using this project.
-    ├── original           <- Original Source Code of the challenge hosted by omdena. Can be used as a reference code for the current project goal.
+    ├── README.md          <- The top-level README of this project.
     │ 
     │
-    ├── reports            <- Folder containing the final reports/results of this project
-    │   └── README.md      <- Details about final reports and analysis
+    ├── report             <- Folder containing the final report of this project
     │ 
     │   
     ├── src                <- Source code folder for this project
         │
-        ├── data           <- Datasets used and collected for this project
+        ├── data           <- Datasets used in this project
         │   
-        ├── docs           <- Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
-        │
-        ├── references     <- Data dictionaries, manuals, and all other explanatory references used 
-        │
         ├── tasks          <- Master folder for all individual task folders
         │
-        ├── visualizations <- Code and Visualization dashboards generated for the project
-        │
-        └── results        <- Folder to store Final analysis and modelling results and code.
---------
-
-## Folder Overview
-
-- Original          - Folder Containing old/completed Omdena challenge code.
-- Reports           - Folder to store all Final Reports of this project
-- Data              - Folder to Store all the data collected and used for this project 
-- Docs              - Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
-- References        - Folder to store any referneced code/research papers and other useful documents used for this project
-- Tasks             - Master folder for all tasks
-  - All Task Folder names should follow specific naming convention
-  - All Task folder names should be in chronologial order (from 1 to n)
-  - All Task folders should have a README.md file with task Details and task goals along with an info table containing all code/notebook files with their links and information
-  - Update the [task-table](./src/tasks/README.md#task-table) whenever a task is created and explain the purpose and goals of the task to others.
-- Visualization     - Folder to store dashboards, analysis and visualization reports
-- Results           - Folder to store final analysis modelling results for the project.
-
-
+        └── visualizations <- Code and Visualization dashboards generated for the project
+        
